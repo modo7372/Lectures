@@ -95,9 +95,7 @@ months later), a colonoscopy should be electively
 performed to exclude competing diagnoses, 
 particularly neoplasia
 
-
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
-
+[Blank or Non-text Page]
 
 Treatment -Uncomplicated 
 diverticulitis
@@ -226,7 +224,10 @@ bipolar coagulation endoclips,fibrin sealant,and band
 ligation
 
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+‘hverteutim
+
+Cl A
 
 
 • If endoscopic therapy is not effective or durable, 

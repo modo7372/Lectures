@@ -54,7 +54,23 @@ Vascular diseases of the liver
 
 ## Page 7
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+Liver
+
+Portal vein
+
+‘Superior
+mesenteric
+vein
+
+Intestines
+
+Spleenic
+vein
+
+Inferior
+mesenteric
+vein
 
 
 ## Page 8
@@ -221,7 +237,20 @@ Diagnosis requires unequivocal radiological confirmation of hepatic venous flow 
 
 ## Page 16
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+inusoids
+
+Hepatic venous congestion. ———_______»
+
+Thrombus (3)
+
+Increased sinusoidal
+pressure and cellular hypoxia
+
+|
+
+eo Liver cell damage
+Portal hypertension «——— (can develop into nutmeg liver)
 
 
 ## Page 17
@@ -485,7 +514,10 @@ Grade of recommendation
 
 ## Page 29
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+Cy
+
+Chronic Tumor related
 
 
 ## Page 30

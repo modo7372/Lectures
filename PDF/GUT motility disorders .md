@@ -79,6 +79,30 @@ ogilvie syndrome
 
 ## Page 4
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+‘Summary Table
+
+Disorder Type
+
+Acalasa
+
+Cnstroparess
+
+Key Pathogenesis,
+Loss of intibitory neurons
+Impaced gastne emstyng
+Novomesculr fae
+1uced colon contractions
+Pelvic for ineoorsnaton
+
+‘cite colonic dation
+
+Main Symptoms First-Line Testment
+
+oe
+coe co
+Sonny no
+
+Distenson perforation isk Neostigmine
 
 

@@ -15,6 +15,8 @@ Most oral clefts are non syndromic. However, syndromes account for approximately
 
 ## Slide 3
 
+> [Image OCR]: ‘copys oy
+
 ---
 
 ## Slide 4
@@ -53,6 +55,8 @@ A simple chest radiograph
 ---
 
 ## Slide 8
+
+> [Image OCR]: Oe
 
 ---
 
@@ -192,9 +196,20 @@ Diagnosis of imperforate anus is almost always made during the first newborn phy
 
 ## Slide 27
 
+> [Image OCR]: CROSS SECTION
+OF NORMAL PELVIS
+
+ANORECTAL MALFORMATION
+
+Rectum
+connected
+to urethra
+
 ---
 
 ## Slide 28
+
+> [Image OCR]: INVERTOGRAM - PORTABLE
 
 ---
 
@@ -207,6 +222,8 @@ ANAL FISSURE
 occur in all age groups, they are most common in children
 Anal fissure is one of the most common benign anorectal diseases and one of the most common causes of anal pain and anal bleeding.
 Anal fissures most often affect infants and middle-age individuals
+
+> [Image OCR]: ‘nal Opening
 
 ---
 
@@ -242,6 +259,8 @@ TREATMENT
 Most primary acute anal fissures, as well as some primary chronic fissures, respond to medical management
 chronic fissures more often require surgical intervention
 Secondary fissures require a detailed evaluation for and treatment of the underlying condition causing them
+
+> [Image OCR]: medical management
 Stool softener or laxative ,fiber, sitz bath, topical analgesic)
 
 ---
@@ -256,6 +275,24 @@ A hemorrhoid is a varicose vein from either the internal or external rectal plex
 classified into two subtypes: external and internal
 External hemorrhoids involve the skin of the anoderm, Internal hemorrhoids are above the dentate line
 
+> [Image OCR]: Internal ana) ————_/
+sphincter
+
+External anal ———- >
+
+sphincter \
+
+Internal hemarrhoid ——$——— 4
+Pectinate line eo,
+
+Anaderrm ——____<— SSS,
+
+Perianal
+bload vessel
+
+Prolapsing intemal” S\ External
+hemorhot fremartoia
+
 ---
 
 ## Slide 37
@@ -266,6 +303,8 @@ A tender, grape-like protrusion is noted on examination
 Some patients will present with pruritus.
 Treatment
 resolve with conservative treatment or limited intervention
+
+> [Image OCR]: anal bleeding (usually hematochezia).
 
 ---
 
@@ -284,6 +323,11 @@ More common between infancy and four years of age, with the highest incidence in
 TYPES
 Type I, also called false procidentia, partial, or mucosal prolapse, involves protrusion of the mucosa only and usually is less than 2 cm long.
 Type II, also known as true procidentia, or complete prolapse, involves full thickness extrusion of the rectal wall and is characterized by concentric folds in the prolapsed mucosa
+
+> [Image OCR]: Complete rectal prolapse
+
+The everted rectal wall appears as a tubular mass made up
+of several concentric mucosal folds.
 
 ---
 
@@ -326,6 +370,10 @@ HAMARTOMATOUS POLYPS
 Juvenile polyps
 Isolated juvenile polyps are most common in the rectosigmoid colon but can occur in the proximal colon
 Juvenile polyps are hamartomatous lesions that consist of a lamina propria and dilated cystic glands rather than increased numbers of epithelial cells
+
+> [Image OCR]: ema
+IA MDL ¢ ‘ONSTANT
+sac
 
 ---
 

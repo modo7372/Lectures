@@ -300,6 +300,9 @@ Some disorders, including sickle cell disease, can present with either unconjuga
 ## Slide 24
 Hepatitis
 
+> [Slide Snapshot OCR]:
+Hepatitis
+
 ---
 
 ## Slide 25
@@ -464,6 +467,9 @@ HAV infection in children is usually a minor and self-limited infection requirin
 ---
 
 ## Slide 36
+Thank You
+
+> [Slide Snapshot OCR]:
 Thank You
 
 ---

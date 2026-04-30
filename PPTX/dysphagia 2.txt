@@ -1,7 +1,15 @@
 dysphagia
 
+> [Slide Snapshot OCR]:
+dysphagia
+
 ---
 
+
+> [Image OCR]: Stricture ——" })
+in esophagus
+
+ure 9. A, Esophageal stricture showing obstruction of food bolus; B, barium swallow.
 
 ---
 
@@ -83,14 +91,66 @@ Manometry
 ---
 
 
+> [Image OCR]: Esophagus =
+
+ee |
+
+Figure 12. A, Diffuse esophageal spasm; B, barium swallow x-ray.
+
 ---
 
 
+> [Image OCR]: Esophageal diverticulum; B, barium swallow x-ray; C, endoscopic view
+
+annel that results from a structural abnormality, as opposed to a motor dis
+ecifically refers to a narrowing that results from a thickening of the wall of
+w the lumen. Stenosis tends to cause more difficulty in swallowing solids tl
+ence among the different types of stenotic lesions is the rate of progressic
+
+e band protruding into the lumen. These rings or webs are typically compa
+al or acquired, and may occur anywhere in the pharynx or esophagus. The
+ion of the esophagus and stomach. Named for the radiologist who descrit
+el by about 50%. A ring-like band located elsewhere in the pharynx or esc
+pically cause intermittent dysphagia for solids, which may remain stable
+
+Schatzki's ring; B, barium swallow x-ray; C, endoscopic
+
+gia of sudden onset, separated by symptom-free periods (without swallow
+
+‘icular problems with foods generally considered to be soft, such as pasta
+2d a limited choice of foods (e.g., when dining out), or is distracted by con
+
+nost common cause of inflammatory strictures. Inflammation resulting frorr
+1ageal wall narrows the channel, producing the dysphagia for solids chara
+; or webs (Figure 18). Unless the cause of inflammation has been remover
+
+Esophagus WAR — Exosions
+
 ---
 
 
+> [Image OCR]: ure 10. A, Zenker’s diverticulum; B, esophageal diverticulum.
+
 ---
 
+
+> [Image OCR]: Pharyngeal
+muscles:
+
+Middle
+constrictor One
+muscle
+
+\ Inferior
+constrictor
+muscle
+
+~Zenker's
+Trachea
+
+Esophagus
+
+}5. A, Zenker's diverticulum; B, barium x-ray study.
 
 ---
 
@@ -215,17 +275,159 @@ Esophageal manometry: Synchronous contractions and failure to relax
 ---
 
 
+> [Image OCR]: Dilated
+esophageal
+tumen
+
+Esophago-
+gastric
+junction (EG)
+
+Lumen (EG)
+
+Scope view
+
+|. A, Anatomic findings in achalasia; B, endoscopic image; B, radiographic image.
+
 ---
 
 
+> [Image OCR]: 308M 2PM GPM 10PM 2M 6H
+
+2 26. A, pH monitor placement. Inset shows the catheter position in the esophagus;
+yr tracing; C, abnormal continuous pH monitor tracing.
+
 ---
 
 
+> [Image OCR]: A 8 c
+\
+
+savary | \
+Jilator..
+: suplaced
+
+over
+-sophageal Buidewire Larger
+tricture dilators.
+
+may be
+
+Dilator
+inserted, ‘
+expanding N
+Stricture
+
+2 27. Endoscopic dilation, Technique for Savary dilation of an esophageal stricture
+
+\ B c
+Maloney
+dilator...
+MJ \
+ilat \ inserted, e
+=m expanding
+a stricture
+sophageal
+rt \
+Larger
+\ dilators
+\ may be
+\ inserted
+
+@ 28. Endoscopic dilation. Technique for Maloney dilation of an esophageal stricture
+
 ---
 
 
+> [Image OCR]: XN
+
+lation expending
+a stricture
+
+ophageal || \
+
+ricture
+
+Larger
+
+dilators
+may be
+inserted
+
+28. Endoscopic dilation. Technique for Maloney dilation of an esophageal stricture
+
+hy ce oi}
+Scope \
+\
+y
+. 9 pit 11s
+(balloon) catheter
+catheter inserted
+\ 1 into stricture... WW balloon
+ted =e Esophageal soon
+phagus stricture inflated... \
+
+\
+
+29. Endoscopic dilation. Technique for through-the-scope (TTS) dilation of an esor
+e
+
+of large diameter balloon dilators has been used for decades to weaken th
+ageal sphincter has been successful in patients with isolated upper esoph
+
+‘ so impaired that they are unable to take adequate nutrition safely by mc
+teral feeding, most often provided by an endoscopically placed gastroston
+iration. At the same time, measures are taken to correct the swallowing pr
+
+ny patient who has lost substantial amounts of weight or has had recurrent
+ates that the problem can be substantially improved in a short period of tin
+ime to explain that malnutrition and excessively prolonged meals have as
+y tube does not prevent further efforts to treat the swallowing problem anc
+
 ---
 
+
+> [Image OCR]: eurotoxin botulinum toxin has been successfully used in patients with ach
+nd has earned a place in the management of patients considered poor car
+yeal sphincter causing a chemical denervation of the sphincter. Twenty to
+‘with a sclerotherapy needle passed through the endoscope (Figure 35). /
+d duration of effect, lasting on average one year. Repeat treatment is nece
+een reports of skin rashes noted after treatment.
+
+ne
+
+Dilated
+esophagus Injection site
+(squamo-columnar,
+junction)
+Needle injects
+
+botulinum toxin
+into lower esophageal
+sphincter (stricture)
+
+u
+bY
+
+schnique for intrasphincteric injection of botulinum toxin for achalasia.
+
+scopic or a thorascoscopic technique has significantly decreased the morb
+nodified Heller myotomy is typically the surgical procedure performed. A Ic
+igh to result in gastroesophageal reflux. In many cases, an antireflux proc
+
+A \_ Esophageal B
+dilation’
+Myotomy, pear
+1ucOs:
+incision throug!
+\ myoton
+
+Lower ™
+
+esophageal
+sphineter Stomech
+
+urgical technique for single anterior lateral myotomy.
 
 ---
 
@@ -258,6 +460,8 @@ H pylori eradication distal vs. proximal disease
 
 ---
 
+
+> [Image OCR]: \, esophageal cancer; B, barium swallow x-ray; C, endoscopic view.
 
 ---
 

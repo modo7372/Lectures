@@ -175,6 +175,11 @@ Biopsy by spyglass
 
 ## Slide 24
 
+> [Slide Snapshot OCR]:
+4
+
+/
+
 ---
 
 ## Slide 25

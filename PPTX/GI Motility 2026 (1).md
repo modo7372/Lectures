@@ -99,6 +99,16 @@ SMA syndrome: Loss of mesenteric fat pad (e.g., after rapid weight loss) → du
 
 ## Slide 12
 
+> [Image OCR]: “i Aorta
+
+Superior mesenteric artery
+
+Aortomesenteric angle
+
+Duodenum
+
+Normal Superior mesenteric artery syndrome
+
 ---
 
 ## Slide 13
@@ -138,6 +148,21 @@ Ogilvie syndrome: Acute colonic dilation without mechanical obstruction; associ
 ---
 
 ## Slide 17
+
+> [Image OCR]: 083y|F, ites ce \ LCH PALM SPRINGS
+- SCENARIA View
+
+‘Ace:30072290004000
+
+srs:
+
+Img:t
+
+25cm
+Zoom : 132.81%
+
+WL: 170
+‘WW : 350
 
 ---
 
@@ -187,9 +212,68 @@ Adult (rare): Lifelong severe constipation, enterocolitis risk.
 
 ## Slide 24
 
+> [Image OCR]: Summary Table
+
+Disorder Type
+Achalasia
+
+Gastroparesis
+
+CIPO
+
+Slow transit constipation
+Dyssynergic defecation
+
+Ogilvie syndrome
+
+Key Pathogenesis
+
+Loss of inhibitory neurons
+
+Impaired gastric emptying
+
+Neuromuscular failure
+
+Reduced colonic contractions
+
+Pelvic floor incoordination
+
+Acute colonic dilation
+
+Main Symptoms
+
+Dysphagia to liquids/solids
+
+Nausea, early satiety
+
+Pseudo-obstruction
+
+Infrequent stools
+
+Incomplete evacuation
+
+Distension, perforation risk
+
+First-Line Treatment
+
+POEM or Heller myotomy
+
+Metoclopramide + dietary
+
+Octreotide, TPN
+
+Prucalopride, laxatives
+
+Biofeedback
+
+Neostigmine
+
 ---
 
 ## Slide 25
+Thank you
+
+> [Slide Snapshot OCR]:
 Thank you
 
 ---

@@ -106,9 +106,7 @@ performed to exclude competing diagnoses,
 particularly neoplasia
 
 ## Page 11
-
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
-
+[Blank or Non-text Page]
 
 ## Page 12
 Treatment -Uncomplicated 
@@ -256,7 +254,10 @@ ligation
 
 ## Page 30
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+‘hverteutim
+
+Cl A
 
 
 ## Page 31

@@ -52,19 +52,141 @@ IBD flares almost affect patients’ quality of life [146]. despite the availabi
 ## Slide 9
 UC
 
+> [Slide Snapshot OCR]:
+UC
+
+Disease severity
+
+Bowel movement
+Blood in stool
+Fever
+
+Pulse rate
+Anaemia
+
+ESR
+
+Endoscopy
+
+< 4 per day
+small
+
+none
+
+normal
+
+mild
+
+< 30mmiIst hr
+
+Erythema, decreased
+vascular pattern, fine
+granularity
+
+4-6 per day
+moderate
+
+< 37.5 *C
+<90 beats/min
+
+> 75%
+
+Marked erythema,
+coarse granularity,
+absent vascular
+markings, contact
+bleed and ulcerations
+
+> 6 perday
+severe
+>37.5*C
+
+>90 beats/min
+</= 75%
+>30mm Ist hr
+
+Spontaneous bleed
+and ulcerations
+
 ---
 
 ## Slide 10
 UC
+
+> [Slide Snapshot OCR]:
+Mayo Score of Endoscopic
+
+Severity of Disease
+(used in ASCEND, MATRIX, ACT Studies)
+
+1 = MILD
+
+2 = MODERATE
+
+granularity
+
++ Intact vascular
+pattern
+
+Erythema
+Diminished
+
+or absent
+vascular
+markings
+
+Mild granularity
+
+Marked erythema
+
+Absent vascular
+markings
+Granularity
+
+Bleeds with minimal-
+
+trauma (friability)
+No ulcerations
+
+3 = SEVERE
+
+Marked erythema
+Absent vascular
+markings
+Granularity
+Friability
+Spontaneous
+bleeding in the
+lumen
+Ulcerations
 
 ---
 
 ## Slide 11
 UC
 
+> [Slide Snapshot OCR]:
+UC
+
+Score | Disease activity | Endoscopic features
+
+0 Normal or inactive | None
+
+1 Mild Erythema, decreased vascular
+pattern, mild friability
+
+2 Moderate Marked erythema, absent vascu-
+
+lar pattern, friability, erosions
+
+3 Severe Spontaneous bleeding, ulceration
+
 ---
 
 ## Slide 12
+UC images
+
+> [Slide Snapshot OCR]:
 UC images
 
 ---
@@ -72,35 +194,243 @@ UC images
 ## Slide 13
 UC
 
+> [Slide Snapshot OCR]:
+Ulcerative colitis - Thumbprinting
+
+¢ Abdominal X-rays are often entirely normal in
+inflammatory bowel disease. Occasionally there are
+signs of acute inflammation indicated by bowel wall
+ening.
++ This image demonstrates extensive bowel wall
+thickening throughout the entire colon. Thickening of
+
+the haustral folds results in a ‘thumbprinting’
+appearance (arrowheads).
+
 ---
 
 ## Slide 14
 UC
 
+> [Slide Snapshot OCR]:
+is - Mucosal islands
+
+bu
+
+Mucosal
+islands
+
+Ulcerative colitis - Mucosal islands
+
+@ This patient with known ulcerative colitis has 'mucosal
+islands’ - or pseudopolyps - in the caecum
+
+In ulcerative colitis, bowel wall inflammation extends
+proximally from the rectum. This X-ray therefore
+suggests that inflammation affects the whole colon.
+
+@ The large bowel is not visible more distally, because it
+does not contain gas.
+
 ---
 
 ## Slide 15
+
+> [Image OCR]: Ulcerative colitis - Toxic megacolon
+Ulcerative colitis - Toxic megacolon
+
+¢ This patient's colon is very dilated and there are
+extensive 'mucosal islands’ indicating bowel wall
+inflammation.
+
+Mucosal
+~ islands
+
+Hover on/off image to show/hide findings
 
 ---
 
 ## Slide 16
 UC
 
+> [Slide Snapshot OCR]:
+UC
+
+Chronic active colitis pattern / Ulcerative colitis
+
+5 Crypts of
+different sizes
+and shapes
+
+Villonodular
+surface
+
+Bifid crypt
+
+Crypt
+
+above the mm) shortfall
+
+Increased
+
+lamina propria <4
+chronic
+inflammation
+
+Crypt abcess
+(umen of erypt
+filled w/
+neutrophils)
+
+Crypt rupture
+ve (may cause
+Cryptitis granuloma)
+(neutrophils
+
+between the
+reactive epithelial
+cells)
+
 ---
 
 ## Slide 17
+
+> [Slide Snapshot OCR]:
+SOLON wires
+uLCcERATIVe CoOums
 
 ---
 
 ## Slide 18
 
+> [Slide Snapshot OCR]:
+Kornbluth et al. [2010]
+
+Induction: mild-moderate distal colitis
+
+Maintenance: distal colitis
+
+Induction: mild-moderate extensive colitis
+
+Maintenance: mild-moderate extensive colitis
+
+Severe colitis
+
+Oral aminosa
+Topical mesa
+
+opical mesa
+Oral aminosa
+Oral aminosa
+Thiopurines
+Oral aminosa
+Thiopruines
+
+responded t
+Outpatient: in
+
+A, infliximab
+
+icylates
+amine
+
+opical steroids
+refractory to the above: infliximab
+
+amine
+icylates
+
+refractory to the above: thiopurines or infliximab
+
+icylates
+
+Oral corticosteroids
+
+refractory to the above: infliximab
+
+icylates
+
+0 infliximab induction: infliximab:
+liximab
+
+npatient: intravenous corticosteroids
+if refractory to the above: intravenous cyclosporine
+
 ---
 
 ## Slide 19
 
+> [Image OCR]: Table 1. Medical options for the high-risk UC inpatient®!11
+
+Duration of
+Treatment induction Dose Induction Maintenance MaintenanceO
+Dosing
+
+* Thiopurine
+Medro! 60 mg ad + Anti-TNF # thiopurine or MTX
+Steroids (IV) |_| Hydrocortisone | 3-7 days X + Vedolizumab
+400 mg TIDIQID + Ustekinumab
++ Tofactinib (if failed anti-TNF)
+ee Unknown if dose reduction
+Possible
+Infiximab | / | Sort0mgkgiv | | possible after accelerated
+eee dosing for induction
+dosing
++ Thiopurine
+7 2-4 malkg IV canes
+Gyelosporing| 7, |“ ruous | 7-14 days x Vedolizumab
+) aoe + Ustekinumab
+o-400 + Ozanimod
+Tofacitinib 40mg TID
+(maybe VY | (upadatinid 2
+upadacitinib) 30 mg bid?)
+
 ---
 
 ## Slide 20
+
+> [Slide Snapshot OCR]:
+Table 3. Investigational Drug Therapies for the Treatment of Ulcerative Colitis
+
+Bastkimad N Chimeric mAb
+Daclizwmad Nv Humanized IgG) mad
+enapax) = —EE
+Vedolkzumad Humanized IgG mAb
+QMUN-02)
+
+Nicatorsen* Enema Antisense
+Deimitide Oral solution —_Decapeptide
+ROPSS)
+
+Rosightazone Oral tablet 120
+
+(Avandia)
+
+(Sit amd
+
+PPAR perecivomne proliferaser-activated receptor; TN]
+
+Seon: Ronee 136,
+
+Suppresses lymphocyte activity Cerimon
+
+‘by targeting glycoprotein COS2 Pharmaceuticals
+Suppresses lymphocyte activity by Facet
+
+Inhibits leukocyte adhesion by targeting §—_—Milllennium
+
+aipha-4 beta-7 integrin Pharmaceuticals, inc.
+Inhibits leukocyte adhesion ISS
+
+Blocks TNF-alpha, Genzyme
+W-2, and 1-12
+
+lnhitxts inflammatory cytokine production GiaxoSminKine
+by stimulating PPAR ligands
+
+| a adi emcak Sars yp Sea - pe re
+Gl a piel nammoglobulin G1; IL: ineerleukin; rmenoclonal antibody,
+Ns ‘ais fart TZI 'D: thiasolidsnedione,
 
 ---
 

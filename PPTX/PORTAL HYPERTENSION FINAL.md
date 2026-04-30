@@ -1,5 +1,46 @@
 ## Slide 1
 PORTAL HYPERTENSION
+
+> [Image OCR]: ¥ — [ portathypertension diagnosis: x +t
+
+< e
+
+23. images.search.yahoo.com/search/images?p=portal+ hypertension + diagnosis+treatment+ plan&ifr=mcafeeBitype=E210US91105G0&imgurl=https%3A%2F%2Fwww.c...
+
+portal hypertension diagnosis treatment plan xX Q
+
+Portal Hypertension —_Ultimate Guide to Diagnosis,
+Management and Cure
+
+-m« Prevention
+
+Control hepatitis B/C infections early.
+SPLENOMEGALY 2a j Limit alcohol consumption.
+
+. Monitor fatty liver disease (NAFLD) through
+regular scans.
+Seek treatment for clotting disorders or heart,
+issues that may affect the portal system.
+
+SPLENOMEGALY COLLLETERL
+CIRCULATION
+
+yyahoo.com/../view,_yit=AwrEsmzKZt1 pPDSQSRTmIzbkF, ylu=c2VjA3NyBHNsawN...
+
+& Search
+
+Sign In
+
+Portal Hypertension: 10 Ultimate Facts & Cure.
+
+networkbharat.com
+
+aA COMI +1,297
+
+A & @ eM) ING
+
+729 AM
+aac ©)
 AHMED
  FOUAD 
 ALGYOUSHY
@@ -10,6 +51,36 @@ Prof AF Agyoushy
 ---
 
 ## Slide 2
+
+> [Image OCR]: ¥ Ed Porta hypertension -Yahoo Se” x BM Portal hypertension -Yahoo Im Xo
+
+€ G —&3_images.search.yahoo.com/search/images?p=Portal+ hypertension&ifr=mcafeeB&itype=E210US91105G0&imgurl=https%3A%2F%2Fimages.search.yahoo.com%2Fsearc... ¥¥ o
+
+Portal hypertension X Q
+
+Sign In
+
+Portal HTN and stigmata of liver diseases ppb
+
+Anatomy of Portal System
+
+wwwslideshare.net
+* drains blood from the Gl tract, pancreas,
+spleen, and gallbladder to the liver.
+
+*it facilitates nutrient absorption and
+detoxification before systemic circulation.
+
+* blood flows into the liver sinusoids for
+filtration and exits via the hepatic veins
+into the inferior vena cava
+
+& Search
+
+2:05 AM 7
+Ae, =)
+
+18°C quate A Gi @ td) ENG
 4/16/2026
 2
 Prof AF Agyoushy
@@ -17,6 +88,36 @@ Prof AF Agyoushy
 ---
 
 ## Slide 3
+
+> [Image OCR]: ¥ Ed Porta hypertension -Yahoo Se” x BM Portal hypertension -Yahoo Im Xo
+
+€ G —&3_images.search.yahoo.com/search/images?p=Portal+ hypertension&ifr=mcafeeB&itype=E210US91105G0&imgurl=https%3A%2F%2Fimages.search.yahoo.com%2Fsearc... ¥¥ o
+
+Portal hypertension X Q
+
+Sign In
+
+Portal HTN and stigmata of liver diseases ppb
+
+Anatomy of Portal System
+
+wwwslideshare.net
+* drains blood from the Gl tract, pancreas,
+spleen, and gallbladder to the liver.
+
+*it facilitates nutrient absorption and
+detoxification before systemic circulation.
+
+* blood flows into the liver sinusoids for
+filtration and exits via the hepatic veins
+into the inferior vena cava
+
+& Search
+
+2:05 AM 7
+Ae, =)
+
+18°C quate A Gi @ td) ENG
 4/16/2026
 3
 Prof AF Agyoushy
@@ -24,6 +125,67 @@ Prof AF Agyoushy
 ---
 
 ## Slide 4
+
+> [Image OCR]: Portal vein collaterals
+
+Esophageal and
+gastric varices
+
+—— f Short gasinc
+
+2 ;
+Coronary vein 7
+
+Gastroepiploic vein
+plenic vein
+ior me: c vein
+Superior mr teric vein
+Superior hemorrhoidal vei
+
+atroperitoneal
+collaterals
+Hemorrnoidal veins
+Hemorrhoids
+
+> [Image OCR]: | SITES OF PORTACAVAL
+ANASTOMOSIS
+
+ranzerpart1 wikia.corn
+
+Five sites of portal/systemic
+circulation
+
+1. Lower third of the Esophagu
+2. Paraumbilical Area
+
+3. Upper end of Anal canal
+
+4. Retroperitonial
+
+5. Bare area of iver
+
+—_____
+@ portocaval shunts in... GY Microsoft PowerPoint EN @ os 11:14 ve
+
+> [Image OCR]: | SITES OF PORTACAVAL
+ANASTOMOSIS
+
+ranzerpart1 wikia.corn
+
+Five sites of portal/systemic
+circulation
+
+1. Lower third of the Esophagu
+2. Paraumbilical Area
+
+3. Upper end of Anal canal
+
+4. Retroperitonial
+
+5. Bare area of iver
+
+—_____
+@ portocaval shunts in... GY Microsoft PowerPoint EN @ os 11:14 ve
 4/16/2026
 4
 Prof AF Agyoushy
@@ -31,6 +193,24 @@ Prof AF Agyoushy
 ---
 
 ## Slide 5
+
+> [Image OCR]: ‘www. studyblue.com
+
+Portal Hypertension
+
+(58 Fakhry Hospital Microsoft PowerPoint & portal hypertension t. EN @) aE 05:40
+
+> [Image OCR]: Ges
+GASTRON
+Portal Hypertension is an increase in the
+pressure within the portal vein, which carries
+
+Blood from the Digestive Organs to the Liver. The
+most common cause is Cirrhosis of the Liver, but
+
+Thrombosis (clotting) might also be the cause.
+
+X. 9968407407, 9999507480 re) www.drvikassingla.com www. mareaneare! com (O)dr_; vikassingla79
 4/16/2026
 5
 Prof AF Agyoushy
@@ -38,6 +218,25 @@ Prof AF Agyoushy
 ---
 
 ## Slide 6
+
+> [Image OCR]: Normal portal pressure
+
+gradient 1-5 mmHg Inferior
+vena cava
+
+Left, right, and
+middle hepatic veins
+
+Portal hypertension =
+portal pressure gradient >5
+mmHg Liver
+
+Inferior
+Clinically significant Hy erenere
+portal hypertension
+>=10 mmHg.
+
+Right colon/small intestine
 4/16/2026
 6
 Prof AF Agyoushy
@@ -45,6 +244,25 @@ Prof AF Agyoushy
 ---
 
 ## Slide 7
+
+> [Image OCR]: Portal hypertension —
+ange é
+
+Portal Proceum
+Hypertension
+
+DPortal hypertension
+
+DClinically significant
+portal hypertension
+
+Portal venous
+
+pressure
+Portal hypertension
+associated with
+
+complications
 4/16/2026
 7
 Prof AF Agyoushy
@@ -52,6 +270,46 @@ Prof AF Agyoushy
 ---
 
 ## Slide 8
+
+> [Image OCR]: Sign In
+
+* Portal pressure:- normal pressure in portal vein is about 5 —
+15mm of Hg. It is measured by Splenic puncture.
+* Portal hypertension:- pressure above 40 mm of Hg wwwslideshare net
+Itis caused by
+1. Cirrhosis of liver
+2. Banti’s disease (congestive splenomegaly)
+3. Thrombosis of portal vein
+“+ Effects of portal hypertension:-
+congestive splenomegaly
+Ascites
+Collateral circulation through the portosystemic
+
+communication. It forms:
+
+Caput medusae (around the umbilicus)
+Oesophageal varices (at the lower end of the oesophagus)
+Haemorrhoids (in the anal canal)
+
+> [Image OCR]: Sign In
+
+* Portal pressure:- normal pressure in portal vein is about 5 —
+15mm of Hg. It is measured by Splenic puncture.
+* Portal hypertension:- pressure above 40 mm of Hg wwwslideshare net
+Itis caused by
+1. Cirrhosis of liver
+2. Banti’s disease (congestive splenomegaly)
+3. Thrombosis of portal vein
+“+ Effects of portal hypertension:-
+congestive splenomegaly
+Ascites
+Collateral circulation through the portosystemic
+
+communication. It forms:
+
+Caput medusae (around the umbilicus)
+Oesophageal varices (at the lower end of the oesophagus)
+Haemorrhoids (in the anal canal)
 4/16/2026
 8
 Prof AF Agyoushy
@@ -59,6 +317,45 @@ Prof AF Agyoushy
 ---
 
 ## Slide 9
+
+> [Image OCR]: \ — @ Portal Hypertension [PPIX =X # - x
+€ C@ 8% slideshare.net/slideshow/portal-hypertension-12648490/12648490#11 * O
+
+Downloaded 1,138 times
+
+& 40 Q Save % Share @ Embed r4y | ch Download
+
+buestion Claim That T: Rex Was'as Smart as Mo}
+
+Scientists Question Claim
+‘That T. Rex Was as Smart
+
+Modern Monkey
+
+Child — Pug Classification Of Portal =
+Hypertension &
+s
+
+DJ Stenting or
+Percutaneous ...
+
+by GAURAV NAHAR
+
+30 slides - 16.4K views a
+Bilirubin (mol/L) <34 34-51 >51 Portal hypertension
+Albumin (g/L) >35 28-35 <28
+PT (sec) 3 3-10 >10 oy tka Patel a
+Ascites None Moderate Moderate - severe Sa slides « TSK views
+Encephalopathy None Moderate Moderate - severe
+
+Chronic pancreatitis
+
+by ikramdrot
+
+58 slides - 20.7K views a
+
+GER, Port 21 hypertension
+2D Search MBi weosanage @ DB iivc wets A & gma) enc JAM ey
 4/16/2026
 9
 Prof AF Agyoushy
@@ -67,6 +364,47 @@ Prof AF Agyoushy
 
 ## Slide 10
 MECHANISMS
+
+> [Image OCR]: ¥ — [ portathypertension diagnosis: x +t
+
+< e
+
+23. images.search.yahoo.com/search/images?p=portal+ hypertension + diagnosis+treatment+ plan&ifr=mcafeeBitype=E210US91105G0&imgurl=https%3A%2F%2Fwww.c...
+
+portal hypertension diagnosis treatment plan xX Q
+
+Portal Hypertension —_Ultimate Guide to Diagnosis,
+Management and Cure
+
+-m« Prevention
+
+Control hepatitis B/C infections early.
+SPLENOMEGALY 2a j Limit alcohol consumption.
+
+. Monitor fatty liver disease (NAFLD) through
+regular scans.
+Seek treatment for clotting disorders or heart,
+issues that may affect the portal system.
+
+SPLENOMEGALY COLLLETERL
+CIRCULATION
+
+yyahoo.com/../view,_yit=AwrEsmzKZt1 pPDSQSRTmIzbkF, ylu=c2VjA3NyBHNsawN...
+
+& Search
+
+Sign In
+
+Portal Hypertension: 10 Ultimate Facts & Cure.
+
+networkbharat.com
+
+aA COMI +1,297
+
+A & @ eM) ING
+
+729 AM
+aac ©)
 4/16/2026
 10
 Prof AF Agyoushy
@@ -74,6 +412,35 @@ Prof AF Agyoushy
 ---
 
 ## Slide 11
+
+> [Image OCR]: Alcohol,
+
+Viruses,
+
+Toxins Parenchymal cells
+
+myofibroblasts
+
+hepatic stellate
+cells
+
+Contraction
+
+Fibrosis
+
+Portal
+hypertension
+
+Toxins, Lipids
+
+blood flow
+
+Portal tributary |
+
+Adipose tissue
+
+Barrier defect
+MICROBIOME
 4/16/2026
 11
 Prof AF Agyoushy
@@ -81,6 +448,21 @@ Prof AF Agyoushy
 ---
 
 ## Slide 12
+
+> [Image OCR]: www journatof hepatology eu
+
+Sais Cirrhosis aay
+Increased Hepatic Resistance
+< Mechanical’ | Dynamic
+
+Architectural changes | Endothelial
+Fibrosis | dysfunction
+Vascular occlusion + Vascular tone
+q
+
+=
+
+A & @ wm) ENG 200AM
 4/16/2026
 12
 Prof AF Agyoushy
@@ -89,6 +471,47 @@ Prof AF Agyoushy
 
 ## Slide 13
 MANIFESTATIONS
+
+> [Image OCR]: ¥ — [ portathypertension diagnosis: x +t
+
+< e
+
+23. images.search.yahoo.com/search/images?p=portal+ hypertension + diagnosis+treatment+ plan&ifr=mcafeeBitype=E210US91105G0&imgurl=https%3A%2F%2Fwww.c...
+
+portal hypertension diagnosis treatment plan xX Q
+
+Portal Hypertension —_Ultimate Guide to Diagnosis,
+Management and Cure
+
+-m« Prevention
+
+Control hepatitis B/C infections early.
+SPLENOMEGALY 2a j Limit alcohol consumption.
+
+. Monitor fatty liver disease (NAFLD) through
+regular scans.
+Seek treatment for clotting disorders or heart,
+issues that may affect the portal system.
+
+SPLENOMEGALY COLLLETERL
+CIRCULATION
+
+yyahoo.com/../view,_yit=AwrEsmzKZt1 pPDSQSRTmIzbkF, ylu=c2VjA3NyBHNsawN...
+
+& Search
+
+Sign In
+
+Portal Hypertension: 10 Ultimate Facts & Cure.
+
+networkbharat.com
+
+aA COMI +1,297
+
+A & @ eM) ING
+
+729 AM
+aac ©)
 4/16/2026
 13
 Prof AF Agyoushy
@@ -96,6 +519,10 @@ Prof AF Agyoushy
 ---
 
 ## Slide 14
+
+> [Image OCR]: CLINICAL FEATURES
+
++ pa 0 eon
 4/16/2026
 14
 Prof AF Agyoushy
@@ -103,6 +530,30 @@ Prof AF Agyoushy
 ---
 
 ## Slide 15
+
+> [Image OCR]: Portal Hypertension
+
+Portal hypertension is elevated
+pressure in your portal venous
+= system which leads to the liver.
+
+The most common
+
+cause of portal 5 main symptoms
+hypertension is 1. Blood in vomit
+Cirrhosis (scarring) of _ 2.Blood in poop
+
+the liver. 3. Bloated stomach with rapid
+weight gain (from fluid)
+4. Swelling in your legs and feet
+(edema)
+
+4 } : 5. Mental confusion or
+i disorientation
+]
+
+CONSULT INDIA'S TOP LIVER SURGEON FOR  www.krvasudevan.com
+ALL YOUR LIVER HEALTH COMPLICATIONS C3) +91-9599039899
 4/16/2026
 15
 Prof AF Agyoushy
@@ -110,6 +561,102 @@ Prof AF Agyoushy
 ---
 
 ## Slide 16
+
+> [Image OCR]: €
+
+® Portal Hypertension | PPTX
+
+Cc
+
+& 40
+
+& Search
+
+x
+
++
+
+23 slideshare.net/slideshow/portal-hypertension-12648490/12648490#11
+
+Q Save
+
+~ Share
+
+@ Embed
+
+Features & Complication
+
+Downloaded 1138 times
+
+» Decrease or reverse portal blood flow to the liver promote ©
+
+»
+»
+
+SS |
+
+the development of the portosystemic
+
+anastomosis
+
+between the portal system and systemic circulation.
+
+1- Left gastric vein into the esophageal vei
+
+ins at gastro-
+
+esophageal junction — esophageal and gastric varices.
+
+2- Superior rectal vein into inferior rectal
+rectum rectal varices.
+
+3- Obliterated umbilical vein into epigastric
+medusae.
+
+vein at lower
+
+vein — capute
+
+Esophageal and gastric varices may bleed torrentially
+Liver cell dysfunction/liver failure occurs in hepatic and
+
+post — hepatic causes
+Splenomegaly (hypersplenism may be result)
+
+The child — pug classification use to asses the severity.
+
+weGOsSEaBO
+
+Peritonitis
+
+by Monika Devi NR
+ides + 94.1K vie
+
+INTESTINAL
+BLEEDING
+
+gastrointestinal bleeding (
+GI Bleed)
+
+by pankaj rana
+46 slides = 131.3K views
+
+Renal failure acute and
+chronic
+
+by drangelosmith
+
+57 slides = 216K views
+
+ANATOMY AND PHYSIOLOGY OF
+GALLBLADDER
+
+D 17°C We sto
+
+Anatomy and physiology of
+omit ‘7:54AM
+
+AG qm) ng JO By
 4/16/2026
 16
 Prof AF Agyoushy
@@ -117,6 +664,15 @@ Prof AF Agyoushy
 ---
 
 ## Slide 17
+
+> [Image OCR]: Complications of portal
+hypertension
+
+en.ppt-online.org
+
+5
+—=
+Bole (ooo xs eB @PGs ose
 4/16/2026
 17
 Prof AF Agyoushy
@@ -124,6 +680,23 @@ Prof AF Agyoushy
 ---
 
 ## Slide 18
+
+> [Image OCR]: «) Hepatic encephalopathy
+4) Hepatorenal syndrome
+©} Hepatopulmonary syndrome
+
+a) Variceal hemorrhage
+
+b) Ascites, which can be further complicated by
+spontaneous bacterial peritonitis
+
+c) Hepatic encephalopathy
+d) Hepatorenal syndrome
+e) Hepatopulmonary syndrome
+
+Start _[/s8)Faliny Hospital (Bmexosohe PowerPoint. | portal hypertension
+
+slideplayer.comn
 4/16/2026
 18
 Prof AF Agyoushy
@@ -131,6 +704,39 @@ Prof AF Agyoushy
 ---
 
 ## Slide 19
+
+> [Image OCR]: \ — @ Portal Hypertension [PPIX =X # - x
+€ C@ 8% slideshare.net/slideshow/portal-hypertension-12648490/12648490#11 * O
+
+Downloaded
+
+& 40 Q Save % Share @ Embed r4y | ch Download
+
+Diagnosis & Investigation
+sin Chronic pancreatitis
+» Many investigations may be used at different time “
+
+in portal hypertension such as
+
+by ikramdro1
+» 1- FBC, Urea & electrolytes and clotting 58 slides - 20.7K views a
+» 2- Screening tests for the causes of the cirrhosis
+» 3- CT & ultrasound scan to assess liver Portal hypertension
+morphology, diagnose Portal hypertension and ce
+assess cause. by Gunjan Malviya a
+» 4- Transabdominal Doppler ultrasound to assess Sb sides « 2826 views
+blood flow in the portal vein and hepatic artery.
+syn istresa) » Gastroscopy in acute variceal bleeding honortenston. classificat..
+
+by Gnanendra Dm
+109 slides  16.4K views
+
+7:51AM
+B
+
+@ Disc we sto A & Zw) ENG JUN
+
+P Search Se |
 4/16/2026
 19
 Prof AF Agyoushy
@@ -138,6 +744,47 @@ Prof AF Agyoushy
 ---
 
 ## Slide 20
+
+> [Image OCR]: ¥ — [ portathypertension diagnosis: x +t
+
+< e
+
+23. images.search.yahoo.com/search/images?p=portal+ hypertension + diagnosis+treatment+ plan&ifr=mcafeeBitype=E210US91105G0&imgurl=https%3A%2F%2Fwww.c...
+
+portal hypertension diagnosis treatment plan xX Q
+
+Portal Hypertension —_Ultimate Guide to Diagnosis,
+Management and Cure
+
+-m« Prevention
+
+Control hepatitis B/C infections early.
+SPLENOMEGALY 2a j Limit alcohol consumption.
+
+. Monitor fatty liver disease (NAFLD) through
+regular scans.
+Seek treatment for clotting disorders or heart,
+issues that may affect the portal system.
+
+SPLENOMEGALY COLLLETERL
+CIRCULATION
+
+yyahoo.com/../view,_yit=AwrEsmzKZt1 pPDSQSRTmIzbkF, ylu=c2VjA3NyBHNsawN...
+
+& Search
+
+Sign In
+
+Portal Hypertension: 10 Ultimate Facts & Cure.
+
+networkbharat.com
+
+aA COMI +1,297
+
+A & @ eM) ING
+
+729 AM
+aac ©)
 4/16/2026
 20
 Prof AF Agyoushy
@@ -145,6 +792,28 @@ Prof AF Agyoushy
 ---
 
 ## Slide 21
+
+> [Image OCR]: Prognostic value of HPVG in CLD
+
+15
+
+6-10 Preclinical sinusoidal portal htn
+
+210 Clinically significant phtn
+
+212 Increase risk of rupture of varices
+
+216 Increase risk of mortality
+
+220 Treatment failure and mortality in acute variceal bleeding
+
+An HPVG of 210 mmHg defines clinically significant portal hypertension
+
+‘ef: Iris W. Liou, MO, Screening for Varies and Prevention of Bleeding htz://hepovitiscuw-edu/
+
+Portal hypertension is defined as elevation of hepatic
+
+venous pressure gradient to >5mmHg._
 4/16/2026
 21
 Prof AF Agyoushy
@@ -152,6 +821,88 @@ Prof AF Agyoushy
 ---
 
 ## Slide 22
+
+> [Image OCR]: Portal hypertension -Yahoo SX | [B) Approach to the diagnosis of (Figure - PMC x + - ao x
+
+pme.ncbi.nlm.nih.gov/ar
+
+les/PMC6499285/figure/cld78-fig-0001/ x O B
+
+% An official website ofthe United States government Here's how you know ¥
+
+>
+
+View full-text article in PMC
+
+> Clin Liver Dis (Hoboken). 2012 Nov 9;1(:
+
+33-135. doi: 10.1002/cld.78 %
+
+» Copyright and License information
+
+Figure 1.
+
+0 «10 «12 14 «16-18-20 mmbe
+
+‘Treatment Failure &
+Mortality in Acute
+Variceal Bleeding
+
+Variceal Formation
+Clinical Decompensation
+Hepatocellular Carcinoma &
+
+Increased Surgical Risk
+
+Diagram showing the risks associated with increased HVPG.
+
+PD Search a@!| °°: e
+
+ig a5 a 239 AM 7
+© @ Cire yuate AG Gtaw) ne BOM
+
+2846
+
+> [Image OCR]: Portal hypertension -Yahoo SX | [B) Approach to the diagnosis of (Figure - PMC x + - ao x
+
+pme.ncbi.nlm.nih.gov/ar
+
+les/PMC6499285/figure/cld78-fig-0001/ x O B
+
+% An official website ofthe United States government Here's how you know ¥
+
+>
+
+View full-text article in PMC
+
+> Clin Liver Dis (Hoboken). 2012 Nov 9;1(:
+
+33-135. doi: 10.1002/cld.78 %
+
+» Copyright and License information
+
+Figure 1.
+
+0 «10 «12 14 «16-18-20 mmbe
+
+‘Treatment Failure &
+Mortality in Acute
+Variceal Bleeding
+
+Variceal Formation
+Clinical Decompensation
+Hepatocellular Carcinoma &
+
+Increased Surgical Risk
+
+Diagram showing the risks associated with increased HVPG.
+
+PD Search a@!| °°: e
+
+ig a5 a 239 AM 7
+© @ Cire yuate AG Gtaw) ne BOM
+
+2846
 4/16/2026
 22
 Prof AF Agyoushy
@@ -159,6 +910,45 @@ Prof AF Agyoushy
 ---
 
 ## Slide 23
+
+> [Image OCR]: Y @ PortalHypertension PPT Xo = x
+
+€ C@ 8% slideshare.net/slideshow/portal-hypertension-12648490/12648490 *
+
+Downloaded
+
+& 40 Q Save ~ Share @ Embed
+
+Acute Variceal Hemorrhage
+
+Chronic pancreatitis
+» Hemorrhage from the varices is acute*
+complication of the portal hypertension.
+
+» Mortality rate of first variceal bleed established aoe onevows a
+portal hypertension is 30%.
+Causes & Features: ra
+
+» Typical variceal bleeding is rapid in onset, copious ep
+dark blood with little mixing with food.
+
+» Feature of established portal hypertension e.g. by Gunlan Malvive a
+
+capute medusae 55 slides - 23.2K views
+» Feature of developing hepatic encephalopathy
+
+(ingested blood provide an extremely rich meal) portal
+
+hypertension..classificati...
+
+by Gnanendra Dm
+109 slides  16.4K views
+
+7-47 AM
+
+@ Disc we sto ~& ama eno UN By
+
+P Search se Il
 4/16/2026
 23
 Prof AF Agyoushy
@@ -170,9 +960,91 @@ Prof AF Agyoushy
 Prof AF Agyoushy
 24
 
+> [Image OCR]: Ga SO By Ore toms
+
+Jeous bacterial peritonitis) and gastrointestinal hemorthage are both complications in individuals with cirhosis, and are common triggers for
+
+becific care is made in early identification and treatment of cirrhotics with these complications to prevent HRS./! Some of the triggers for HRS
+‘are induced by treatment of ascites and can be preventable. The aggressive use of diuretic medications should be avoided. In addition, many
+medications that are either used to treat cirthotic complications (such as some antibiotics) or other conditions may cause sufficient impairment in renal
+function in the cirrhotic to lead to HRS./“I[5I Also, large volume paracentesis—which is the removal of ascites fluid from the abdomen using a needle or
+catheter in order to relieve discomfor—may cause enough alteration in hemodynamics to precipitate HRS, and should be avoided in individuals at risk
+The concomitant infusion of albumin can avert the circulatory dysfunction that occurs after large volume paracentesis, and may prevent HRS.!181
+Conversely, in individuals with very tense ascites, it has been hypothesized that removal of ascitic fuid may improve renal function ifit decreases the
+pressure on the renal veins.[20]
+
+Individuals with ascites that has become infected spontaneously (termed spontaneous bacterial peritonitis or SBP) are at an especially high risk for the
+development of HRS.”! In individuals with SBP, one randomized controlled trial found that the administration of intravenous albumin on the day of :
+admission and on the third day in hospital reduced both the rate of renal insufficiency and the mortality rate !2") Picture of the esophagus at the time of | 52
+
+endoscopy showing prominent esophageal
+
+Treatment [edit] cE from ‘esophageal varices
+‘syndrome in individuals with cirrhosis, and
+
+Liver transplantation [ecit] ‘canbe prevented by early diagnosis and
+
+treatment.
+‘The definitive treatment for hepatorenal syndrome is orthotopic liver transplantation, and all other therapies can best be described as bridges to
+
+transplantation {"l(22] while liver transplantation is by far the best available management option for HRS, the mortality of individuals with HRS has been
+
+‘shown to be as high as 25% within the first month after transplantation.[2"1 Individuals with HRS and evidence of greater hepatic dysfunction (quantified as model for end-stage liver disease scores
+above 36) have been found to be at greatest risk of early mortality after liver transplantation.[2"I 4 further deterioration of renal function even after liver transplantation in individuals with HRS has
+been demonstrated in several studies; however, this is transient and thought to be due to the use of medications with toxicity to the kidneys, and specifically the introduction of
+immunosuppressants such as tacrolimus and cyclosporine that are known to worsen renal function.(2! Over the long-term, however, individuals with HRS who are the recipients of liver transplants
+almost universally recover kidney function, and studies show that their survival rates at three years are similar to those who have received liver transplants for reasons other than HRS.["I[21
+
+In anticipation of liver transplantation (which may be associated with considerable in-hospital delay), several other strategies have been found to be beneficial in preserving renal function. These
+include the use of intravenous albumin infusion, medications (for which the best evidence is for analogues of vasopressin, which causes splanchnic vasoconstriction), radiological shunts to
+decrease pressure in the portal vein, dialysis, and a specialized albumin-bound membrane dialysis system termed molecular adsorbents recirculation system (MARS) or liver dialysis!)
+
+Medical therapy [exit]
+‘Many major studies showing improvement in renal function in patients with hepatorenal syndrome have involved expansion of the volume of the plasma with albumin given intravenously./21I24II251
+
+en.wikipedia.org/wiki/File:Esophageal_varices -_wale.pg znously varies: one cited regimen is 1 gram of albumin per kilogram of body weight intravenously on the first day, followed by 20 to 40 grams daily.261
+
 ---
 
 ## Slide 25
+
+> [Image OCR]: \ — @ Portal Hypertension [PPIX =X # - x
+€ CG 8% slideshare.net/slideshow/portal-hypertension-12648490/12648490 Big oO
+Downloaded 1138 times 30 slides - 16.4K views a
+& 40 Q Save % Share @ Embed r4y | ch Download
+Portal hypertension
+710 ‘
+Treatment @ ,
+y Ekta Patel
+34 slides « 115K views a
+» General resuscitation s
+» Anti — coagulation for Budd — Chiari syndrome
+» Treatment of hepatic cause Chronic pancreatitis
+» Treatment Of Chronic Complication such as Esophageal gastric
+varices:
+1- Beta — blocker (propranolol or nadolol), reduce portal venous by ikramarot
+pressure. y tkramdr a
+2- Repeated injection sclerotherapy or variceal ligation 58 slides - 20.7K views
+3- Elective porto — systemic shunt (spleno — renal anastomosis)
+4- Liver transplant may be considered for treatment if associated with .
+severe liver diseases. Portal hypertension
+» Rectal Varices: Injection sclerotherapy Portal hypertension
+» Symptomatic splenomegaly: laparoscopic or open splenectomy.
+» Ascites: Oral spironolactone, in cases of ascites, paracentesis may be
+required with Walbumin replacement. 8y Gunjan Malviya Q
+
+55 slides = 23.2K views
+
+portal
+hypertension..classificati...
+
+by Gnanendra Dm
+& PPT a
+
+Acute Variceal Hemorrhage = (#)
+
+se 73 AM
+2D Search Se | »@O& 8 &&O @ BS isc We sto AG Ao) ING JON
 4/16/2026
 25
 Prof AF Agyoushy
@@ -180,6 +1052,52 @@ Prof AF Agyoushy
 ---
 
 ## Slide 26
+
+> [Image OCR]: \ — @ Portal Hypertension [PPIX =X # - x
+€ C@ 8% slideshare.net/slideshow/portal-hypertension-12648490/12648490
+
+Downloaded 1,138 times
+
+& 40 Q Save % Share @ Embed r4y | ch Download
+
+9/0 &
+Emergency management
+. . *
+(Resuscitation) )
+
+Established large caliber IV access, give crystalloid fluid up
+to 1000 mL, if tachycardic or hypotensive.
+Only use O - ve blood if the patient is in extremis,
+10/11 otherwise wait for cross — match blood.
+Catheterize and place on fluid balance chart if hypotensive.
+
+Chronic pancreatitis
+
+by ikramdro1
+
+» Send blood for FBC, HB conc. WCC, U&E, Na, K, LFT, Se slides = 20.7K views 4
+albumin and clotting.
+» Always consider HDU, variceal bleeding can deteriorate Portal hypertension
+extremely rapidly.
+» Monitor pulse rate, BP and urinary output.
+nm » Insertion Of sangstaken Blackmore gastro-esophageal tube by Gunjan Malviya
+may be a life saving resuscitation manure, usually only 56 slides - 23.2% views Qa
+
+inserted without prior gastroscopy if the patient known to
+have varices and has li
+
+e — threatening bleeding.
+portal
+hypertension..classificati...
+
+by Gnanendra Dm
+
+PPT
+109 16.4K views Qa
+&
+4 =~
+P Search @ Disc we sto 0 & gma) eno OI
+: - & 4/13/2026
 4/16/2026
 26
 Prof AF Agyoushy
@@ -187,6 +1105,59 @@ Prof AF Agyoushy
 ---
 
 ## Slide 27
+
+> [Image OCR]: gastrointestinal bleeding mans X +
+
+€ cos
+
+25 images.searchyahoo.com/search/images?p=gastrointestinal + bleeding +management+in+pictures8ifr=mcafee8itype=E210US91105GO8iimgurl =https%3A%2F%2Fw,
+
+* 8
+
+gastrointestinal bleeding management in pictures x Sign In
+
+i
+Management of acute upper gastroin
+
+com ‘wun researchgate net
+
+‘www sideshare net
+Management of acute gastrointestinal bles
+
+wresearchgate net academia edu
+Acute GI Bleed Management 070212
+
+PDF) Manageme, PDF) Acute lower
+
+‘arinspiredpencilcom win
+Upper Gi Bleed Diagt
+
+aaip org
+nosis and Management of
+
+reatment of variceal bleeding
+
+Pharmacological therapy
+Somatostatin: initial bolus (24-48 h) and a perfusion (6 d) SoS aon ST
+Octreotide: initial bolus (24-48 h) and a perfusion (5 d)
+Terlipressin: important side effects
+
+Primary prophylaxis
+B-blockers non-selective: propranolol, nadolol
+Isosorbide 5-mononitrate
+
+Secondary prophylaxis
+B-blockers non-selective: propranolol, nadolol
+Isosorbide 5-mononitrate
+
+Endoscopy therapy: band ligation, sclerotherapy
+
+= aaa
+
+P Search SS | megs aG eo
+
+5 Aes 148 AM
+2 PO 20°C dilodan AG BHO) ENG OO
 4/16/2026
 27
 Prof AF Agyoushy
@@ -194,6 +1165,24 @@ Prof AF Agyoushy
 ---
 
 ## Slide 28
+
+> [Image OCR]: Surgical treatment
+
+Surgical treatment
+Non shunt Shunt
+
+: slideplayer.com
+rect Non-selective
+Varix ligation Porto-caval
+Stappler trans- Mesocaval
+‘section& proximal- lieno-renal
+< reanstmosis Selective
+
+direct Warren's
+Hassab Modified warrien’s
+Tanner Coronary caval
+
+Sugura Sas
 4/16/2026
 28
 Prof AF Agyoushy
@@ -201,6 +1190,22 @@ Prof AF Agyoushy
 ---
 
 ## Slide 29
+
+> [Image OCR]: 1—-Non selective Shunts
+
+www. slideshare. net
+* End to side portocaval (Eck
+fistula):
+° Higher rateof
+enced dicnethy arong
+opadiveshintinggaps
+° Better contd of redesdiry
+thanrredcd treatrret
+° Eck fisuiaDrredcd theg,
+— sareindcanedf
+encgthdiopethy
+
+Start _{/8)Faliny Hospital FA ohevidocx-Meros.. @ portocevalshuntsin... | (@] Microsoft PowerPoint
 4/16/2026
 29
 Prof AF Agyoushy
@@ -208,6 +1213,12 @@ Prof AF Agyoushy
 ---
 
 ## Slide 30
+
+> [Image OCR]: nursekey.com
+
+sta splenorenal shunt
+
+(7B eieevi.docx - micros @ portocaval shunts in... GY Microsoft PowerPoint EN GV 11:12 vo
 4/16/2026
 30
 Prof AF Agyoushy
@@ -215,6 +1226,14 @@ Prof AF Agyoushy
 ---
 
 ## Slide 31
+
+> [Image OCR]: cal treatment of portal
+
+€ ¢ Bh
+
+gastrosurgeryindia.com
+
+(55 Fakhry Hospital UBy cijteui.docx - Micros, (@ suraical treatment of
 4/16/2026
 31
 Prof AF Agyoushy
@@ -222,6 +1241,15 @@ Prof AF Agyoushy
 ---
 
 ## Slide 32
+
+> [Image OCR]: J
+
+€ > ¢ Bhips images search. yahoo.com yh fsx ch7p= em i SY syhs-iba-
+~
+
+Dpdf-355R-2-129 (1) pF +) pa-asse-2-129. pF ~ show al dounloads...
+
+(a 2] 9 = @
 4/16/2026
 32
 Prof AF Agyoushy
@@ -229,6 +1257,47 @@ Prof AF Agyoushy
 ---
 
 ## Slide 33
+
+> [Image OCR]: ¥ — [ portathypertension diagnosis: x +t
+
+< e
+
+23. images.search.yahoo.com/search/images?p=portal+ hypertension + diagnosis+treatment+ plan&ifr=mcafeeBitype=E210US91105G0&imgurl=https%3A%2F%2Fwww.c...
+
+portal hypertension diagnosis treatment plan xX Q
+
+Portal Hypertension —_Ultimate Guide to Diagnosis,
+Management and Cure
+
+-m« Prevention
+
+Control hepatitis B/C infections early.
+SPLENOMEGALY 2a j Limit alcohol consumption.
+
+. Monitor fatty liver disease (NAFLD) through
+regular scans.
+Seek treatment for clotting disorders or heart,
+issues that may affect the portal system.
+
+SPLENOMEGALY COLLLETERL
+CIRCULATION
+
+yyahoo.com/../view,_yit=AwrEsmzKZt1 pPDSQSRTmIzbkF, ylu=c2VjA3NyBHNsawN...
+
+& Search
+
+Sign In
+
+Portal Hypertension: 10 Ultimate Facts & Cure.
+
+networkbharat.com
+
+aA COMI +1,297
+
+A & @ eM) ING
+
+729 AM
+aac ©)
 CONCLUSION
 4/16/2026
 33
@@ -237,6 +1306,48 @@ Prof AF Agyoushy
 ---
 
 ## Slide 34
+
+> [Image OCR]: yahoo.com®
+
+Portal hypertension
+
+Sign In
+
+(Classification of noncirthotic portal
+
+Post-hepatic
+Budd Chiari syndrome
+IVC obstruction
+Pericarditis,
+
+| Hepatic veins ight heart failure
+Tricuspid regurgitation
+
+www researchgate net
+
+Schistosmiasis
+
+Congenital hepaticfibrosis
+< | Nodular regenerative hyperplasia
+Idiopathic NCPH
+
+Veno-occlusive disease
+Portal vein\ \
+
+Pre-hepa
+
+Portal vein thrombosis
+
+Extrahepatic portal vein obstruction
+Splenicvein thrombosis
+
+Massive splenomegaly
+
+© Search @G@@| ® sz eC os
+
+@}’ or Gusts AG BIH) ENG TOM
+
+4/3/2026
 4/16/2026
 34
 Prof AF Agyoushy
@@ -244,6 +1355,38 @@ Prof AF Agyoushy
 ---
 
 ## Slide 35
+
+> [Image OCR]: WORK UP FOR PORTAL HYPERTENSION
+
+presumed
+Portal hypertension
+
+Gl bleed or ascites as presenting manifestation
+1
+
+ASCITES ENDOSCOPY
+
+é . e “SS
+SAAG < 1.1 SAAG > 1.1 VARICES VARICES
+ABSENT PRESENT
+
+v
+CHECK Doppler US to
+
+PORTAL HYPERTENSION R/O portal vein thrombosis
+CONFIRMED Lab tests for cause of liver disease
+— If US negative
+Liver Bx in selected cases
+
+Look for inflammatory
+Neoplastic causes involving
+peritoneum
+
+Low protein
+Cirrhosis: Test for etiology)
+
+High protein
+(Post-sinusoidal disease)
 4/16/2026
 35
 Prof AF Agyoushy
@@ -251,6 +1394,44 @@ Prof AF Agyoushy
 ---
 
 ## Slide 36
+
+> [Image OCR]: Y @ PortalHypertension PPT Xo = x
+
+€ C@ 8% slideshare.net/slideshow/portal-hypertension-12648490/12648490
+
+& 40 Q Save ~ Share @ Embed
+
+Management
+
+Blood transfusion
+Correct coagulopathy
+Esophageal balloon tamponade = (sangstaken
+Blackmore tube)
+
+Drug therapy (vasopressin or octreotide)
+
+Chronic pancreatitis
+
+» by ikramdr01
+» Endoscopic sclerotherapy or banding 58 slides - 20.7K views a
+» Assess portal vein patency (Doppler ultrasound or CT)
+» Transjuglar intrahepatic portosystemic stent shunt Portal hypertension
+Surgery:
+» Portosystemic shunts
+nn » Esophageal transection by Gunjan Malviya a
+
+55 slides = 23.2K views
+
+Splenectomy and gastric devescularization.
+
+portal
+hypertension..classificati...
+
+by Gnanendra Dm
+109 slides  16.4K views
+
+- as er 79M
+HE 0 Search Se | »e@Gs8 @& Oo @ BD i9c We sto AG Amo) ING JON
 4/16/2026
 36
 Prof AF Agyoushy
@@ -258,6 +1439,8 @@ Prof AF Agyoushy
 ---
 
 ## Slide 37
+
+> [Image OCR]: thinkingrnomsrevalution.com
 4/16/2026
 37
 Prof AF Agyoushy

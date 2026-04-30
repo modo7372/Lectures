@@ -242,7 +242,8 @@ Other factors
 
 ## Page 23
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+Presentations
 
 
 ## Page 24
@@ -341,9 +342,7 @@ Odynophagia
 Weight loss
 
 ## Page 32
-
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
-
+[Blank or Non-text Page]
 
 ## Page 33
 Extra-Esophageal 
@@ -609,9 +608,7 @@ Antacids
 Potassium-Competitive Acid Blockers P-CAB
 
 ## Page 58
-
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
-
+[Blank or Non-text Page]
 
 ## Page 59
 Anti-Reflux Mucosectomy
@@ -761,6 +758,7 @@ Surgery
 
 ## Page 72
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+THANK YOU
 
 

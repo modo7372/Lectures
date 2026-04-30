@@ -219,7 +219,8 @@ Stress
 Other factors
 
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+Presentations
 
 
 Esophageal Symptoms
@@ -309,9 +310,7 @@ Odynophagia
 Hematemesis / Melena 
 Weight loss
 
-
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
-
+[Blank or Non-text Page]
 
 Extra-Esophageal 
 Classic symptoms
@@ -551,9 +550,7 @@ Antacids
 •
 Potassium-Competitive Acid Blockers P-CAB
 
-
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
-
+[Blank or Non-text Page]
 
 Anti-Reflux Mucosectomy
 Anti-Reflux Mucosal ablation
@@ -689,6 +686,7 @@ Endoscopic therapy
 Surgery
 
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+THANK YOU
 
 

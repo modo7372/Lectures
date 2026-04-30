@@ -483,6 +483,8 @@ investigated in a controlled clinical trial.
 
 ## Page 39
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+Thank |
+You
 
 

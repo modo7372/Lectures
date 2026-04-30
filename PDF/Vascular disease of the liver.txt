@@ -47,7 +47,23 @@ Background
 Vascular diseases of the liver
 
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+Liver
+
+Portal vein
+
+‘Superior
+mesenteric
+vein
+
+Intestines
+
+Spleenic
+vein
+
+Inferior
+mesenteric
+vein
 
 
 Vascular diseases of the liver
@@ -205,7 +221,20 @@ Pathophysiological consequences of obstruction include:
 Diagnosis requires unequivocal radiological confirmation of hepatic venous flow obstruction
 
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+inusoids
+
+Hepatic venous congestion. ———_______»
+
+Thrombus (3)
+
+Increased sinusoidal
+pressure and cellular hypoxia
+
+|
+
+eo Liver cell damage
+Portal hypertension «——— (can develop into nutmeg liver)
 
 
 Budd–Chiari syndrome: Definition and diagnosis
@@ -456,7 +485,10 @@ Grade of evidence
 Grade of recommendation
 
 
-> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+> [OCR Content]:
+Cy
+
+Chronic Tumor related
 
 
 Acute portal vein thrombosis: Aims of therapy
