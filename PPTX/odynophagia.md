@@ -1,0 +1,66 @@
+## Slide 1
+odynophagia
+
+---
+
+## Slide 2
+Odynophagia is when it is painful to swallow. This pain may occur in the throat, mouth, or food pipe and has a variety of potential causes.
+
+---
+
+## Slide 3
+Odynophagia is a disorder in which swallowing feels painful. A person may feel pain in the throat, mouth, or food pipe (esophagus) when swallowing food, liquid, or saliva.
+Painful swallowing is a symptom of many medical conditions. The location and intensity of pain depend on the cause.
+In some cases, odynophagia resolves very quickly, but it can also persist long-term and can be an indication of a more serious health condition.
+
+---
+
+## Slide 4
+Odynophagia vs. dysphagia
+Dysphagia is when a person finds it difficult to swallow, whereas odynophagia is when swallowing is painful. Dysphagia may occur alongside odynophagia, but the two conditions can also occur separately.
+When they occur together, this means that swallowing is both difficult and painful.
+Dysphagia is often more serious than odynophagia. Dysphagia can cause coughing or choking. In extreme cases, this can result in irritations or bacteria in the lungs, which can lead to pneumonia.
+Both dysphagia and odynophagia can be caused by infections or inflammations. However, dysphagia can also be a symptom of anxiety and can be caused by psychological factors.
+A person might also find it difficult to swallow due to a fear of swallowing, a condition known as phagophobia.
+Odynophagia and dysphagia are sometimes confused with globus sensation, where it feels as if there is a lump in the throat. However, unlike odynophagia and dysphagia, globus sensation does not affect the swallowing mechanism directly.
+
+---
+
+## Slide 5
+Symptoms of odynophagia can be short-term or long-term depending on the cause of pain.
+Common symptoms include:
+a dull, burning pain, or a sharp, stabbing pain in the mouth, throat, or esophagus when swallowing
+pain that gets worse when swallowing dry foods, though in some cases liquids and solids cause the same amount of pain
+weight loss from the reduced food intake
+dehydration from the reduced fluid intake
+Where an infection causes odynophagia, a person may notice other signs of infection, such as a fever, aches and pains, fatigue, and a general feeling of being unwell.
+
+---
+
+## Slide 6
+Causes
+A wide range of factors can cause painful swallowing, including:
+Infections, such as the common cold, the flu, and strep throat.
+Inflammation of the mouth, throat, or esophagus caused by tonsillitis, pharyngitis, laryngitis, or esophagitis.
+Heartburn or gastroesophageal reflux disease (GERD), where stomach acid enters the esophagus and, sometimes, the throat, causing pain and inflammation. Long-term heartburn can lead to ulcers and dysphagia.
+Weakened immune systems. People with HIV or AIDS or those undergoing radiotherapy or other cancer treatments tend to develop odynophagia more frequently than other people.
+Candida infections of the mouth, throat, and esophagus. These fungal infections are more commonTrusted Source in people with weakened immune systems.
+Esophageal cancer is associated with persistent dysphagia, odynophagia, and unintentional weight loss. Someone who has esophageal cancer may feel pain in the chest or back when swallowing.
+Injuries or ulcers in the mouth, throat, or esophagus. These can be caused by physical trauma, surgery, or eating foods with sharp edges.
+Tobacco, alcohol or illegal drugs can irritate the mouth, throat, and esophagus, making it painful to swallow.
+Drinking very hot or cold drinks for an extended period can affect the mucus lining of the esophagus.
+
+---
+
+## Slide 7
+Treatments for painful swallowing include:
+treating the underlying causes, such as taking antibiotics for infections, or antacids for acid reflux
+anti-inflammatories to relieve pain from inflammations, such as tonsillitis and laryngitis
+avoiding alcohol and tobacco, as these substances can irritate the throat and esophagus
+eating soft food and chewing longer to make swallowing less painful
+using throat sprays to numb the throat and provide short-term pain relief
+In severe cases where swallowing is impossible due to pain, a feeding tube may be recommended to prevent weight loss.
+When odynophagia is caused by cancer or GERD, surgery is also an option.
+
+---
+

@@ -1,0 +1,470 @@
+## Slide 1
+Jaundice
+Dr.Mohamed Elmaghraby
+Assistant Lecturer of Pediatrics
+AL Hussein University Hospital
+Al Azhar University
+
+---
+
+## Slide 2
+
+---
+
+## Slide 3
+Case scenario
+5 years old boy presented with yellow eyes, pale skin and dark urine.What’s your differential diagnosis ???
+
+---
+
+## Slide 4
+Definition of Jaundice:
+Yellow discoloration of the sclera, skin and mucous membranes due to increased bilirubin level more than normal according to the patient age.
+Jaundice usually becomes clinically apparent when the serum total bilirubin concentration is greater than 2 to 3 mg/dL (34 to 51 micromol/L),
+
+Forms of bilirubin:
+Bilirubin occurs in plasma in two forms:
+
+1. unconjugated bilirubin: tightly bound to albumin.
+2. Conjugated bilirubin: the only fraction to appear in urine.
+
+---
+
+## Slide 5
+Conjugated hyperbilirubinemia
+Defined as serum conjugated bilirubin concentration >0.5 mg/dL (8.6 micromol/L).
+
+More commonly, the conjugated component is estimated by measuring "direct" bilirubin, which is elevated if it is >1 mg/dL (17 micromol/L) if the total bilirubin is 5 mg/dL (85 micromol/L) or more than 20 percent of the total bilirubin if the total bilirubin is >5 mg/dL (85 micromol/L). 
+
+Elevation in conjugated (or direct) bilirubin is an abnormal finding that requires further evaluation.
+
+---
+
+## Slide 6
+Unconjugated hyperbilirubinemia
+Defined as hyperbilirubinemia without an increase in the conjugated component.
+
+Thus, it is hyperbilirubinemia in which conjugated bilirubin is <1mg/dl (17 micromol/L) if the total bilirubin is 5 mg/dL (85 micromol/L) or less than 20 percent of the total bilirubin if the total bilirubin is >5 mg/dL (85 micromol/L).
+
+---
+
+## Slide 7
+CAUSES OF UNCONJUGATED HYPERBILIRUBINEMIA
+Unconjugated hyperbilirubinemia is caused by one of three basic pathophysiologic mechanisms :
+
+1- Bilirubin overproduction.
+
+2- Impaired hepatic bilirubin uptake.
+
+ 3- Impaired hepatic bilirubin conjugation.
+
+* After the neonatal period, the most common causes of unconjugated hyperbilirubinemia are hemolytic processes resulting in bilirubin overproduction.
+
+---
+
+## Slide 8
+| Bilirubin overproduction |
+| Extravascular hemolysis |
+| Extravasation of blood into tissues |
+| Hypersplenism |
+| Intravascular hemolysis |
+| Inherited red blood cell disorders |
+| Glucose-6-phosphate dehydrogenase deficiency* |
+| Sickle cell disease* |
+| Thalassemia |
+| Hereditary spherocytosis |
+| Hereditary elliptocytosis |
+| Infection: malaria, bacterial sepsis* |
+| Autoimmune hemolytic anemia |
+| Microangiopathic hemolytic anemia |
+| Drug induced hemolytic anemia (eg, cephalosporins, penicillins, trimethoprim-sulfamethoxazole)¶ |
+| Impaired hepatic bilirubin uptake |
+| Heart failure |
+| Portosystemic shunts |
+| Some patients with Gilbert syndrome |
+| Certain drugs: Rifamycin, probenecid, flavaspadic acid, bunamiodyl |
+| Impaired bilirubin conjugation |
+| Inherited |
+| Crigler-Najjar syndrome |
+| Gilbert syndrome* |
+| Acquired |
+| Neonates: physiologic hyperbilirubinemia,* breast-milk jaundice* |
+| Hyperthyroidism (mechanism unclear) |
+| Certain drugs: Ethinyl estradiol, gentamicin (above therapeutic range), novobiocin, antiretroviral drugs |
+| Liver diseases |
+| Chronic persistent hepatitis |
+| Advanced cirrhosis |
+| Wilson disease |
+
+---
+
+## Slide 9
+Bilirubin overproduction
+Bilirubin overproduction can result from increased breakdown of haemoglobin and other heme-containing proteins, typically due to extravascular or intravascular hemolysis or sometimes due to abnormal erythropoiesis.
+
+In patients with normal liver function, the liver efficiently conjugates and excretes the excess haemoglobin.
+
+As a result, the serum bilirubin concentration caused by hemolysis will rarely exceed 4 mg/dL (68.4 micromol/L).
+
+However, haemolysis can lead to severe hyperbilirubinemia in patients with concurrent liver disease, even if mild.
+
+---
+
+## Slide 10
+Extravascular hemolysis : is mainly caused by:
+
+1- Extravasation of blood into tissues (hematomas, pulmonary blood, and other collections of extravasated blood).
+
+2- Hypersplenism of various causes (including splenic sequestration in sickle cell disease).
+
+Intravascular hemolysis:
+* In most populations, the most common noninfectious causes of intravascular hemolysis in children are inherited red blood cell disorders: 
+
+1- Hemoglobinopathies (eg, sickle cell disease and related disorders). 
+2- Disorders of hemoglobin chain synthesis (the thalassemias).
+3- Erythrocyte membrane defects (hereditary spherocytosis, hereditary elliptocytosis, and related disorders).
+ 4- Erythrocyte enzyme deficiencies (eg, glucose-6-phosphate dehydrogenase deficiency).
+
+---
+
+## Slide 11
+Impaired hepatic bilirubin uptake
+
+Impaired delivery of bilirubin to the liver and disorders affecting bilirubin uptake by hepatocytes result in reduced hepatic bilirubin uptake and therefore increased levels of circulating unconjugated bilirubin.
+
+Reduced hepatic blood flow : 
+Conditions causing reduced hepatic blood flow and delivery of bilirubin to hepatocytes include heart failure and portosystemic shunts. The hyperbilirubinemia caused by these disorders is predominantly unconjugated. 
+
+Drugs :
+Administration of several drugs can impair bilirubin uptake. 
+Such effects will usually resolve within 48 hours of drug discontinuation.
+
+---
+
+## Slide 12
+Impaired bilirubin conjugation 
+
+Gilbert syndrome and Crigler-Najjar syndrome types I and II are among the inherited disorders that cause decreased or absent uridine glucuronoyl transferase (UGT) activity, an enzyme responsible for bilirubin conjugation with glucuronic acid.
+
+ Gilbert syndrome 
+ Gilbert syndrome is a common cause of unconjugated hyperbilirubinemia in adolescents and adults. Individuals with this condition have reduced bilirubin-UGT activity.
+
+ Crigler-Najjar syndrome 
+ Crigler-Najjar syndrome types I and II are characterized by the absence or deficiency of the enzyme bilirubin-UGT, respectively. Type I is the more severe form, which presents soon after birth and is associated with severe morbidity and mortality. Type II is the milder form and typically presents in infancy or later childhood but may appear as late as adolescence.
+
+---
+
+## Slide 13
+DIAGNOSTIC APPROACH
+The initial laboratory evaluation of a child presenting with jaundice should begin with measurement of the total serum bilirubin with fractionation (conjugated and unconjugated bilirubin), followed by serum alanine aminotransferase and aspartate aminotransferase, complete blood count with reticulocyte count, and microscopic examination of the blood smear. 
+
+These tests will help to categorize the jaundice by answering the following questions: 
+
+Are there signs or symptoms of sepsis?
+ * Jaundice with fever, toxic appearance, or abnormal white blood cell count suggests sepsis and calls for prompt evaluation and empiric treatment with antibiotics if indicated.
+
+---
+
+## Slide 14
+Is the jaundice caused by hyperbilirubinemia? 
+* Jaundice usually becomes clinically apparent when the serum total bilirubin concentration is greater than 2 to 3 mg/dL (34 to 51 micromol/L), but the threshold varies among patients. 
+
+* If the serum bilirubin level is not elevated, the patient's yellow-appearing skin is not true jaundice and is probably due to carotenemia, which also can be distinguished from jaundice during a physical examination because there is no scleral icterus in carotenemia.
+
+Is the hyperbilirubinemia unconjugated? 
+* If hyperbilirubinemia is present, the next step is to determine whether it is unconjugated or conjugated. 
+
+● Unconjugated : The hyperbilirubinemia is unconjugated if there is only a small conjugated component (ie, conjugated bilirubin < 1 mg/dL if total bilirubin > 5mg/dl, or less than 20 percent of the total bilirubin if the total bilirubin is >5 mg/dL). 
+● Conjugated : Hyperbilirubinemia with a large conjugated component (conjugated bilirubin >1 mg/dL, or more than 20 percent of the total bilirubin) indicates a very different set of diagnostic possibilities.
+
+---
+
+## Slide 15
+Is the patient anemic? 
+
+* If the hyperbilirubinemia is unconjugated and the child is well-appearing, the presence or absence of anemia will determine the likely diagnostic possibilities.
+
+ * Unconjugated hyperbilirubinemia with anemia.
+ * Unconjugated hyperbilirubinemia without anemia.
+
+---
+
+## Slide 16
+HISTORY AND PHYSICAL EXAMINATION
+The differential diagnosis of unconjugated hyperbilirubinemia is broad and requires a thorough history and physical examination as part of the initial evaluation.
+
+History 
+
+A general clinical history is the first step in the evaluation of the child with unconjugated hyperbilirubinemia. Attention should focus on the following historical details: 
+
+1- Age of the patient at first presentation.
+2- History of inherited disorder (including liver diseases and hemolytic disorders), including a family history of jaundice or anemia  
+3- History of medication/toxic exposure.
+4- Dietary history (appetite, carotene intake, fava bean ingestion if glucose-6-phosphate dehydrogenase deficiency is suspected).
+5- Travel history
+
+---
+
+## Slide 17
+Physical examination
+* General appearance
+ A toxic appearance suggests sepsis or other serious underlying condition. 
+
+* Skin and sclerae 
+The sclerae and skin should be examined closely under adequate light. In patients with dark skin, the palms and soles are less pigmented and may be easier to evaluate for jaundice or pallor .
+
+ ● In patients with mild hyperbilirubinemia (eg, 2 to 3 mg/dL), jaundice may be subtle and seen only in the sclerae. 
+
+● Jaundice should be distinguished from carotenemia. In carotenemia, the sclerae are not discolored and the skin color is characteristically more yellow-orange rather than yellow and more noticeable over the palms and soles; serum bilirubin is normal.
+
+ ● Pallor and/or vital sign changes, such as tachycardia and hypotension, may indicate anemia secondary to hemolysis or blood loss.
+
+---
+
+## Slide 18
+● Large areas of bruising or hematoma formation suggest extravascular hemolysis as the cause of the unconjugated hyperbilirubinemia. 
+
+Abdomen 
+
+● Hepatomegaly or liver tenderness suggests the possibility of hepatitis (eg, viral or druginduced), which can cause hyperbilirubinemia due to hepatocellular dysfunction. 
+
+● Splenomegaly may indicate a hypersplenic state such as splenic sequestration in sickle cell disease, portal hypertension, or autoimmune hemolysis as may occur in systemic lupus erythematosus.
+
+---
+
+## Slide 19
+LABORATORY TESTING
+The serum total bilirubin measurement with fractionation is the first test in the evaluation of the patient with jaundice. 
+
+Transcutaneous bilirubin devices provide useful measures of bilirubin levels in neonates but do not distinguish between conjugated and unconjugated bilirubin.
+
+This technique has not been validated in older infants and children and is not recommended for use beyond the neonatal period. 
+
+If unconjugated hyperbilirubinemia is confirmed, further testing is warranted to determine the underlying etiology. 
+
+* This includes complete blood count and reticulocyte count. Serum aminotransferases should also be measured.
+* Elevated values suggest the presence of liver disease, and measurement of the prothrombin time and partial thromboplastin time may be warranted.
+
+---
+
+## Slide 20
+Unconjugated hyperbilirubinemia with anemia and/or hemolysis
+For patients with anemia and/or evidence of hemolysis, a peripheral blood smear should be examined microscopically and a direct antiglobulin (Coombs) test should be performed to look for evidence of autoimmune hemolysis.
+
+Sickle cells, spherocytes, or elliptocytes suggest a specific red blood cell disorder. 
+
+Helmet cells or fragmented cells are diagnostic of a microangiopathic hemolytic anemia, as may be seen in hemolytic-uremic syndrome.
+
+Testing for glucose-6-phosphate dehydrogenase deficiency should be considered in children with appropriate risk factors. Boys of African or Mediterranean descent are most likely to have symptomatic disease, which may be triggered by infection or exposure to certain drugs (eg, sulfamethoxazole and some antimalarial agents).
+
+---
+
+## Slide 21
+Unconjugated hyperbilirubinemia without anemia or hemolysis
+Patients without anemia or evidence of hemolysis who have no laboratory abnormality other than a serum unconjugated bilirubin level less than 5 mg/dL probably have Gilbert syndrome .
+
+Confirmation of the diagnosis can be made by detecting a reduction in hepatic bilirubin-uridine glucuronoyl transferase (UGT) activity, which is approximately 30 percent of normal .
+
+However, this test is not necessary to establish the diagnosis of Gilbert syndrome if the patient is otherwise healthy and has no evidence of hemolysis or liver disease.
+
+Children with serum unconjugated bilirubin levels well above 5 mg/dL should be evaluated for Crigler Najjar syndrome.
+
+---
+
+## Slide 22
+Other results
+Patients who do not have unconjugated hyperbilirubinemia fall into the following categories:
+
+* Yellow-appearing skin without hyperbilirubinemia:
+
+The most likely cause is carotenemia.
+Carotenemia is usually found in infants and toddlers whose diets consist of large amounts of strained yellow vegetables, particularly carrots.
+Unlike jaundice, the sclerae are not discolored.
+In carotenemia, the skin color is characteristically more yellow-orange rather than yellow and more noticeable over the palms and soles.
+Although the diet is a major cause of carotenemia in childhood, other causes include nephrotic syndrome, diabetes mellitus, anorexia nervosa, liver disease, and hypothyroidism.
+
+---
+
+## Slide 23
+Conjugated hyperbilirubinemia:
+The finding of hyperbilirubinemia with a large conjugated component calls for a different approach to the work-up.
+
+The causes of conjugated hyperbilirubinemia are largely distinct from those of unconjugated hyperbilirubinemia, although some cases may have mixed mechanisms. 
+
+Causes of conjugated hyperbilirubinemia include biliary obstruction (eg, gallstones), liver disease causing hepatocellular dysfunction (eg, hepatitis, sepsis, or hepatotoxic drugs), and several inherited disorders (eg, Dubin-Johnson or Rotor syndrome).
+
+Some disorders, including sickle cell disease, can present with either unconjugated or conjugated hyperbilirubinemia, depending upon the presence of infection, biliary obstruction, or hepatocyte injury that prevents efficient conjugation and clearance of bilirubin.
+
+---
+
+## Slide 24
+Hepatitis
+
+---
+
+## Slide 25
+DEFINITION:
+
+It is an inflammatory process of the hepatocytes characterized by degeneration and regeneration with loss of hepatic architecture
+
+
+TYPES:
+
+a) Acute: less than six months duration
+b) Chronic: more than six months.
+
+---
+
+## Slide 26
+ETIOLOGY:
+Infections:
+* 1. Viral:
+Hepatotropic: A, B, C, D, E viruses
+Non hepatotropic:
+* Infect the liver in the course of other systemic illness:
+ Epstein-Barr virus (EBV).
+ Cytomegalovirus (CMV).
+ Rubella Varicella & Measles viruses.
+* 2. Bacterial
+ As a part of generalized septicemia
+ Liver abscess.
+ Leptospirosis.
+* 3. Protozoal: Amoebic hepatitis.
+
+---
+
+## Slide 27
+Drugs and Toxins:
+ Anti T.B. e.g. Isoniazid.
+ Antimetabolites.
+ Anticonvulsant (valporic acid).
+ Irradiation.
+ Chlorpromazine.
+ Halothane.
+ Total parenteral nutrition.
+Immunological Disorders:
+ As a part of: SLE & JRA
+ auto immune hepatitis (lipoid hepatitis)
+Metabolic Causes:
+ Alpha antitrypsine deficiency
+ Galactosemia
+ Tyrosinemia
+ Hemosiderosis
+ Hemochromaosis (Wilson disease).
+Vascular Causes
+ Hepatic vein thrombosis
+ Hepatic artery thrombosis
+
+---
+
+## Slide 28
+HEPATITIS A VIRUS INFECTION
+Mode of transmission:
+
+Feco- oral route.
+
+Incubation period:
+
+2-6 Ws (average 4 week).
+
+---
+
+## Slide 29
+Clinical Picture:
+Pre-Icteric phase (Prodromal): (1-2 w)
+ Fever.
+ Headache.
+ Malaise.
+ Absolute anorexia.
+ Others: Nausea, vomiting, lethargy. 
+* This phase can be passed unnoticed by the parents.
+Icteric phase: (2-3 w)
+ Jaundice.
+ Dark urine.
+ Abdominal pain
+ Soft, enlarged tender liver.
+Convalescence phase: (1-2 w)
+After which the child becomes nearly normal.
+
+---
+
+## Slide 30
+Investigations:
+Serum level of direct and indirect bilirubin: Raised.
+Serum transaminases (ALT & AST): Marked elevation.
+Urine contains both bilirubin (dark color) & Urobilinogen.
+
+IgM Anti- HAV:
+* Detected at the onset of the symptoms.
+* Disappears within 4 months.
+
+IgG anti-HAV:
+* Appears at 8 weeks and persists for life.
+
+---
+
+## Slide 31
+Treatment:
+There is no specific therapy for acute viral hepatitis.
+ Most children are managed at home except if liver cell failure is suspected.
+
+Prevention:
+ Period of infectivity:
+* Contagious for about 7 days before and 7 days after the onset of jaundice.
+
+ Period of isolation from school:
+* Patient should be excluded from school and child care centers, from the appearance of dark color urine and appearance of jaundice till 7 days after.
+
+1. Careful hand washing after changing diapers and before preparation of food.
+2. Fly control.
+3. Intramuscular immunoglobulin may be indicated in pre and post exposure.
+4. Hepatitis A vaccine is now available to be given at 18 months old.
+5. Contacts are immunized with immunoglobulin or the vaccine.
+
+---
+
+## Slide 32
+SUMMARY AND RECOMMENDATIONS
+Jaundice is the clinical finding caused by hyperbilirubinemia; it usually becomes apparent at serum bilirubin concentrations above 2 mg/dL, which is twice the upper limit of normal.
+
+A patient with a jaundiced appearance but normal serum bilirubin most likely has carotenemia, which also can be distinguished from jaundice during a physical examination.
+
+In most jaundiced infants and children, the hyperbilirubinemia is exclusively or primarily unconjugated. This can be caused by bilirubin overproduction (eg, hemolysis), impaired hepatic bilirubin uptake (eg, reduced hepatic blood flow or certain drugs), or impaired bilirubin conjugation (eg, Gilbert or Crigler-Najjar syndromes) .
+
+---
+
+## Slide 33
+Ill-appearing infants and children with jaundice should be evaluated promptly for sepsis, as well as for other possible causes of their hyperbilirubinemia. Sepsis can cause hyperbilirubinemia through several mechanisms, including intravascular haemolysis (bilirubin overproduction).
+
+Gilbert syndrome is a common cause of unconjugated hyperbilirubinemia, particularly in adolescents and adults. It is a heritable defect in bilirubin glucuronidation and presents with mild transient elevations of unconjugated bilirubin, often triggered by an intercurrent illness. 
+
+After sepsis is excluded, the diagnostic evaluation should establish whether the hyperbilirubinemia is unconjugated. If so, the next steps are:
+
+* If anemia is present, evaluate for hemolysis and then for specific hemolytic disorders.
+* If there is no anemia, the patient should be evaluated for the possibility of underlying liver disease, versus inherited disorders of impaired bilirubin conjugation (Gilbert or Crigler-Najjar syndrome)
+
+---
+
+## Slide 34
+Hepatitis A virus (HAV) infection occurs worldwide. HAV is spread via the fecal oral route. The majority of patients who acquire the illness have had personal contact with an infected person. 
+
+HAV infection in children is typically an acute, self-limited illness associated with nonspecific symptoms, such as fever, malaise, anorexia, vomiting, nausea, abdominal pain or discomfort, and diarrhea. During the prodromal period, aminotransferases are typically elevated. Jaundice (conjugated hyperbilirubinemia) usually occurs one week after onset of symptoms, along with choluria (bilirubin in the urine) and mild hepatomegaly.
+
+HAV disease tends to be more severe when acquired at older ages. Among younger children (under six years of age) with HAV infection, only one-third develop symptomatic hepatitis and this often lasts less than two weeks. In contrast, most older children and adults with HAV infection are jaundiced and have hepatomegaly, and they are usually symptomatic for several weeks.
+
+---
+
+## Slide 35
+The diagnosis of acute HAV infection is made by the detection of anti-HAV immunoglobulin M (IgM) in a patient with the typical clinical presentation. This antibody is positive at the onset of symptoms, peaks during the acute or early convalescent phase of the disease, and remains positive for approximately four to six months.
+
+Hepatitis A vaccine is part of the recommended childhood and adolescent immunization schedule. It is recommended as a two-dose series for all children beginning at one year of age and also for specific high-risk groups, including international travelers and patients with chronic liver disease.
+
+HAV infection in children is usually a minor and self-limited infection requiring no specific therapy. The usual supportive measures for fever and diarrhea may be undertaken. Patients rarely require hospitalization, except for those who develop acute liver failure.
+
+---
+
+## Slide 36
+Thank You
+
+---
+

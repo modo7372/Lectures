@@ -1,0 +1,119 @@
+## Page 1
+Vascular diseases of liver
+ Collection of rare conditions, each affecting <5/10,000 patients
+– Represent an important worldwide health problem
+ Non-cirrhotic portal hypertension is a common characteristic of many VDL
+– Results in high morbidity and mortality
+ Enemurate VDL:
+✅Splanchnic vein thrombosis.
+✅Budd–Chiari syndrome.
+✅Acute portal vein thrombosis.
+✅Extrahepatic portal vein obstruction
+✅Idiopathic non-cirrhotic portal hypertension
+✅Hepatic vascular malformations in hereditary haemorrhagic telangiectasia
+✅Sinusoidal obstruction syndrome
+✅portal vein obstruction
+ Splanchnic venous thrombosis in patient without liver disease
+Splanchnic vein thrombosis includes:
+– Budd−Chiari syndrome (thrombosis of the hepatic venous system)
+– Portal vein thrombosis
+ Both conditions are caused by uncommon pro-thrombotic disorders
+– Myeloproliferative neoplasms are the leading cause
+– Thrombophilia
+– Other local and systemic factors
+ Aetiology of BCS and PVT is often multifactorial.
+ Risk factors in BCS, PVT:
+✅Thrombophilia: Inherited ,  Acquired
+✅Myeloproliferative neoplasm : JAK2V617F positive
+✅Hormonal factors: Oral contraceptives ,Pregnancy
+✅PNH
+✅Other systemic factors
+✅Local factors
+ Budd ciari syndrome
+BCS is defined by the obstruction of hepatic venous outflow
+Primary BCS: caused by thrombosis
+Western countries: pure hepatic vein thrombosis is the most common
+Asia: pure IVC or combined IVC/hepatic vein block predominates
+Secondary BCS: other causes, such as malignant invasion
+ Pathophysiological consequences of obstruction include:
+– Sinusoidal congestion
+– Liver ischaemia
+– Hepatocellular necrosis
+ Diagnosis requires unequivocal radiological confirmation of hepatic venous flow obstruction
+  (Colored duplex ultrasound) Of choice
+
+
+## Page 2
+ Dx:
+ Consider diagnosis of BCS in any symptomatic or asymptomatic patient with acute or chronic
+liver disease.
+ Doppler ultrasound is the first line of investigation for BCS.
+ MRI and CT have to be used for diagnostic confirmation.
+ Re-evaluate the patient with an expert radiologist in patients with negative imaging studies but
+a high suspicion of BCS.
+ Refer patients with BCS to expert centres
+ Stepwise treatment:
+1st
+Medical treatment
+2nd
+Angioplasty/stenting/thrombolysis
+3rd
+TIPS
+4th
+Liver transplant
+1.) Medical treatment:
+ Patients should receive anticoagulation (LMWH = Clexan) as soon as possible     for an
+indefinite period then malivan
+ adjust INR at 2 - 3
+ Treatment of underlying cause (e.g. MPNs)should be logically initiated.
+ pregnancy: LMHH only no warfarine
+Acute portal vein thrombosis:
+Recent thrombus formation within the portal vein and/or right or left branches
+– Thrombus may extend into the mesenteric or splenic veins
+• occurring in the absence of malignancy or cirrhosis.
+Duplex ultrasound as 1st line then CT to confirm the dx
+Treatment: anti-coagulation( LMWH) 
+ AIM: Recanalization.
+ follow up by CT angiography.
+Extrahepatic portal vein obstruction
+Causes:
+– Malignant invasion
+– Portal vein narrowing due to a malignant tumour
+– Thrombosis
+ Following acute thrombosis in the absence of recanalization
+ Portal venous lumen obliterates
+ Porto-portal collaterals develop
+ Portal cavernoma after 2 months
+ EHPVO should be considered in patients with features of portal hypertension or hypersplenism
+ Essential features are:
+– Absence of visible lumen corresponding to the portal vein
+– Presence of numerous serpiginous vascular channels in porta hepatis
+ Consider screening for EHPVO in patients with myeloproliferative disease and antiphospholipid
+. syndrome
+Use Doppler ultrasound as first-line investigation , CT for confirmation and further evaluation.
+ Treatment: Anti coagulations.
+
+
+## Page 3
+Idiopathic non-cirrhotic portal hypertension (INCPH) ; Hepatic vascular malformations.(Reading
+only if you want.
+Sinusoidal obstruction syndrome
+Characterized morphologically by loss of sinusoidal wall integrity
+Well-established complication of myeloablative regimens in HSCT
+Associated with a large number of drugs and toxins
+Actinomycin D
+Azathioprine
+mitomycine
+Cyclophosphamide
+6-thioguanine
+Terbinafine
+6-mercaptopurine
+Post-bone marrow transplant
+Total-body irradiation
+Hepatic irradiation (high doses)
+Platelet transfusion containing ABO-incompatible plasma
+Signs and symptoms include
+– Weight gain, tender hepatomegaly and jaundice
+Dx: Liver biopsy
+
+

@@ -1,0 +1,611 @@
+## Slide 1
+By
+Dr.Noaman Al Basiouni Gouda
+Lecturer of pediatrics 
+Al Azhar university
+Acute and Chronic
+Vomiting in Pediatrics
+
+---
+
+## Slide 2
+Learning Objectives
+Overview
+1. Recognize
+Differentiate vomiting from regurgitation, rumination, and physiologic infant “spitting”.
+2. Classify
+Use time course, age, vomitus character, associated symptoms, and hydration status.
+3. Identify danger
+Escalate bilious vomiting, shock, neurologic signs, severe abdominal findings, and toxic/metabolic clues.
+4. Investigate rationally
+Choose labs and imaging based on the most likely diagnosis rather than ordering a broad panel automatically.
+5. Manage safely
+Prioritize hydration, correction of electrolyte abnormalities, cause-specific therapy, and safety-net advice.
+6. Plan follow-up
+For chronic vomiting, assess growth, nutrition, psychosocial context, and need for pediatric GI referral.
+2
+
+---
+
+## Slide 3
+Background: Why Vomiting Matters
+Background
+RCH Vomiting guideline; MSD Manual Professional
+Vomiting is a common pediatric symptom — not a diagnosis.
+Most acute cases are self-limited infection, but serious causes must not be missed.
+The first clinical question is: “Is this child dehydrated, obstructed, septic, toxic, or neurologically abnormal?”
+Age matters: neonatal vomiting has a very different differential diagnosis from adolescent vomiting.
+Core principle
+Treat the child first, then treat the vomiting. Stabilization and red-flag recognition precede detailed diagnosis.
+3
+
+---
+
+## Slide 4
+Physiology of Vomiting: The Emetic Network
+Background
+MSD Manual Professional, reviewed/revised Mar–Apr 2025
+Medullary
+emetic center
+GI vagal afferents
+CTZ / area postrema
+Vestibular system
+Higher CNS / ICP / pain
+Toxins / drugs / metabolic
+Clinical link
+Different pathways explain why vomiting can be caused by gastroenteritis, obstruction, migraine, raised ICP, sepsis, drugs, toxins, or metabolic disease.
+4
+
+---
+
+## Slide 5
+Key Terminology: Do Not Call Everything “Vomiting”
+Definitions
+Term
+Practical meaning
+Vomiting
+Forceful expulsion of gastric contents, usually with retching and autonomic symptoms.
+Nausea
+Subjective feeling of impending emesis; difficult to assess in infants.
+Regurgitation
+Passive return of gastric/esophageal contents; common in infants.
+Rumination
+Repeated effortless regurgitation soon after meals; not preceded by retching.
+Projectile vomiting
+Forceful vomiting; in a young infant suggests pyloric stenosis.
+Clear language prevents wrong pathways in diagnosis.
+5
+
+---
+
+## Slide 6
+Definition: Acute Vomiting
+Definitions
+Pediatrics in Review: Vomiting in Children; RCH Vomiting guideline
+Working definition
+Acute vomiting = recent-onset vomiting over hours to days; many reviews emphasize a rapid presentation over 24–48 hours, commonly from infection but not always.
+Typical clinical frame
+Assess severity, hydration, abdominal signs, neurologic status, exposure history, and age-specific emergencies.
+Do not anchor
+Acute vomiting without diarrhea should prompt a broader differential than “gastroenteritis”.
+6
+
+---
+
+## Slide 7
+Definition: Chronic, Recurrent, and Cyclic Vomiting
+Definitions
+Rome IV criteria; Pediatrics in Review
+Chronic vomiting
+Persistent or frequent vomiting over weeks to months; often lower volume and less dehydrating than acute vomiting, but may affect growth and nutrition.
+Functional vomiting
+Rome IV pediatric criteria: ≥1 vomiting episode per week, not self-induced/eating disorder/rumination, not explained after appropriate evaluation.
+Cyclic vomiting syndrome
+Stereotyped intense episodes lasting hours–days, separated by weeks–months with return to baseline health.
+7
+
+---
+
+## Slide 8
+Classification Framework: A Fast Mental Model
+Definitions
+Age
+Neonate / infant / child / adolescent
+Time course
+Acute / chronic / recurrent / cyclic
+Vomitus
+Bilious / bloody / projectile / feculent
+Context
+Fever / diarrhea / pain / headache / exposure
+Hydration
+Urine output / tears / mucosa / perfusion
+Stabilize
+Classify
+Find red flags
+Target tests
+Treat cause
+Use every time
+This structure keeps the assessment safe even in a busy emergency or outpatient setting.
+8
+
+---
+
+## Slide 9
+Red Flags: Vomiting That Needs Urgent Escalation
+Assessment
+RCH Vomiting guideline; NSW Paediatric ECAT; MSD Manual
+Bilious / dark green vomit
+GI obstruction until proven otherwise
+Hematemesis / feculent vomit
+bleeding or obstruction concern
+Shock or severe dehydration
+tachycardia, poor perfusion, lethargy
+Severe abdominal pain/distension
+appendicitis, volvulus, intussusception
+Neurologic signs
+headache, morning vomiting, papilledema, altered mental status
+Toxic/metabolic clues
+hypoglycemia, acidosis, unusual odor, hepatomegaly
+Critical point
+Stopping vomiting with ondansetron does not exclude a serious diagnosis.
+9
+
+---
+
+## Slide 10
+Major Etiologic Categories
+Causes
+GI infectious
+viral gastroenteritis, bacterial enteritis
+GI obstructive/surgical
+malrotation/volvulus, pyloric stenosis, intussusception
+CNS
+raised ICP, meningitis, migraine, trauma
+Metabolic/endocrine
+DKA, adrenal crisis, inborn errors
+Renal/urinary
+UTI, pyelonephritis, renal colic
+Toxicologic/drug
+ingestions, cannabis hyperemesis, medications
+Vomiting is a final common pathway of many systems.
+10
+
+---
+
+## Slide 11
+Acute Vomiting: Common Non-surgical Causes
+Causes
+MSD Manual; RCH Vomiting guideline
+Acute viral gastroenteritis
+Most common overall; often vomiting + diarrhea ± fever/contact history.
+Foodborne illness
+Abrupt vomiting after shared meal; consider toxins or bacterial disease if severe/bloody.
+Non-GI infections
+UTI/pyelonephritis, otitis media, pneumonia, strep throat, meningitis, sepsis.
+Motion sickness / migraine
+Older child with triggers, recurrent pattern, headache, photophobia, family history.
+Medication/toxin
+Iron, acetaminophen, alcohol, antibiotics, chemotherapy, accidental ingestion.
+Pregnancy / CHS in adolescents
+Always consider confidential history and testing when appropriate.
+11
+
+---
+
+## Slide 12
+Acute Vomiting: Surgical & Obstructive Emergencies
+Causes
+MSD Manual table of causes; RCH Vomiting guideline
+Condition
+Clues and first diagnostic step
+Malrotation with volvulus
+Bilious vomiting, pain/distension, shock; urgent surgical review ± upper GI series.
+Pyloric stenosis
+2–12 weeks, projectile non-bilious vomiting after feeds; pyloric ultrasound.
+Intussusception
+3–36 months, episodic pain/crying, lethargy, legs drawn up; abdominal ultrasound ± enema.
+Appendicitis
+Pain migrating to RLQ, fever, anorexia; labs + ultrasound/CT depending setting.
+Hirschsprung/atresia
+Neonate, delayed meconium, distension, bilious vomiting; radiograph/contrast enema/biopsy.
+Rule
+Bilious vomiting in a child, especially an infant, is a surgical problem until proven otherwise.
+12
+
+---
+
+## Slide 13
+CNS & Intracranial Causes
+Causes
+RCH Vomiting guideline; MSD Manual
+Raised intracranial pressure: early morning vomiting, headache, visual symptoms, papilledema.
+Meningitis/encephalitis: fever, neck stiffness, photophobia, altered consciousness.
+Trauma/non-accidental injury: vomiting + neurological change or unexplained injury pattern.
+Migraine/abdominal migraine: episodic vomiting with headache, pallor, photophobia, family history.
+Important
+Vomiting without diarrhea is a diagnostic warning — do not default to gastroenteritis.
+13
+
+---
+
+## Slide 14
+Metabolic, Endocrine & Toxic Causes
+Causes
+Diabetic ketoacidosis
+Vomiting + polyuria/polydipsia, weight loss, abdominal pain, Kussmaul breathing; check glucose/ketones.
+Adrenal crisis
+Vomiting + shock, hypoglycemia, hyperkalemia, hyponatremia, pigmentation/history of steroid withdrawal.
+Inborn errors
+Neonate/infant: poor feeding, lethargy, acidosis, hyperammonemia, unusual odor, hepatomegaly.
+Toxic ingestion
+Sudden unexplained vomiting; altered sensorium; medication access; ask about acetaminophen, iron, salicylates.
+Pregnancy
+Adolescent: morning nausea/vomiting, amenorrhea; use confidential, nonjudgmental assessment.
+Cannabinoid hyperemesis
+Cyclic vomiting in cannabis users; may report hot showers; sustained cessation is key.
+14
+
+---
+
+## Slide 15
+Age-Based Differential: Neonate & Young Infant
+Causes
+MSD Manual table of causes
+Age / pattern
+Think of...
+First 24–48 h + bilious
+Atresia, stenosis, malrotation/volvulus, Hirschsprung disease.
+2–12 weeks + projectile
+Hypertrophic pyloric stenosis.
+Feeds + recurrent regurgitation
+Physiologic GER or GERD if poor growth/respiratory signs.
+Fever/lethargy
+Sepsis, UTI, meningitis.
+Poor feeding + lethargy/acidosis
+Metabolic disease, adrenal crisis.
+Neonatal principle
+Repeated vomiting in neonates is abnormal until assessed. Bilious vomiting deserves urgent surgical evaluation.
+15
+
+---
+
+## Slide 16
+Age-Based Differential: Child & Adolescent
+Causes
+MSD Manual Professional
+Preschool child
+Gastroenteritis, UTI, intussusception, appendicitis, constipation, respiratory infection.
+School-age child
+Gastroenteritis, appendicitis, migraine, raised ICP, diabetic ketoacidosis, functional disorders.
+Adolescent
+Pregnancy, eating disorder, toxic ingestion, cannabis hyperemesis, migraine, infection, DKA.
+16
+
+---
+
+## Slide 17
+Chronic Vomiting: Gastrointestinal Causes
+Causes
+Pediatrics in Review; NASPGHAN–ESPGHAN GERD guideline summary
+GERD / reflux disease
+Vomiting or regurgitation with feeding difficulty, poor weight gain, respiratory symptoms, irritability.
+Eosinophilic esophagitis
+Vomiting, dysphagia/food impaction, atopy, feeding refusal; requires endoscopy/biopsy.
+Peptic disease/gastritis
+Epigastric pain, hematemesis, NSAID use, H. pylori context; consider endoscopy if alarm signs.
+Constipation
+Chronic stool retention can cause nausea/vomiting, abdominal distension, poor appetite.
+Gallbladder/pancreatic disease
+RUQ/epigastric pain, fatty food triggers, jaundice, abnormal liver/pancreatic enzymes.
+Food allergy/intolerance
+Vomiting with diarrhea, eczema, urticaria, blood in stool, growth concerns; trial guided by clinician.
+17
+
+---
+
+## Slide 18
+Functional & Pattern-Based Chronic Vomiting
+Causes
+Rome IV criteria
+Functional vomiting
+At least weekly vomiting; not explained by organic disease and not due to eating disorder or rumination.
+Rumination syndrome
+Effortless regurgitation soon after meals, not during sleep, not preceded by retching.
+Cyclic vomiting syndrome
+Stereotyped episodes, intense vomiting hours–days, symptom-free intervals; migraine association.
+Abdominal migraine
+Paroxysmal midline/periumbilical abdominal pain with nausea/vomiting, pallor, photophobia/headache.
+Eating disorders
+Weight/shape concerns, self-induced vomiting, dental enamel erosion, parotid enlargement, secrecy.
+18
+
+---
+
+## Slide 19
+Chronic Vomiting: Systemic Causes to Exclude
+Causes
+System
+Examples / clues
+Neurologic
+Raised ICP, brain tumor, hydrocephalus, seizures, migraine.
+Endocrine/metabolic
+DKA, adrenal insufficiency, urea cycle defects, organic acidemias.
+Renal/urinary
+Recurrent UTI, obstruction, renal failure, hypertension.
+Cardiorespiratory
+Heart failure, chronic cough with post-tussive emesis.
+Psychosocial/behavioral
+Stress-related vomiting, school avoidance, anxiety, eating disorder, safeguarding concerns.
+Chronic ≠ benign
+Growth faltering, nocturnal vomiting, persistent pain, neurologic signs, or GI bleeding are alarm features.
+19
+
+---
+
+## Slide 20
+Diagnostic Approach Step 1: Focused History
+Diagnostic approach
+Timing
+Onset, duration, frequency, relationship to meals, morning/nocturnal pattern.
+Character
+Bilious, bloody, projectile, feculent, undigested food, effortless regurgitation.
+Associated symptoms
+Diarrhea, fever, abdominal pain, headache, urinary symptoms, cough, rash, weight loss.
+Exposures
+Sick contacts, travel, food, medications, toxins, cannabis, pregnancy risk.
+Baseline & growth
+Weight trajectory, feeding, stooling, development, chronic disease, prior surgeries.
+Hydration
+Urine output, thirst, tears, mucosa, lethargy, ability to tolerate fluids.
+20
+
+---
+
+## Slide 21
+Diagnostic Approach Step 2: Physical Examination
+Diagnostic approach
+General appearance: toxic, lethargic, irritability, perfusion, respiratory pattern.
+Hydration: mucous membranes, tears, capillary refill, skin turgor, pulse, blood pressure, urine output.
+Abdomen: distension, tenderness, guarding, masses, bowel sounds, hernias, testicular exam in boys.
+Neurologic: mental state, headache signs, neck stiffness, fontanelle, gait, papilledema when possible.
+Growth/nutrition: weight, height, BMI/percentiles; signs of chronic disease or eating disorder.
+Exam goal
+Identify dehydration/shock and localizing signs that determine urgency and investigations.
+21
+
+---
+
+## Slide 22
+Hydration Assessment
+Diagnostic approach
+RCH Dehydration guideline, updated Apr 2026
+Severity
+Typical clinical picture
+Mild <5%
+Alert, normal vital signs or minimal changes; thirsty; may have reduced intake.
+Moderate 5–9%
+Irritable/lethargic, tachycardia, dry mucosa, decreased urine, delayed capillary refill.
+Severe ≥10%
+Reduced consciousness, marked tachycardia, hypotension/shock, deep acidotic breathing.
+Practical monitoring
+Record weight if possible, input/output, urine frequency, and response to oral/NG/IV rehydration.
+22
+
+---
+
+## Slide 23
+Targeted Investigations: When and What?
+Diagnostic approach
+MSD Manual; RCH Dehydration guideline
+Often no tests
+Mild acute gastroenteritis with clear history, normal exam, and no dehydration or red flags.
+Basic labs
+Glucose, electrolytes, urea/creatinine if prolonged vomiting, IV fluids, severe dehydration, young infant, or abnormal mental status.
+Infection tests
+Urinalysis/culture, stool PCR/culture if severe/bloody/prolonged/travel/outbreak, blood cultures if septic.
+Metabolic/toxic
+Ketones, blood gas, lactate, ammonia, LFTs, toxicology/acetaminophen/salicylate when suggested.
+Pregnancy test
+Adolescents with vomiting: consider confidential urine/serum pregnancy testing when clinically appropriate.
+Principle
+Testing is diagnosis-driven: order what will change management.
+23
+
+---
+
+## Slide 24
+Imaging Choices by Suspected Diagnosis
+Diagnostic approach
+MSD Manual table of causes
+Suspected diagnosis
+Preferred imaging / test
+Pyloric stenosis
+Pyloric ultrasound; upper GI contrast if ultrasound unavailable/uncertain.
+Intussusception
+Abdominal ultrasound; air/contrast enema can be diagnostic and therapeutic if appropriate.
+Malrotation/volvulus
+Urgent surgical review; upper GI series often used if stable.
+Obstruction/perforation
+Abdominal radiograph; CT/contrast studies depending scenario and specialist advice.
+Raised ICP
+Neuroimaging guided by acuity and local protocols; do not delay stabilization.
+Imaging rule
+Imaging follows the clinical syndrome; bilious vomiting is not “watch and wait”.
+24
+
+---
+
+## Slide 25
+Management Plan: Universal Priorities
+Management
+ABCDE
+Hydration
+Glucose/electrolytes
+Cause-specific therapy
+Disposition
+Stabilize first
+Airway protection, circulation, shock treatment, mental status, sepsis pathway if needed.
+Rehydrate
+Oral/NG if mild–moderate and tolerated; IV isotonic fluids for shock/severe dehydration or failed enteral route.
+Avoid masking danger
+Antiemetic relief does not remove the need to reassess red flags and surgical/neurologic causes.
+Treat the cause
+Antibiotics, surgery, migraine therapy, DKA protocol, toxin management, constipation plan, GERD/EoE treatment, etc.
+Safety-net
+Clear return instructions: bile/blood, lethargy, severe pain, dehydration, persistent vomiting, new neurologic signs.
+25
+
+---
+
+## Slide 26
+Management: Acute Gastroenteritis & Dehydration
+Management
+NICE CG84; RCH Gastroenteritis guideline; RCH Dehydration guideline
+No dehydration: continue usual fluids/feeding; give extra oral fluids and monitor.
+Mild–moderate dehydration: oral rehydration solution in small, frequent amounts; NG route is often preferred over IV if oral fails.
+RCH gastroenteritis guideline suggests ORS at approximately 10 mL/kg/hour in mild dehydration.
+NICE under-5 gastroenteritis guidance recommends 50 mL/kg ORS over 4 hours plus maintenance volume for rehydration.
+Severe dehydration/shock: isotonic IV fluids and urgent reassessment.
+26
+
+---
+
+## Slide 27
+Antiemetics: Useful but Not a Diagnosis
+Management
+RCH Vomiting guideline; NCBI Bookshelf review
+Ondansetron
+Can reduce vomiting and facilitate ORT in selected children with gastroenteritis-related vomiting.
+Cautions
+Avoid/consider ECG risk factors: congenital long QT, electrolyte abnormalities, interacting drugs; may increase diarrhea.
+Not routine for all
+Use does not exclude surgical, CNS, metabolic, toxicologic, or sepsis causes.
+27
+
+---
+
+## Slide 28
+Management: When Surgical or Critical Illness Is Suspected
+Management
+Nil by mouth, IV access, isotonic fluids, glucose/electrolyte correction.
+Urgent pediatric surgical consultation for bilious vomiting, peritonitis, obstruction, intussusception, appendicitis concerns.
+Do not delay referral while waiting for complete investigations if the child is unstable.
+Give analgesia and antiemetic when appropriate — pain relief does not “hide” surgical pathology when reassessment is rigorous.
+Antibiotics according to suspected sepsis/peritonitis/local protocols.
+High-risk phrase
+“Green vomit” should trigger urgent escalation, not routine home observation.
+28
+
+---
+
+## Slide 29
+Management: Chronic Vomiting Plan
+Management
+Confirm pattern
+Screen alarm features
+Assess growth/nutrition
+Target work-up
+Etiology-specific plan
+Nutrition & growth
+Plot growth, assess intake, hydration, micronutrient risk, and feeding behaviors.
+Treat likely causes
+Constipation regimen, GERD measures, migraine/CVS plan, allergy/EoE work-up, infection/renal treatment.
+Behavioral context
+Screen rumination, anxiety, school stress, safeguarding, eating disorders, substance use where age-appropriate.
+Referral triggers
+Growth faltering, dysphagia, GI bleeding, nocturnal/morning vomiting, neurologic signs, persistent pain, abnormal labs.
+Follow-up
+Document response, weight trend, vomiting diary, medication adverse effects, and safety-net thresholds.
+29
+
+---
+
+## Slide 30
+Cyclic Vomiting Syndrome: Recognition & Management
+Management
+Rome IV criteria; NASPGHAN CVS guidance abstract 2025
+Recognize pattern
+Stereotyped attacks with intense nausea/vomiting lasting hours–days; baseline health between episodes.
+Exclude mimics
+Metabolic disease, obstruction, intracranial pathology, adrenal crisis, pregnancy, cannabis hyperemesis.
+Acute episode care
+Hydration, antiemetic strategy, quiet/dark environment, migraine-directed rescue when indicated.
+Prevention
+Identify triggers: infection, sleep deprivation, stress, fasting; consider prophylaxis with specialist guidance.
+Family plan
+Written action plan: when to start rescue treatment, when to attend ED, school plan, hydration strategy.
+30
+
+---
+
+## Slide 31
+Family Education & Discharge Safety-Net
+Management
+Home fluids
+Small frequent sips of ORS; continue breastfeeding; avoid high-sugar drinks in diarrhea unless directed.
+Return immediately if…
+Green/bloody vomit, severe pain, distension, lethargy, confusion, persistent fever, dehydration signs, no urine.
+Follow-up
+Young infants, prolonged symptoms, weight loss, recurrent vomiting, or unclear diagnosis need review.
+31
+
+---
+
+## Slide 32
+Case Snapshot 1: Acute Vomiting in an Infant
+Application
+Presentation
+6-week-old infant with progressive projectile non-bilious vomiting after feeds, hungry after vomiting, fewer wet nappies.
+Most likely diagnosis
+Hypertrophic pyloric stenosis until proven otherwise.
+Next steps
+Assess hydration/electrolytes, correct hypochloremic alkalosis if present, pyloric ultrasound, surgical referral.
+Teaching point
+Projectile vomiting is not just “reflux” in a young infant.
+32
+
+---
+
+## Slide 33
+Case Snapshot 2: Chronic/Recurrent Vomiting
+Application
+Presentation
+10-year-old with stereotyped severe vomiting attacks every 6–8 weeks, pallor, photophobia, complete wellness between episodes.
+Pattern
+Cyclic vomiting syndrome pattern — but mimics must be considered.
+Work-up logic
+Check red flags, growth, neurological exam, metabolic clues, medication/substance exposures; targeted tests if atypical.
+Management logic
+Hydration/rescue plan, trigger diary, migraine history, school plan, specialist follow-up for prophylaxis if frequent/severe.
+33
+
+---
+
+## Slide 34
+Take-Home Messages
+Summary
+Vomiting is a symptom with a broad differential: classify by age, time course, pattern, vomitus character, and associated symptoms.
+Green/bilious vomiting, shock, severe abdominal findings, GI bleeding, altered mental status, or early morning vomiting with headache require urgent escalation.
+Most testing should be targeted; mild uncomplicated gastroenteritis may need no labs.
+Management begins with stabilization and rehydration, then cause-specific treatment.
+Chronic vomiting needs growth/nutrition assessment, alarm-feature screening, and planned follow-up.
+34
+
+---
+
+## Slide 35
+Selected References
+References
+1. Royal Children’s Hospital Melbourne. Clinical Practice Guidelines: Vomiting. Key points, red flags, and assessment approach.
+2. Royal Children’s Hospital Melbourne. Clinical Practice Guidelines: Dehydration and Gastroenteritis. Updated Apr 2026.
+3. MSD Manual Professional Edition. Nausea and Vomiting in Infants and Children. Reviewed/Revised Mar 2025; Modified Apr 2025.
+4. Merck/MSD Manual table: Some Causes of Vomiting in Infants, Children, and Adolescents.
+5. Rome Foundation. Rome IV Criteria: Nausea and Vomiting Disorders; Pediatric Functional Nausea/Vomiting and CVS criteria.
+6. NICE CG84. Diarrhoea and vomiting caused by gastroenteritis in under 5s: diagnosis and management.
+7. Karrento K, et al. NASPGHAN guidelines for diagnosis and management of cyclic vomiting syndrome in children. 2025 abstracts/guideline listing.
+8. NCBI Bookshelf. Ondansetron and Oral Rehydration Therapy in Pediatric Patients with Dehydration: Review of Clinical Effectiveness.
+Note: This slide deck is for clinical education and should be adapted to local protocols, formulary, and emergency pathways.
+35
+
+---
+

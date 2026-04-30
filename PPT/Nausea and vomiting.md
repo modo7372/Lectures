@@ -1,0 +1,118 @@
+## Slide 1
+قَالُواْ سُبْحَانَكَ لاَ عِلْمَ لَنَا إِلاَّ مَا عَلَّمْتَنَا إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
+صدق الله العظيم
+بسم الله الرحمن الرحيم
+
+---
+
+## Slide 2
+Nausea and vomiting
+Osman Mohamed Ahmed Osman Lecturer _Hepatogastroenterology unit _Department of internal medicine _ faculty of medicineAl Aznar university _Cairo _Egypt.
+
+---
+
+## Slide 3
+Agenda
+Definition  Pathophysiology EtiologyClinical presentationManagement
+
+---
+
+## Slide 4
+Definition
+
+---
+
+## Slide 5
+definition
+Nausea : is the unpleasant sensation of needing to vomit, often described as a feeling of unease or discomfort in the upper stomach.Vomiting (Emesis) is the forceful expulsion of stomach contents through the mouth, often as a result of abdominal contractions.These symptoms significantly affect a patient’s quality of life and can be indicative of serious underlying conditions.
+
+---
+
+## Slide 6
+Pathophysiology
+
+---
+
+## Slide 7
+Vomiting Reflex:The vomiting center is located in the medulla oblongata of the brainstem.It receives input from multiple sources, including the gastrointestinal tract, vestibular system, and higher brain centers.The process involves the contraction of abdominal muscles, relaxation of the esophageal sphincters, and reverse peristalsis, resulting in the expulsion of gastric contents.
+
+---
+
+## Slide 8
+
+Nausea Mechanism:Nausea results from activation of the vomiting center in response to stimuli such as toxins, irritants, or emotional stress.It is often associated with a sense of discomfort or unease in the upper abdomen
+
+---
+
+## Slide 9
+Etiology
+
+---
+
+## Slide 10
+Causes of Nausea and Vomiting1- Gastrointestinal Causes:Gastroesophageal reflux disease (GERD).Gastritis and peptic ulcer disease.Food poisoning and gastroenteritis.Intestinal obstruction (e.g., from adhesions or volvulus).Appendicitis.
+
+---
+
+## Slide 11
+2- Neurological Causes:Increased intracranial pressure (e.g., brain tumor or hemorrhage).Meningitis and Encephalitis.Head injury.3- Drug-related Causes:Chemotherapy-induced nausea and vomiting (CINV).Opioid analgesics.4- Infectious Causes:Viral gastroenteritis (e.g Rotavirus).Bacterial infections (e.g., Salmonella or Clostridium perfringens).
+
+---
+
+## Slide 12
+5- Psychogenic Causes:Anxiety and stress-induced nausea.Eating disorders (e.g., bulimia nervosa).6-. Miscellaneous Causes:Pregnancy (e.g., morning sickness).Metabolic disturbances (e.g., liver failure, renal failure, diabetic ketoacidosis).
+
+---
+
+## Slide 13
+Diagnosis
+
+---
+
+## Slide 14
+Patient History:We should inquire about the nature of the symptoms (nausea vs. vomiting), duration, and associated factors (e.g., recent meals, medication use, or stress).Ask about any warning signs (e.g., fever, abdominal pain, headache, or altered mental status).Physical Examination:Assess for signs of dehydration, abdominal tenderness, or distension.A neurological examination should be performed if there is suspicion of increased intracranial pressure or CNS involvement.
+
+---
+
+## Slide 15
+Laboratory Tests:Complete blood count (CBC) to check for signs of infection or anemia.Electrolyte panel and renal function tests to assess for dehydration and metabolic disturbances.Liver function tests to rule out hepatic causes.Imaging:Abdominal X-rays or Ultrasound may be used to assess for intestinal obstruction or appendicitis.CT scan of the abdomen if a more detailed assessment is needed.Endoscopic Examination (if needed):Upper endoscopy (EGD) to evaluate for peptic ulcer disease, gastritis, or malignancy.
+
+---
+
+## Slide 16
+Management
+
+---
+
+## Slide 17
+A- Management of Nausea:Pharmacological Treatment:Antiemetics:Prokinetic agents such as Metoclopramide or Domperidone for motility-related nausea.Antihistamines (e.g., Diphenhydramine) for motion sickness or vestibular nausea.Serotonin (5-HT3) antagonists such as Ondansetron for chemotherapy-induced nausea.
+
+---
+
+## Slide 18
+management
+Antipsychotics (e.g., Haloperidol) in severe cases of nausea associated with psychiatric conditions.Non-pharmacological Interventions:Encourage rest, avoid triggers, and recommend light, bland foods to ease nausea.In cases of motion sickness, advise acupressure bands or scopolamine patches.
+
+---
+
+## Slide 19
+B- Management of Vomiting:Hydration:Oral rehydration solutions (ORS) for mild dehydration.Intravenous fluids for moderate to severe dehydration, including electrolyte replacement.Pharmacological Treatment:Antiemetics as described above.Corticosteroids (e.g., Dexamethasone) may be added in certain cases of chemotherapy-induced nausea.Surgical Intervention:Surgical exploration may be required if an underlying surgical condition (e.g., intestinal obstruction, appendicitis) is suspected.
+management
+
+---
+
+## Slide 20
+Refrences
+
+---
+
+## Slide 21
+Harrison's Principles of Internal Medicine, 20th Edition. McGraw-Hill Education.“Source: Cecil Medicine, 24th Edition.“Clinical Management of Nausea and Vomiting”An evidence-based article discussing the management strategies for nausea and vomiting, particularly in hospitalized patients or those undergoing chemotherapy.Source: American Journal of Gastroenterology, 2019.UpToDateA reliable clinical resource providing evidence-based information on diagnosis, treatment, and pathophysiology of nausea and vomiting in various clinical contexts, including gastrointestinal diseases.
+
+---
+
+## Slide 22
+Thank you
+
+---
+

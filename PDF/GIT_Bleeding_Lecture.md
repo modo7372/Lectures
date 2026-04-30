@@ -1,0 +1,282 @@
+## Page 1
+ 
+GIT BLEEDING 
+Upper & Lower Gastrointestinal Bleeding 
+Z Medicine 
+Internal Medicine Module  |  4th Year Medical Students 
+ 
+Classification of GIT Bleeding 
+❖ Upper GI Bleeding: proximal to DJ flexure (4x more common than lower GI bleeding) 
+❖ Lower GI Bleeding: distal to DJ flexure 
+ 
+Upper GI Bleeding 
+Upper GI bleeding refers to bleeding from esophagus, stomach, duodenum (i.e. Proximal to ligament of 
+Treitz). 
+ 
+Causes 
+• Peptic Ulcer — 44% 
+• Esophagitis — 28% 
+• Gastritis/erosions — 26% 
+• Duodenitis — 15% 
+• Varices — 13% 
+• Portal hypertensive gastropathy — 7% 
+• Malignancy — 5% 
+• Mallory Weiss tear — 5% 
+• Vascular Malformation — 3% 
+• Other (e.g. Aortoenteric fistula) — rare 
+Presentation 
+1. Acute Upper GI bleeding presents as: 
+◦ 
+Hematemesis: vomiting of fresh blood or Coffee ground vomit (partially digested blood) 
+◦ 
+Melaena (black tarry stools PR)  — PR = Per rectal 
+2. Red blood PR — If the bleeding is very brisk and severe 
+3. Iron deficiency anemia — If the bleeding is very slow and occult 
+ 
+ 
+
+
+## Page 2
+Management 
+1. Non-Variceal 
+a) Emergency Resuscitation: 
+Takes priority over determining the diagnosis/cause = more important than them = start with it. 
+✓ ABC (focus on 'C') 
+✓ Oxygen: 15L Non-rebreath mask 
+✓ 2 large bore cannulae into both ante-cubital fossae 
+✓ Take bloods at same time for CBC, Urea & Electrolytes, liver function tests, Clotting, cross match 6 
+Units 
+✓ Catheterise 
+✓ IV fluids initially then blood as soon as available (depending on urgency: O- or Group specific or fully 
+cross-matched) 
+✓ Monitor response to resuscitation frequently (HR, BP, urine output, level of consciousness, peripheral 
+temperature, Capillary refilling time) 
+✓ Stop anti-coagulants and correct any clotting derangement 
+✓ NG tube and aspiration (will help differentiate upper from lower GI bleed) 
+✓ Organise definitive treatment (endoscopic/radiological/surgical) 
+ 
+b) Endoscopy: 
+• Urgent OGD — oesophageal gastro-duodenal endoscopy (within 24hrs) — diagnostic and therapeutic 
+• Treatment administered if active bleeding, visible vessel, adherent blood clot 
+• Treatment options include injection (adrenaline), coagulation, clipping 
+• If re-bleeds then arrange urgent repeat OGD 
+ 
+c) Pharmacology: 
+• PPI (infusion) — pH >6 stabilises clots and reduces risk of re-bleeding following endoscopic 
+haemostasis 
+• Tranexamic acid (anti-fibrinolytic) — maybe of benefit (more studies needed) 
+• If H. pylori positive then for eradication therapy 
+• Stop NSAIDs/aspirin/clopidogrel/warfarin/steroids if safe to do so (risk:benefit) 
+e) Surgery: 
+• Reserved for patients with failed medical management (ongoing bleeding despite 2x OGD) 
+• Nature of operation depends on cause of bleeding (most commonly performed in context of bleeding 
+peptic ulcer: (DU > GU) 
+◦ 
+Bleeding DU: Under-running of ulcer 
+◦ 
+Bleeding GU: Wedge excision of bleeding lesion 
+◦ 
+Malignancy: Partial/total gastrectomy 
+ 
+ 
+ 
+
+
+## Page 3
+2. Variceal Bleeding 
+Suspect if upper GI bleed in patient with history of chronic liver disease/cirrhosis or 
+stigmata on clinical examination. 
+Liver Cirrhosis results in portal hypertension and development of porto-systemic anastamosis (opening or 
+dilatation of pre-existing vascular channels connecting portal and systemic circulations). 
+Sites of porto-systemic anastamosis include: 
+• Oesophagus (P = oesophageal branch of L gastric v, S = oesophageal branch of azygous v) 
+• Umbilicus (P = para-umbilical v, S = inferior epigastric v) 
+• Retroperitoneal (P = right/middle/left colic v, S = renal/supra-renal/gonadal v) 
+• Rectal (P = superior rectal v, S = middle/inferior rectal v) 
+Furthermore, clotting derangement in those with chronic liver disease can worsen bleeding. 
+ 
+Management: 
+a) Emergency resuscitation as already described 
+b) Drugs: 
+✓ Somatostatin/octreotide — vasoconstricts splanchnic circulation and reduces pressure in portal system 
+✓ Terlipressin — vasoconstricts splanchnic circulation and reduces pressure in portal system 
+✓ Glypressine 
+✓ Propanolol — used only in context of primary prevention (in those found to have varices to reduce risk 
+of first bleed) 
+c)Endoscopy: 
+✓ Band ligation 
+✓ Injection sclerotherapy 
+✓ Balloon tamponade — Sengstaken-Blakemore tube: 
+◦ 
+Rarely used now and usually only as temporary measure if failed endoscopic management 
+ 
+e) Radiological procedure — used if failed medical/endoscopic management: 
+✓ Selective catheterisation and embolisation of vessels feeding the varices 
+✓ TIPSS procedure: Transjugular Intrahepatic Porto-Systemic Shunt 
+◦ 
+Shunt between hepatic vein and portal vein branch to reduce portal pressure and bleeding from 
+varices — performed if failed medical and endoscopic management 
+◦ 
+Can worsen hepatic encephalopathy 
+f) Surgical: 
+• Surgical porto-systemic shunts (often spleno-renal) 
+• Liver transplantation (patients often given TIPSS/surgical shunt whilst awaiting this) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+## Page 4
+Prognosis closely related to severity of underlying chronic liver disease (Child-Pugh grading). 
+Child-Pugh classification grades severity of liver disease into A, B, C based on degree of ascites,  
+encephalopathy, bilirubin, albumin, INR. 
+ 
+Mortality: 32% Child's A  |  46% Child's B  |  79% Child's C 
+ 
+ 
+Rockall Score  
+ 
+Identifies patients at risk of adverse outcome following acute upper GI bleeding  
+Score <3 carries good prognosis  
+Score >8 carries high risk of mortality 
+ 
+ 
+ 
+
+
+## Page 5
+Lower GI Bleeding 
+Bleeding arising distal to the ligament of Treitz (DJ flexure). The vast majority of lower GI bleeding arises from 
+(colon, rectum, anus). 
+Although this includes jejunum and ileum but bleeding from these sites is rare (<5%). 
+ 
+Causes 
+ 
+Colon 
+Rectum 
+Anus 
+Diverticular Disease 
+Polyps 
+Haemorrhoids 
+Polyps 
+Malignancy 
+Fissure 
+Malignancy 
+Proctitis 
+Malignancy 
+Colitis 
+ 
+ 
+Angiodysplasia 
+ 
+ 
+Presentation 
+Lower GI bleeding presents as: 
+➢ Dark red blood PR — suggests more proximal bleeding point (e.g. Distal small bowel, colon) 
+➢ Bright red blood PR — suggests more distal bleeding point (e.g. rectum, anus) 
+PR blood may be: 
+➢ Mixed or separate from the stool 
+➢ If separate from the stool it may be noticed in the toilet water or on wiping 
+➢ Passed with motion or alone 
+➢ If blood mixed with stool — suggests more proximal bleeding 
+ 
+iron deficiency anemia If bleeding very slow and occult. 
+ 
+Management 
+Emergency resuscitation as already described 
+Pharmacological: 
+• Stop NSAIDs/anti-platelets/anti-coagulants if safe 
+• Tranexamic acid 
+Endoscopic: 
+• OGD (15% of patients with severe acute PR bleeding will have an upper GI source!) 
+• Colonoscopy — diagnostic and therapeutic (injection, diathermy, clipping) 
+ 
+ 
+Radiological: 
+• CT angiogram — diagnostic only (non-invasive); Determines site and cause of bleeding 
+
+
+## Page 6
+• Mesenteric Angiogram — diagnostic and therapeutic (but invasive); Determines site of bleeding and 
+allows embolisation of bleeding vessel; Can result in colonic ischaemia 
+• Nuclear Scintigraphy — technetium labelled red blood cells: diagnostic only; Determines site of 
+bleeding only (not the cause) 
+ 
+Surgical — Last resort in management as very difficult to determine bleeding point at laparotomy: 
+• Segmental colectomy — where site of bleeding is known 
+• Subtotal colectomy — where site of bleeding unclear 
+Beware of small bowel bleeding — always embarrassing when bleeding continues after large bowel 
+removed. 
+ 
+As 85% of lower GI bleeds will settle spontaneously, the interventions mentioned are reserved for 
+severe/life-threatening bleeds.  
+In the 85% where bleeding settles spontaneously, OPD investigation is required to determine 
+underlying cause:  
+• Endoscopy: flexible sigmoidoscopy, colonoscopy 
+• Barium enema 
+ 
+ 
+ 
+
+
+## Page 7
+Upper & Lower GI Bleeding — General Approach 
+Estimation of degree of Blood Loss: 
+ 
+ 
+❖ Aim of history and examination is: 
+✓ Identify likely source — upper vs lower — and the potential cause 
+✓ Determine severity of bleeding 
+✓ Identify precipitants (e.g. Drugs) 
+ 
+History 
+History of Present Complaint (Bleeding) 
+✓ Duration, frequency, and volume of bleeding (to indicate severity of bleeding) 
+✓ Nature of bleeding: will point to source 
+o Haematemesis (fresh or coffee ground) / Melaena (black!) — suggest upper GI bleed 
+o (Note: a very brisk upper GI bleed can present with dark or bright red blood PR) 
+o PR Dark red blood — suggests colon 
+o PR Bright red blood — suggests rectum, anus 
+✓ If PR bleeding, is blood being passed alone or with bowel opening (if alone suggests heavier bleeding) 
+✓ If with bowel opening — is blood mixed with the stool? (colonic), coating the stool? (colonic/rectal), in the toilet 
+water or on wiping (anal) 
+✓ Ask about associated upper or lower GI symptoms that may point to the underlying cause: 
+o E.g. Upper abdominal pain/dyspeptic symptoms suggest upper GI cause such as peptic ulcer 
+o E.g. Lower abdominal pain, bowel symptoms such as diarrhoea or a background of change in bowel 
+habit suggest lower GI cause e.g. Colitis, cancer colon 
+✓ Previous episodes of bleeding and cause 
+ 
+ 
+Past Medical History 
+
+
+## Page 8
+✓ History of any diseases that can result in GI bleeding, e.g. Peptic ulcer disease, diverticular disease, liver 
+disease/cirrhosis 
+✓ Bleeding disorders e.g. Hemophilia 
+ 
+Drug History 
+✓ Anti-platelets or anti-coagulants can exacerbate bleeding 
+✓ NSAIDs and steroids may point to PUD 
+ 
+Special Habits 
+✓ Alcoholics at risk of liver disease and possible variceal bleeding as a result 
+✓ Smokers at risk of peptic ulcer disease 
+ 
+Examination 
+✓ Reduced level of consciousness 
+✓ Pale and clammy 
+✓ Cool peripheries 
+✓ Reduced CRT (Capillary refilling time) 
+✓ Tachycardic and thready pulse 
+✓ Hypotensive with narrow pulse pressure 
+✓ Tenderness on abdominal examination may point to underlying cause e.g. Epigastric tenderness >>> peptic ulcer 
+✓ Stigmata of chronic liver disease (palmar erythema, leukonychia, Dupuytren's contracture, liver flap, jaundice, 
+spider naevi, gynaecomastia, shifting dullness/ascites) 
+✓ Digital rectal examination may reveal melaena, dark red blood, bright red stool 
+ 
+
+

@@ -1,0 +1,270 @@
+Pancreatitis
+By
+prof. Sadek Mostafa
+
+---
+
+Pancreatitis
+Pancreatic inflammatory Disease .
+
+May be classified into acute and chronic pancreatitis .
+
+---
+
+Acute pancreatitis
+Acute inflammatory process of the pancreas that can range from mild interstitial pancreatitis to severe necrotizing pancreatitis .
+
+---
+
+Etiology
+Gallstones (45%) = biliary pancreatitis = gallstone pancreatitis .
+Alcohol abuse (20 %) .
+Idiopathic  10-30 %   .
+Other causes are :
+-Medication (azathioprine , sulfonamides , tetracycline , valproic acid , thiazide , estrogens) .
+-Endoscopic retrograde cholangiopancreatography (ERCP) = Post-ERCP pancreatitis .
+
+---
+
+Etiology
+-Hypercalcemia .
+-Hypertriglyceridemia .
+-Infections .
+-Genetic mutations .
+-Autoimmune pancreatitis .
+-Trauma ( blunt or postoperative) .
+
+---
+
+Diagnosis
+Symptoms :
+
+Abdominal pain
+-The major symptom-Constant and steady  
+-Epigastric , left upper quadrant or peri umbilical-Referred to the back
+-Increased on supine position-decreased  by sitting and leaning forwards.-Vary from mild to severe.-Associated with nausea, vomiting and abdominal distention.
+
+---
+
+Diagnosis
+General Examination:
+Low grade fever , tachycardia, hypotension or even shock ( exudation of blood and plasma protein into retroperitoneal space with hypovolemia .
+Left pleural effusion (Reduced breath sounds and stony dull chest percussion suggest a pleural effusion ) .
+Jaundice .
+
+---
+
+Diagnosis
+Local abdominal examination 
+Abdominal tenderness with distention .
+may be voluntary guarding or rigidity.
+Abdominal ecchymoses   around umbilicus  ( Cullen's sign ) and in both flanks (Turner’s sign)  …. indicate severe necrotizing pancreatitis with hemoperitoneum .
+Diminished or absent bowel sounds if ileus (  due to chemical peritonitis).
+
+---
+
+Diagnosis
+Laboratory investigations :
+Elevated Serum amylase and or serum  lipase  (s. amylase  return to normal even with continuous inflammation after 2-3 days, but serum lipase remains elevated for 7-14 days ) .
+Leukocytosis , hyperglycemia, hypocalcemia , hypertriglyceridemia .
+Increased serum bilirubin and ALP . 
+High ALT and AST  may indicate   biliary etiology .
+High LDH , low serum albumin &high hematocrit > 44%  (hemoconcentration ) indicate more severe disease with poor prognosis.
+
+---
+
+Diagnosis
+Imaging investigations :
+Abdominal ultrasound : to evaluate the gall bladder for stones .
+Contrast enhanced CT : for detailed evaluation of pancreas and surrounding structures ( necrosis , collections , peudocyst , tumors , vascular thromboses)
+MRCP : for noninvasive evaluation of pancreatico- biliary ductal system ( small stones)
+EUS : for better visualisation of pancreatico-biliary ductal system and pancreatic parenchyma.
+
+---
+
+Criteria for diagnosis of acute pancreatitis
+The diagnosis of acute pancreatitis is based on the fulfilment of two of three criteria: 
+(1) upper abdominal pain.
+(2) Elevated serum amylase or lipase (or both) of at least three times the upper limit of normal .
+(3) findings consistent with acute pancreatitis on imaging (contrast-enhanced CT [CECT], MRI, or abdominal ultrasound).
+
+---
+
+Complications
+Local complications:
+1- The most frequent local complications associated with acute pancreatitis are pancreatic or peripancreatic fluid collection
+2- Pancreatic pseudocyst 
+3- Gastric outlet obstruction
+4- Splenic or portal vein thrombosis
+
+---
+
+Complications
+Pancreatic collection 
+
+1- interstitial pancreatitis :
+Contain a homogeneous liquid content.
+Collections resolve spontaneously over time.
+ If these collections persist beyond 4 weeks after onset of acute pancreatitis, they are referred to as pancreatic pseudocysts .
+
+---
+
+Complications
+Pancreatic collection
+
+2- Necrotizing pancreatitis
+Contain variable amounts of fluid and necrotic debris. 
+Necrosis can involve the pancreatic parenchyma alone but is often accompanied by the presence of peripancreatic necrosis.
+When acute necrotic collections mature and encapsulate, usually after 4 weeks, they are referred to as walled-off necrosis .
+
+---
+
+Complications
+Systemic complications :
+Pulmonary   : ARDS , respiratory failure Cardiovascular  : shockRenal: Renal failure Hematological :  DICGastrointestinal  : bleedingCNS : psychosis , fat embolism and encephalopathy
+
+---
+
+Classification according to  severity
+Mild: no local or systemic complications .
+
+Moderate :  local complications or systemic complications without  persistent organ failure.  
+Severe :  persistent single or multiple organ failure, which is associated mortality rates between 20% and 40%.
+
+---
+
+Differential diagnosis
+Differential diagnosis of acute severe upper abdominal pain :
+Perforated peptic ulcerAcute cholecystitisAcute intestinal obstructionMesenteric vascular occlusionAcute myocardial infarctionPneumoniaDKA
+
+---
+
+Treatment
+*Symptom control.
+*Fluid replacement .
+*Early enteral feeding .
+*Close observation .
+*Antibiotics as needed.
+*Intervention in certain circumstances .
+
+---
+
+Fluid resuscitation
+Rate : Intravenous fluid therapy with 5–10 mL/kg per h 
+Type : Ringer's lactate solution should be the preferred choice.
+
+---
+
+Pain treatment and Nutrition:
+Analgesic   ( NSAIDs ,Opioid , epidural anesthesia ) according to degree of pain.
+Enteral tube feeding and early oral feeding should be initiated  after 48 hours.
+
+---
+
+Role of ERCP and antibiotics in treatment
+ERCP is only indicated in patients with biliary pancreatitis and concomitant cholangitis
+Antibiotics:
+ only in confirmed or clinically suspected secondary infection
+
+---
+
+Management of local complications:
+Conservative treatment :
+The majority of patients with sterile ( with no secondary infection ) pancreatic or peripancreatic necrosis and fluid collections as well as pancreatic pseudocyst  can be treated conservatively because most of them  will resolve spontaneously over time .
+
+---
+
+Interventional treatment
+1-Infected necrotizing pancreatitis 
+
+*Secondary infection of peripancreatic necrosis nearly always requires invasive intervention
+*Step-up treatment :
+Broad-spectrum antibiotic therapy.
+Percutaneous catheter drainage. 
+Endoscopic drainage.
+Minimally invasive necrosectomy.
+
+---
+
+Interventional treatment
+2- Pancreatic pseudocyst
+
+*Indicated if  pancreatic pseudocyst causes gastric outlet obstruction or refractory pain or larger than 6 cm in diameter .
+
+*Treatment by either Endoscopic or surgical drainage .
+
+---
+
+Prevention of recurrence
+Approximately 20% of patients with acute biliary  pancreatitis develop recurrent attacks of pancreatitis. After mild biliary pancreatitis, cholecystectomy during the same hospital admission is strongly advised to prevent disease recurrences.
+
+Other important risk factors for recurrence of acute pancreatitis, as well as for progression to chronic pancreatitis, are alcohol consumption and smoking. Alcohol abstinence after the first disease episode protects against recurrence of disease.
+
+---
+
+Chronic pancreatitis
+Disease process characterized by irreversible damage to the pancreas with histological abnormalities including chronic inflammation, fibrosis and progressive destruction of both exocrine and eventually endocrine tissue.
+
+---
+
+Causes :
+*Alcohol : the most common cause in adult.
+*Idiopathic :  ( unkown cause ) in 25% of cases 
+*Other :
+-Cystic fibrosis : the commonest cause in children , autosomal recessive , mutations in cystic fibrosis transmembrane conductance regulation ( CFTR) gene . 
+-Autoimmune pancreatitis .
+-Hereditary :  in 15% of cases  (due to genetic defect in gene encoding for trypsinogen ).
+-Congenital anomalies in the pancreas .
+
+---
+
+Diagnosis
+Symptoms and signs : 
+*Abdominal pain :Variable in severity from mild to severe , may be constant or intermittent, eating may exacerbate the pain .*Maldigestion :Manifested as chronic diarrhea, steatorrhea , weight loss and fatigue.*Unremarkable abdominal examination in most of cases  or  may be mild abdominal tenderness .*DM : polyuria , polydipsia , fatigue , or complications of DM .
+
+---
+
+Diagnosis
+Laboratory investigations :
+Serum amylase and lipase usually not elevated.Increased bilirubin and ALP may be due to cholestasis ( stricture in CBD).Decreased serum trypsinogen  level.Decreased fecal elastase.
+Genetic tests.
+
+---
+
+Diagnosis
+Imaging investigations 
+
+Plain x ray abdomen  : detect diffuse pancreatic calcification .
+Abdominal US : pancreatic calcifications .
+
+Contrast enhanced abdominal CT : dilated pancreatic duct , pancreatic calcifications and atrophy .
+MRI  / MRCP : ductal and parenchymal changes .
+EUS ( Endoscopic US ) :ductal dilation , calcification , cysts and masses
+
+---
+
+Complications
+*DM .*cholestasis and biliary cirrhosis .*pancreatic adenocarcinoma ( 4% )more in hereditary type.
+
+---
+
+Treatment
+*Maldigestion and steatorrhea :
+Pancreatic enzymes is the corner stone for treatment of steatorrhea
+40,000–50,000 units of pancreatic lipase per meal, and dose should be increased until relief of symptoms occurs.
+
+---
+
+Treatment
+*Pain :-Serine Proteases that lower CCK level so decrease pancreatic secretions .
+-Octreotide ( somatostatin analogue , inhibit pancreatic secretionsubcutaneous injection 200 ug three time daily) .
+-Ductal decompression by endoscopic stenting of dominant stricture
+-Total pancreatectomy if abdominal pain refractory to conventional treatment .
+
+---
+
+Thanks indeed
+Thanks indeed
+
+---
+

@@ -1,0 +1,207 @@
+## Page 1
+Acalculous Cholecystitis
+ Definition Acute acalculous cholecystitis is a severe, life-threatening inflammation of the
+gallbladder that occurs in the absence of gallstones.
+ Epidemiology Accounts for 10% of all cases of acute cholecystitis. Reported mortality
+rate varies from 30% to 75%.
+Risk Factors
+Critically ill patients.
+Patients in the ICU recovering from major surgeries or other life-threatening conditions,
+e.g., stroke, heart attack, sepsis, severe burns, and extensive trauma.
+Older patients.
+Multiple comorbidities.
+Pathogenesis
+Gallbladder stasis develops due to a lack of gallbladder stimulation by cholecystokinin
+(CCK), leading to concentration of bile salts and increased pressure within the gallbladder.
+Elevated pressure → hypoperfusion and ischemia of the gallbladder wall → pressure
+necrosis and perforation if prompt intervention is not initiated.
+Static condition increases seeding and growth of common enteric pathogens: E. coli,
+Klebsiella, Bacteroides, Proteus, Pseudomonas, and Enterococcus faecalis.
+Types
+Type
+Description
+Uncomplicated Cholecystitis
+Gallbladder inflammation without necrosis or
+perforation.
+Acute Suppurative Cholecystitis
+An inflamed gallbladder with associated purulence.
+Gangrenous Cholecystitis
+Gallbladder wall necrosis.
+Perforated Cholecystitis
+Gallbladder wall rupture.
+
+
+## Page 2
+Clinical Manifestations
+Typacally : Right upper quadrant abdominal pain that worsens with fatty foods.
+Physical exam: right upper quadrant tenderness and a positive Murphy's sign (inspiratory
+arrest from pain during palpation of the right upper quadrant).
+Systemic symptoms: fever, chills, body aches, nausea, and vomiting.
+Critically ill patients unable to participate in physical exam may have fevers of unknown
+origin or grimacing during abdominal palpation, which should prompt additional testing.
+Investigations
+Investigation
+Findings
+Laboratory Findings
+Leukocytosis and elevated liver enzymes, including alkaline
+phosphatase and direct bilirubin.
+Ultrasound Imaging
+Gallbladder wall thickening >3 mm, gallbladder wall edema, and
+pericholecystic fluid are indicative of cholecystitis.
+HIDA Scan
+A calculated ejection fraction of ≤35% may be indicative of
+hypokinetic functioning of the gallbladder.
+CT Scan
+May reveal gallbladder wall thickening, edema, and pericholecystic
+fluid in the absence of gallstones and sludge.
+Treatment
+Details
+Stabilization & Antibiotics
+Appropriate fluid resuscitation and broad-spectrum
+antibiotics covering gram-negative rods and anaerobes,
+ideally after blood cultures have been obtained.
+Percutaneous Cholecystostomy
+Tube and stent placement
+In patients too unstable for surgery, consider
+interventional radiology consultation for percutaneous
+cholecystostomy tube placement.
+Cystic Duct Stent (ERCP)
+Cystic duct stent placement via ERCP to decompress the
+gallbladder and prevent cystic duct obstruction.
+Surgical Management
+Laparoscopic cholecystectomy is the preferred definitive
+approach. Open cholecystectomy can be performed if a
+contraindication to minimally invasive approach is
+identified.
+
+
+## Page 3
+Cholangitis
+Definition
+Acute cholangitis is a bacterial infection superimposed on an obstruction of
+the biliary tree most commonly from a gallstone, but may be associated
+with a neoplasm or stricture.
+Classic Triad
+Right upper quadrant (RUQ) pain, fever, and jaundice.
+Pentad
+Triad + mental status changes + sepsis. (May bee seen)
+Common Pathogens
+Organism
+Prevalence
+Escherichia coli (most common)
+27%
+Klebsiella species
+16%
+Enterococcus species
+15%
+Streptococcus species
+8%
+Enterobacter species
+7%
+Pseudomonas aeruginosa
+7%
+Investigations
+Investigations
+CBC, ESR, CRP, liver and kidney function tests
+Abdominal Ultrasound (U/S)
+Magnetic Resonance Cholangiopancreatography (MRCP)
+Blood culture
+Treatment
+Resuscitation
+Initial stabilization.
+Combination
+Antibiotics
+Extended-spectrum cephalosporin, metronidazole, and ampicillin.
+Single-agent Regimens
+Piperacillin and tazobactam. Also, Imipenem or meropenem.
+ERCP Drainage
+Biliary drainage via ERCP.
+
+
+## Page 4
+Primary Sclerosing Cholangitis (PSC)
+Definition
+Chronic liver disease characterized by progressive cholestasis with
+inflammation and fibrosis of intrahepatic and extrahepatic bile ducts.
+Etiology
+Unknown;thought to be multifactorial,including :
+genetic predisposition
+exposure to an environmental antigen, and a subsequent aberrant
+immunologic response to this antigene
+Clinical
+Manifestations
+Cholestatic features: jaundice (insidious or abrupt intermittent
+episodes of icterus) and pruritus.
+Some patients present with typical features of acute cholangitis:
+fever, jaundice, and abdominal pain.
+Complication
+Cholangiocarcinoma occurs in association with PSC in 6–30% of
+patients.
+Pharmacotherapy
+Immunosuppressants, bile salts, chelators (e.g., cholestyramine for
+pruritus), and steroids.
+Curative
+Treatment
+Liver transplantation is the only curative treatment.
+Cholangiocarcinoma
+Aspect
+Details
+Definition
+Malignancies of the biliary duct system that may originate in the liver
+and extrahepatic bile ducts.
+Clinical
+Manifestations
+Jaundice, abdominal pain, pruritus, and weight loss.
+Imaging :
+(U/S, CT, MRCP)
+May demonstrate biliary duct dilatation and larger hilar lesions.
+Endoscopic
+Ultrasonography
+(EUS)
+Enables both bile duct visualization and nodal evaluation.
+Biopsy
+By spyglass (a type of cholangioscope — a very small, flexible
+endoscope with a high-definition camera — designed to go inside the
+bile ducts).
+
+
+## Page 5
+Quick Overview
+Disease
+Key Feature
+Main Investigation
+Treatment
+Acalculous
+Cholecystitis
+Gallbladder inflammation
+without stones; in
+critically ill patients
+Lab , Ultrasound, HIDA
+scan, CT
+Stabilization, Antibiotics,
+percutaneous
+drainage,ERCP,
+cholecystectomy
+Cholangitis
+Charcot's triad: RUQ pain,
+fever, jaundice
+Lab, U/S, MRCP, Blood
+culture
+Resuscitation, antibiotics,
+ERCP drainage
+PSC
+Progressive cholestasis;
+fibrosis of bile ducts
+Liver biopsy, MRCP
+Immunosuppressants;
+liver transplantation
+(curative)
+Cholangiocarcinoma
+Malignancy of biliary
+ducts; associated with PSC
+U/S, CT, MRCP, EUS,
+Spyglass biopsy
+Surgical resection (if
+operable)
+
+
