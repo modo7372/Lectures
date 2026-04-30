@@ -32,7 +32,6 @@ abdominal ultrasound).
 Varies from mild to severe.
 Associated with nausea, vomiting, and abdominal distention.
 
-
 3. Physical Examination
  General Examination:
  Low-grade fever, tachycardia, hypotension, or even shock (due to exudation of blood and
@@ -73,7 +72,6 @@ Moderate: Local complications or systemic complications without persistent organ
 Severe: Persistent single or multiple organ failure, which is associated with mortality rates between 20% and
 40%.
 
-
 D. Complications
 1. Local Complications
 The most frequent local complications are pancreatic or peripancreatic fluid collections.
@@ -104,7 +102,6 @@ The differential diagnosis of acute severe upper abdominal pain includes:
  Acute myocardial infarction
  Pneumonia
  Diabetic Ketoacidosis (DKA)
-
 
 F. Treatment
 1. General Management
@@ -153,7 +150,6 @@ cholecystectomy during the same hospital admission is strongly advised.
 •
 Alcohol abstinence after the first episode protects against disease recurrence.
 
-
 Chronic Pancreatitis
 Definition: A disease process characterized by irreversible damage to the pancreas with
 histological abnormalities including chronic inflammation, fibrosis, and progressive destruction
@@ -190,7 +186,6 @@ calcifications, and atrophy.
  MRI / MRCP: Can show ductal and parenchymal changes.
  Endoscopic US (EUS): Can show ductal dilation, calcification, cysts, and masses.
 
-
 C. Complications
  Diabetes Mellitus (DM).
  Cholestasis and biliary cirrhosis.
@@ -213,7 +208,6 @@ Octreotide: A somatostatin analogue that inhibits pancreatic secretion
 Ductal decompression by endoscopic stenting of a dominant stricture.
 ◦
 Total pancreatectomy if abdominal pain is refractory to conventional treatment.
-
 
 Pancreatitis: Acute vs. Chronic
 Feature
@@ -286,5 +280,4 @@ Cholecystectomy for biliary pancreatitis. Alcohol
 abstinence and smoking cessation.
 Strict alcohol abstinence and smoking cessation to
 slow progression.
-
 

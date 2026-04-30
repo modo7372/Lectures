@@ -29,7 +29,6 @@ Crohn’s disease:
 CARD15 gene (Chromosome 16p)
 Accounts for ~10% of cases
 
-
 ## Page 2
 Immunological 
 Markers
@@ -55,28 +54,43 @@ Immunosuppressants
 Biologic therapies
 ➡️ Some cases remain difficult to manage
 
-
 ## Page 3
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 ## Page 4
 
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+
 
 ## Page 5
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 ## Page 6
 
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+
 
 ## Page 7
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 ## Page 8
 
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+
 
 ## Page 9
 
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
+
 
 ## Page 10
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 

@@ -4,11 +4,9 @@ Dr. Mohamed Alboraie MD., FRCP
 Associate professor of internal medicine,
 Al-Azhar University
 
-
 Diverticulosis
 • Diverticulosis occurs when small, bulging pouches 
 (diverticula) develop in your digestive tract.
-
 
 EPIDEMIOLOGY
 • Overall prevalence - 12% to 49%
@@ -19,13 +17,11 @@ EPIDEMIOLOGY
 • Men - higher incidence of diverticular bleeding
 • Women - more episodes of obstruction or stricture
 
-
 Disease of Western civilization
 • Extraordinarily rare in rural Africa and Asia
 • Highest prevalence rates - united States, 
 Europe, and Australia
 • Increase with urbanization
-
 
 Increased Risk
 Increasing age
@@ -39,13 +35,11 @@ Living in predominantly rural Asian or African countries
 (e.g. Kenya, Jordan, Thailand)
 Factors That Influence the Risk for Diverticulosis
 
-
 Location
 • In Western countries- left colon
 - 90% -- sigmoid
 - 15% have right-sided
 • In Asian countries- right-sided
-
 
 Spectrum
 • UNCOMPLICATED DIVERTICULOSIS
@@ -58,7 +52,6 @@ DIVERTICULAR DISEASE (SUDD)
 - COMPLICATED DIVERTICULITIS - abscess, free perforation with peritonitis, 
 fistula, or obstruction
 (B)BLEEDING
-
 
 Diagnosis
 • Plain Films -abnormal in 30% to 50%
@@ -81,7 +74,6 @@ diverticulitis are discovered,
 the outlining of an abscess cavity, an intramural sinus 
 tract, or a fistula
 
-
 Computed Tomography-
 • Diagnostic procedure of choice for acute 
 diverticulitis
@@ -94,7 +86,6 @@ appearing as fat stranding),
 - thickening of the colon wall
 - and formation of abscesses
 
-
 Endoscopy
 • Suspected acute diverticulitis - endoscopy 
 generally is avoided (risk of perforation, either 
@@ -105,11 +96,11 @@ performed to exclude competing diagnoses,
 particularly neoplasia
 
 
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 Treatment -Uncomplicated 
 diverticulitis
-
 
 Outpatient management – When?
 • Mild symptoms
@@ -122,7 +113,6 @@ liquid diet and antibiotics.
 ( Escherichia coli, Streptococcus species, and
 Bacteroides fragilis )
 
-
 Hospitalization- When?
 • Elderly
 • Immunosuppressed
@@ -132,7 +122,6 @@ Hospitalization- When?
 • Broad-spectrum intravenous antibiotics 
 should be started
 
-
 • If improvement continues, patients may be 
 discharged, but they should complete a 
 seven- to 10-day course of oral antibiotics.
@@ -140,7 +129,6 @@ seven- to 10-day course of oral antibiotics.
 therapy warrants a diligent search for 
 complications, consideration of alternative 
 diagnoses, and surgical consultation
-
 
 COMPLICATED DIVERTICULITIS
 • Abscess
@@ -153,13 +141,11 @@ improvements in pain, fever, tenderness, and leukocytosis
 over the first few days of therapy.
 • Percutaneous catheter drainage
 
-
 • CT-guided percutaneous drainage of abdominal 
 abscesses has assumed a prominent 
 complementary role to surgery
 • It often eliminates the need for a multiple- stage 
 surgical procedure with colostomy
-
 
 • Non responding cases:
 • Single operation (resection with primary 
@@ -168,10 +154,8 @@ approaches
 • Two-stage management - Hartmann 
 procedure
 
-
 • Surgical emergency requires urgent 
 operative intervention
-
 
 Fistula
 • Fewer than 5% of patients
@@ -179,17 +163,14 @@ Fistula
 closure and primary anastomosis could be 
 performed in 75% of patients
 
-
 Obstruction
 • Obstruction can accompany diverticular 
 disease either acutely or chronically
-
 
 DIVERTICULAR HEMORRHAGE
 • Most common identifiable cause of 
 significant lower gastrointestinal bleeding
 • (30% to 40% of cases)
-
 
 • Intimal thickening and medial thinning of the 
 vasa recta as it coursed over the dome of the 
@@ -201,7 +182,6 @@ predisposing to its rupture.
 intestinal, and specifically diverticular, 
 bleeding.
 
-
 CLINICAL FEATURES
 • Abrupt, painless hematochezia
 • Arterial, the volume of blood usually is 
@@ -212,11 +192,9 @@ is unusual
 deficiency anemia should be attributed to 
 diverticular hemorrhage
 
-
 • Bleeding ceases spontaneously in 70% to 
 80% of patients
 • Rebleeding rates range from 22% to 38%.
-
 
 DIAGNOSIS AND TREATMENT
 • Resuscitation
@@ -225,11 +203,9 @@ unstable after attempted resuscitation, early
 angiography to attempt bleeding localization and 
 surgical consultation should be obtained.
 
-
 • A stable patient with suspected active or 
 recent diverticular bleeding should undergo 
 bowel preparation for a colonoscopy
-
 
 • If diverticula are found but bleeding has 
 stopped and no other colonic causes are 
@@ -241,7 +217,6 @@ anticoagulants, if possible.
  As noted, most patients with diverticular 
 hemorrhage do not rebleed
 
-
 • The endoscopic identification of active bleeding
 • Stigmata of recent hemorrhage stigmata—visible vessel 
 or adherent clot within a diverticulum
@@ -251,6 +226,7 @@ bipolar coagulation endoclips,fibrin sealant,and band
 ligation
 
 
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 • If endoscopic therapy is not effective or durable, 
@@ -261,13 +237,10 @@ to allow localization or treatment of a bleeding source,
 further evaluation with nuclear scintigraphy (tagged 
 red blood cell scan) or angiography can be undertaken
 
-
 • Surgery for lower intestinal bleeding 
 usually is avoided unless endoscopic or 
 angiographic therapies are unavailable or 
 fail
 
-
 Thank You
-
 

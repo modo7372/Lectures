@@ -5,9 +5,6 @@ Professor of Pediatrics
 Al-Azhar Faculty of Medicine 
 Cairo
 2022
- 
- 
-
 
 ## Page 2
 LECTURE
@@ -23,7 +20,6 @@ Wilson Disease.
 Non-Alcoholic Steatohepatitis.
 α1-Antitrypsin Deficiency
 
-
 ## Page 3
 DEFINITION:
 Acute non-viral hepatitis is inflammation
@@ -35,11 +31,9 @@ ome medications, drugs, alcohol, and toxins
 mmune disease.
 NON-INFECTIOUS HEPATITIS:
 
-
 ## Page 4
 1- AUTO-IMMUNE
-HEPATITIS 
-
+HEPATITIS
 
 ## Page 5
 AUTOIMMUNE HEPATITIS
@@ -55,16 +49,14 @@ nse to immunosuppressive treatment
 of liver disease.
 DEFINITION
 
-
 ## Page 6
- In pediatrics, there are three liver
+In pediatrics, there are three liver
 disorders in which liver damage is
 likely to arise from an autoimmune
 attack: auto immune hepatitis
 (AIH); autoimmune sclerosing
 cholangitis (ASC); and de novo AIH
 after liver transplantation.
-
 
 ## Page 7
 PATHOPHYSIOLOGY OF
@@ -83,8 +75,7 @@ ing:
 )
 •The strongest association between genes and autoimmune diseases
  has been found within the HLA locus on the short arm of chromosome 6. 
-GENETIC PREDISPOSITION 
-
+GENETIC PREDISPOSITION
 
 ## Page 8
 CLINICAL
@@ -103,7 +94,6 @@ Fulminant hepatic failure with grade II to IV hepatic encephalopathy developing 
 Insidious onset, characterized by progressi
 ve fatigue, relapsing jaundice, headache, anorexia, and weight loss, lasting from 6 months to 2 years before.
 
-
 ## Page 9
 ❑AIH. 
 ❑Sclerosing cholangitis.
@@ -113,8 +103,7 @@ ve fatigue, relapsing jaundice, headache, anorexia, and weight loss, lasting fro
 ❑Metabolic liver disease.
 ❑ Cystic fibrosis. 
 ❑α1‐Antitrypsin deficiency. 
-❑Wilson disease. 
-
+❑Wilson disease.
 
 ## Page 10
 LABORATORY
@@ -137,7 +126,6 @@ BIOCHEMISTRY (NON‐SPECIFIC)
 ❑ Asialoglycoprotein receptor antibody (ASGP-R)
 IMMUNOGLOBULINS
 
-
 ## Page 11
 LABORATORY
 FINDINGS 
@@ -152,8 +140,7 @@ FINDINGS
 g collapse”). 
 ❑Hepatic regeneration with “rosette” formation.
 ❑Cirrhosis.
-HISTOPATHOLOGY 
-
+HISTOPATHOLOGY
 
 ## Page 12
 MANAGEMENT OF
@@ -169,13 +156,11 @@ Budesonide is a second-generation glucocorticoid that has a high
 d metabolites that lack glucocorticoid activity
 Mycophenolate Mofetil is another steroid-sparing agent that has
  been used in limited trials for the treatment of AIH.
-➢ALTERNATIVE THERAPY 
-
+➢ALTERNATIVE THERAPY
 
 ## Page 13
 2- SCLEROSING
-CHOLANGITIS 
-
+CHOLANGITIS
 
 ## Page 14
 SCLEROSING CHOLANGITIS 
@@ -194,7 +179,6 @@ A.
 evels.
 Standard liver function tests do not help in discriminating between AIH and ASC .
 
-
 ## Page 15
 LABORATORY
 FINDINGS 
@@ -210,8 +194,7 @@ Hepatic transaminases. These are moderately elevated in
  the majority of cases.
 Prothrombin time and albumin. Hepatic synthetic function
  is usually preserved unless decompensation has occurred.
-BIOCHEMISTRY 
-
+BIOCHEMISTRY
 
 ## Page 16
 A heterogeneous or nodular echotexture characteristic of cirrhosis, 
@@ -226,8 +209,7 @@ Increased diameter of the common bile duct.
  Extrahepatic ductal irregularity. 
 Increased diameter of the common bile duct.
  Extrahepatic ductal irregularity. 
-CHOLANGIOGRAPHY 
-
+CHOLANGIOGRAPHY
 
 ## Page 17
 The pathognomonic feature of sclerosing cholangitis is fibrous obliterative cholangitis with periductular fibrosis – is rarely seen in early cases, in which the patients mostly show inflammatory changes similar to those in AIH
@@ -238,7 +220,6 @@ early cases, in which the patients mostly
 show inflammatory changes similar to those
 in AIH
 
-
 ## Page 18
 Children with
  ASC respond to the same immunosuppressive treatment described above for AIH.
@@ -246,12 +227,10 @@ Children with ASC respond to the
 same immunosuppressive treatment
 described above for AIH.
 
-
 ## Page 19
 3- IRON
 OVERLOAD
-DISORDERS 
-
+DISORDERS
 
 ## Page 20
 Iron overload states can be classified as primary
@@ -265,7 +244,6 @@ Anemias (sideroblastic anemia, hereditary
  spherocytosis, β-thalassemia)
  Dietary 
 Medicinal iron overload
-
 
 ## Page 21
 HEREDITARY
@@ -286,14 +264,12 @@ prevent raccumulation of iron.
 Current recommendations are that venesection is indicated if serum ferr
 itin is >300μg/L in males or 200μg/L in females . The goals of therap
 y are to maintain a ferritin level <50μg/L. 
-Initial therapy in symptomatic children should include phlebotomy of 5–8mL/kg weekly or every other week until the ferritin has decreased to <300μg/L 
-
+Initial therapy in symptomatic children should include phlebotomy of 5–8mL/kg weekly or every other week until the ferritin has decreased to <300μg/L
 
 ## Page 22
 4- WILSON DISEASE
 (HEPATOLENTICULAR
-DEGENERATION) 
-
+DEGENERATION)
 
 ## Page 23
 In 1912, Kinnear Wilson, an American neurologist, described the
@@ -311,8 +287,7 @@ followed by subsequent deposition in other organs, causing the
 varied clinicopathologic features of Wilson disease. 
 Mutations in ATP7B cause impaired biliary copper excretion that lea
 ds to progressive accumulation of copper in the liver followed by subsequent deposition in other organs, causing the varied clinicopathologic features of Wilson disease. 
-The initial accumulation of copper in the liver begins in the first few years of life and can be substantial. 
-
+The initial accumulation of copper in the liver begins in the first few years of life and can be substantial.
 
 ## Page 24
 The liver is both the major site of the biochemical defect in Wilson disease and the initial target of copper toxicity including:
@@ -333,8 +308,7 @@ The symptomes include bradykinesia, cognitive impairment, cogwill rigidity, and 
 mood syndrome, termed “pseudoparkinsonian.” This presentation was associated with
 dilatation of the third ventricle. The second subgroup, termed “pseudosclerosis,” is
 manifested by ataxia, tremor, .and reduced functional capacity
-NEUROPSYCHIATRIC PRESENTATION 
-
+NEUROPSYCHIATRIC PRESENTATION
 
 ## Page 25
 Proximal renal tubular dysfunction, decreased glomerular filtration rate, and decreased renal plasma flow characterize the resulting renal dysfunction. 
@@ -360,22 +334,18 @@ Skin pigmentation particularly on the anterior aspect of the lower legs, through
 nigrans may be present.
 Left ventricular hypertrophy.
 Arrhythmias.
-HORMONAL IMBALANCE 
-
+HORMONAL IMBALANCE
 
 ## Page 26
 DIAGNOSIS:
 
-
 ## Page 27
 TREATMENT
-
 
 ## Page 28
 5- NON‐ALCOHOLIC
 STEATOHEPATITIS
 IN CHILDHOOD
-
 
 ## Page 29
 ➢NON‐ALCOHOLIC FATTY
@@ -391,7 +361,6 @@ ees of inflammation, ballooning, and fi
 brosis, which may progress to advanc
 ed liver diseases and to cirrhosis
 DEFINITION
-
 
 ## Page 30
 The pathogenesis of NAFLD is complex . In
@@ -409,7 +378,6 @@ Dyslipidemia.
 Cardiovascular complications NAFLD.
  Metabolic syndrome
 
-
 ## Page 31
 CLINICAL
 PRESINTATION 
@@ -423,8 +391,7 @@ Stigmata of metabolic syndrome with IR, AN, hypertension,
 d waist circumference.
 Hypothalamic dysfunction or surgery. Children with congenital or
  postsurgical hypothalamic dysfunction, for example, after resectio
-n of a craniopharyngioma, may be hyperphagic and obese. 
-
+n of a craniopharyngioma, may be hyperphagic and obese.
 
 ## Page 32
 Clinical signs of co‐morbidities, such as AN, hirsutism, and striae rubra.
@@ -447,7 +414,6 @@ Uric acid concentration.
 Exclusion of other liver diseases.
 LAPORATORY INVESTIGATIONS
 
-
 ## Page 33
 DIAGNOSIS
 Liver biopsy remains the gold standard for the diagn
@@ -458,8 +424,7 @@ diagnosis of NAFLD because it is the only way to
 distinguish between NAFLD and NASH, to
 determine the severity of liver damage and the
 degree of fibrosis and may also exclude other
-chronic liver diseases. 
-
+chronic liver diseases.
 
 ## Page 34
 TREATMENT
@@ -470,14 +435,12 @@ Insulin‐sensitizing agents, antioxidants, and
 cytoprotective drugs 
 Insulin‐sensitizing agents, antioxidants, and 
 cytoprotective drugs 
-Antioxidants The main antioxidant agent tested in children has been vitamin E (α‐tocoferol), a fat‐soluble vitamin, with a good safety profile. 
-
+Antioxidants The main antioxidant agent tested in children has been vitamin E (α‐tocoferol), a fat‐soluble vitamin, with a good safety profile.
 
 ## Page 35
 6- ΑLPHA 1-
 ANTITRYPSIN
 DEFICIENCY
-
 
 ## Page 36
 A single amino acid substitution results in an abnormally folded protein that is unable to traverse the secretory pathway.
@@ -490,8 +453,7 @@ Clinical features include:
  - Severe liver dysfunction in child/adolescent
 - Chronic hepatitis in adult .
 - Cryptogenic cirrhosis in adult.
- - Hepatocellular carcinoma in adult. 
-
+ - Hepatocellular carcinoma in adult.
 
 ## Page 37
 Diminished serum levels of α1-antitrypsin.
@@ -501,7 +463,6 @@ Abnormal mobility of α1-antitrypsin
 in isoelectric focusing Periodic acid–
 Schiff positive, diastase resistant
 globules in liver cells.
-
 
 ## Page 38
 There is no specific therapy for α1-AT deficiency associated liver disease. 
@@ -520,7 +481,8 @@ literature, the clinical efficacy of these
 medications/ nutriceuticals has not been
 investigated in a controlled clinical trial.
 
-
 ## Page 39
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 

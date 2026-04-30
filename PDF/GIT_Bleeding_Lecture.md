@@ -1,5 +1,4 @@
 ## Page 1
- 
 GIT BLEEDING 
 Upper & Lower Gastrointestinal Bleeding 
 Z Medicine 
@@ -31,10 +30,7 @@ Hematemesis: vomiting of fresh blood or Coffee ground vomit (partially digested 
 ◦ 
 Melaena (black tarry stools PR)  — PR = Per rectal 
 2. Red blood PR — If the bleeding is very brisk and severe 
-3. Iron deficiency anemia — If the bleeding is very slow and occult 
- 
- 
-
+3. Iron deficiency anemia — If the bleeding is very slow and occult
 
 ## Page 2
 Management 
@@ -76,11 +72,7 @@ Bleeding DU: Under-running of ulcer
 ◦ 
 Bleeding GU: Wedge excision of bleeding lesion 
 ◦ 
-Malignancy: Partial/total gastrectomy 
- 
- 
- 
-
+Malignancy: Partial/total gastrectomy
 
 ## Page 3
 2. Variceal Bleeding 
@@ -120,14 +112,7 @@ varices — performed if failed medical and endoscopic management
 Can worsen hepatic encephalopathy 
 f) Surgical: 
 • Surgical porto-systemic shunts (often spleno-renal) 
-• Liver transplantation (patients often given TIPSS/surgical shunt whilst awaiting this) 
- 
- 
- 
- 
- 
- 
-
+• Liver transplantation (patients often given TIPSS/surgical shunt whilst awaiting this)
 
 ## Page 4
 Prognosis closely related to severity of underlying chronic liver disease (Child-Pugh grading). 
@@ -141,11 +126,7 @@ Rockall Score
  
 Identifies patients at risk of adverse outcome following acute upper GI bleeding  
 Score <3 carries good prognosis  
-Score >8 carries high risk of mortality 
- 
- 
- 
-
+Score >8 carries high risk of mortality
 
 ## Page 5
 Lower GI Bleeding 
@@ -196,8 +177,7 @@ Endoscopic:
  
  
 Radiological: 
-• CT angiogram — diagnostic only (non-invasive); Determines site and cause of bleeding 
-
+• CT angiogram — diagnostic only (non-invasive); Determines site and cause of bleeding
 
 ## Page 6
 • Mesenteric Angiogram — diagnostic and therapeutic (but invasive); Determines site of bleeding and 
@@ -216,11 +196,7 @@ severe/life-threatening bleeds.
 In the 85% where bleeding settles spontaneously, OPD investigation is required to determine 
 underlying cause:  
 • Endoscopy: flexible sigmoidoscopy, colonoscopy 
-• Barium enema 
- 
- 
- 
-
+• Barium enema
 
 ## Page 7
 Upper & Lower GI Bleeding — General Approach 
@@ -250,8 +226,7 @@ habit suggest lower GI cause e.g. Colitis, cancer colon
 ✓ Previous episodes of bleeding and cause 
  
  
-Past Medical History 
-
+Past Medical History
 
 ## Page 8
 ✓ History of any diseases that can result in GI bleeding, e.g. Peptic ulcer disease, diverticular disease, liver 
@@ -276,7 +251,5 @@ Examination
 ✓ Tenderness on abdominal examination may point to underlying cause e.g. Epigastric tenderness >>> peptic ulcer 
 ✓ Stigmata of chronic liver disease (palmar erythema, leukonychia, Dupuytren's contracture, liver flap, jaundice, 
 spider naevi, gynaecomastia, shifting dullness/ascites) 
-✓ Digital rectal examination may reveal melaena, dark red blood, bright red stool 
- 
-
+✓ Digital rectal examination may reveal melaena, dark red blood, bright red stool
 

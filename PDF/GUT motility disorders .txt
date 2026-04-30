@@ -1,4 +1,3 @@
- 
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH 
 1. Esophageal Motility Disorders 
 ❖ Achalasia: Loss of inhibitory nitrergic neurons in the myenteric plexus → failure of lower esophageal 
@@ -28,9 +27,7 @@ Treatment:
  Refractory: Gastric peroral endoscopic myotomy (G-POEM), gastric electrical stimulation, pyloroplasty. 
  Supportive: Antiemetics (ondansetron, promethazine). 
  
-GI Motility Disorders 
- 
-
+GI Motility Disorders
 
 3.Small bowel motility disorder: 
 CIPO (chronic intestinal pseudo-obstruction): Neuromuscular or myopathic failure (scleroderma, amyloidosis, 
@@ -58,11 +55,7 @@ colectomy (severe).
  2.Dyssynergic defecation: 
   Failure of pelvic floor relaxation + paradoxical anal contraction during attempted defecation. 
 Clinical Presentation: Infrequent stools, straining, incomplete evacuation, manual maneuvers (dyssynergia). 
-➢Treatment: Biofeedback therapy (first-line), pelvic floor physiotherapy. 
- 
- 
- 
-
+➢Treatment: Biofeedback therapy (first-line), pelvic floor physiotherapy.
 
 3.Ogilvie syndrome: 
  Acute colonic dilation without mechanical obstruction; associated with surgery, electrolytes, medications. 
@@ -79,13 +72,9 @@ Clinical Presentation:
 ➢ Adult (rare): Lifelong severe constipation, enterocolitis risk. 
  
  
-ogilvie syndrome 
+ogilvie syndrome
 
 
- 
- 
- 
- 
- 
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 

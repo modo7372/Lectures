@@ -42,9 +42,8 @@ Asia: pure IVC or combined IVC/hepatic vein block predominates
  Diagnosis requires unequivocal radiological confirmation of hepatic venous flow obstruction
   (Colored duplex ultrasound) Of choice
 
-
 ## Page 2
- Dx:
+Dx:
  Consider diagnosis of BCS in any symptomatic or asymptomatic patient with acute or chronic
 liver disease.
  Doppler ultrasound is the first line of investigation for BCS.
@@ -93,7 +92,6 @@ Duplex ultrasound as 1st line then CT to confirm the dx
 Use Doppler ultrasound as first-line investigation , CT for confirmation and further evaluation.
  Treatment: Anti coagulations.
 
-
 ## Page 3
 Idiopathic non-cirrhotic portal hypertension (INCPH) ; Hepatic vascular malformations.(Reading
 only if you want.
@@ -115,5 +113,4 @@ Platelet transfusion containing ABO-incompatible plasma
 Signs and symptoms include
 – Weight gain, tender hepatomegaly and jaundice
 Dx: Liver biopsy
-
 

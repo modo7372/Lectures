@@ -29,7 +29,6 @@ Gallbladder wall necrosis.
 Perforated Cholecystitis
 Gallbladder wall rupture.
 
-
 Clinical Manifestations
 Typacally : Right upper quadrant abdominal pain that worsens with fatty foods.
 Physical exam: right upper quadrant tenderness and a positive Murphy's sign (inspiratory
@@ -72,7 +71,6 @@ approach. Open cholecystectomy can be performed if a
 contraindication to minimally invasive approach is
 identified.
 
-
 Cholangitis
 Definition
 Acute cholangitis is a bacterial infection superimposed on an obstruction of
@@ -113,7 +111,6 @@ Single-agent Regimens
 Piperacillin and tazobactam. Also, Imipenem or meropenem.
 ERCP Drainage
 Biliary drainage via ERCP.
-
 
 Primary Sclerosing Cholangitis (PSC)
 Definition
@@ -160,7 +157,6 @@ By spyglass (a type of cholangioscope — a very small, flexible
 endoscope with a high-definition camera — designed to go inside the
 bile ducts).
 
-
 Quick Overview
 Disease
 Key Feature
@@ -198,5 +194,4 @@ U/S, CT, MRCP, EUS,
 Spyglass biopsy
 Surgical resection (if
 operable)
-
 

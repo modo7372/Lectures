@@ -6,7 +6,6 @@ Basics/student
 GER
 D
 
-
 ## Page 2
 ERD : Erosive Reflux  Disease 
 GERD : Gastro-Esophageal  Reflux Disease 
@@ -16,7 +15,6 @@ Terminology
 Heartburn
 symptoms
 Diagnosis
-
 
 ## Page 3
 Reflux of  gastric content
@@ -29,18 +27,15 @@ o Cause  complications
 That result from the retrograde flow of gastric contents 
 Into the esophagus, oropharynx, and/or respiratory tract.
 Definition, 2007 
-Definition, 2015 
-
+Definition, 2015
 
 ## Page 4
 Types
-
 
 ## Page 5
 PATHOLOGIC
 Physiological
 FUNCTIONAL
-
 
 ## Page 6
 PATHOLOGIC
@@ -49,10 +44,8 @@ PRIMARY
 Increase intra-abdominal
 Intragastric  pressure
 
-
 ## Page 7
 PRIMARY
-
 
 ## Page 8
 Gastric content
@@ -65,7 +58,6 @@ Gastric content
 Anatomical disorders
 Functional disorders
 
-
 ## Page 9
 Gastric content
 Anatomical disorders
@@ -77,13 +69,11 @@ Gastric content
 Anatomical disorders
 Functional disorders
 
-
 ## Page 10
 Reflux
 Gastric content
 Anatomical disorders
 Functional disorders
-
 
 ## Page 11
 Reflux
@@ -109,7 +99,6 @@ Relaxation
 Reflux
 Achalasia
 
-
 ## Page 12
 Reflux
 Gastric content
@@ -118,8 +107,7 @@ Functional disorders
 LES
 ESOPHAGEAL CLEANING
 GASTRIC EMPTY
-BILE REFLUX 
-
+BILE REFLUX
 
 ## Page 13
 Reflux
@@ -129,8 +117,7 @@ Functional disorders
 LES
 ESOPHAGEAL CLEANING
 GASTRIC EMPTY
-BILE REFLUX 
-
+BILE REFLUX
 
 ## Page 14
 Reflux
@@ -140,8 +127,7 @@ Functional disorders
 LES
 ESOPHAGEAL CLEANING
 GASTRIC EMPTY
-BILE REFLUX 
-
+BILE REFLUX
 
 ## Page 15
 Reflux
@@ -155,8 +141,7 @@ Length
 Intraabdominal
 LES
 HAITAL HERNIA
-GASTRIC SHAPE 
-
+GASTRIC SHAPE
 
 ## Page 16
 Reflux
@@ -170,8 +155,7 @@ Length
 Intraabdominal
 LES
 HAITAL HERNIA
-GASTRIC SHAPE 
-
+GASTRIC SHAPE
 
 ## Page 17
 Reflux
@@ -191,7 +175,6 @@ Type-3: combined
 
 Type -4 : with bowel part
 
-
 ## Page 18
 Reflux
 Gastric content
@@ -210,7 +193,6 @@ Type-3: combined
 
 Type -4 : with bowel part
 
-
 ## Page 19
 Reflux
 Gastric content
@@ -218,8 +200,7 @@ Anatomical disorders
 Functional disorders
 LES
 HAITAL HERNIA
-GASTRIC SHAPE 
-
+GASTRIC SHAPE
 
 ## Page 20
 Reflux
@@ -229,8 +210,7 @@ Functional disorders
 Anatomical abnormality
 LES
 HAITAL HERNIA
-GASTRIC SHAPE 
-
+GASTRIC SHAPE
 
 ## Page 21
 Reflux
@@ -239,7 +219,6 @@ Anatomical disorders
 Functional disorders
 BILE
 FOODS
-
 
 ## Page 22
 Reflux
@@ -261,8 +240,9 @@ Smoking
 Stress 
 Other factors
 
-
 ## Page 23
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 ## Page 24
@@ -280,7 +260,6 @@ Weight loss
 Odynophagia 
 Dysphagia
 
-
 ## Page 25
 JOURNAL OF NEUROGASTROENTEROLOGY AND MOTILITY 2017
 Heartburn
@@ -290,7 +269,6 @@ Classic symptoms
 Esophageal Symptoms
 Esophageal Complications
 Esophageal
-
 
 ## Page 26
 JOURNAL OF NEUROGASTROENTEROLOGY AND MOTILITY 2017
@@ -302,7 +280,6 @@ Esophageal Symptoms
 Esophageal Complications
 Esophageal
 
-
 ## Page 27
 Neoplasm : Dysphagia , Bleeding
 Esophagitis : pain / odynophagia
@@ -311,7 +288,6 @@ Esophageal
 Esophageal Symptoms
 Esophageal Complications
 Esophageal
-
 
 ## Page 28
 Esophageal Symptoms
@@ -327,8 +303,7 @@ Hematemesis
 Weight loss
 Odynophagia 
 Dysphagia
-PRESENTATION 
-
+PRESENTATION
 
 ## Page 29
 WGO 2015
@@ -337,7 +312,6 @@ Pharynx
 Larynx
 Ear
 Chest
-
 
 ## Page 30
 Esophageal Symptoms
@@ -353,8 +327,7 @@ Hematemesis
 Weight loss
 Odynophagia 
 Dysphagia
-PRESENTATION 
-
+PRESENTATION
 
 ## Page 31
 Alarming symptoms 
@@ -367,8 +340,9 @@ Odynophagia
 Hematemesis / Melena 
 Weight loss
 
-
 ## Page 32
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 ## Page 33
@@ -388,8 +362,7 @@ Odynophagia
 Dysphagia
 Treat 
 Consult then treat 
-Investigate 
-
+Investigate
 
 ## Page 34
 Typical  symptoms
@@ -399,13 +372,11 @@ Water brush
 MEDICATIONS
 LIFE STYLE 
 MODIFICATIONS
-Treat 
-
+Treat
 
 ## Page 35
 LIFE STYLE 
 MODIFICATIONS
-
 
 ## Page 36
 •
@@ -418,7 +389,6 @@ Antacids
 Histamine receptor 
 Proton pump inhibitors 
 Antacids
-
 
 ## Page 37
 •
@@ -433,7 +403,6 @@ P-CAB
 Acid reducing agent
 Potassium-Competitive Acid Blockers
 Proton Pump Inhibitors
-
 
 ## Page 38
 PPI
@@ -454,7 +423,6 @@ hey bind reversibly to the hydrogen-
 potassium ATPase pump in gastric cells, 
 providing fast, strong, and durable 
 inhibition of acid secretion
-
 
 ## Page 39
 PPI
@@ -483,7 +451,6 @@ Keverprazan
 
 Revaprazan
 
-
 ## Page 40
 OMEPRAZOLE
 ESOMEPRAZOLE`
@@ -507,7 +474,6 @@ Histamine receptor -2 blocker (H2-Blocher)
 •
 Antacids
 
-
 ## Page 41
 - Additional drug
 - Standard dose: Once/ twice e daily
@@ -518,7 +484,6 @@ MEDICATIONS
 Histamine receptor -2 blocker (H2-Blocher)
 Antacids
 
-
 ## Page 42
 Locally acting 
 Neutralization 
@@ -528,19 +493,16 @@ MEDICATIONS
 Histamine receptor -2 blocker (H2-Blocher)
 Antacids
 
-
 ## Page 43
 Satisfactory 
 Improvement
 STEPDOWN
 To lowest effective dose
 
-
 ## Page 44
 Investigations
 Satisfactory 
 Improvement
-
 
 ## Page 45
 Investigations
@@ -548,14 +510,12 @@ Endoscopy
 Radiological  study
 Esophageal PH
 
-
 ## Page 46
 GERD
 Endoscopy
 Radiological  study
 Esophageal PH
 Investigations
-
 
 ## Page 47
 Hiatal hernia
@@ -567,7 +527,6 @@ BARIUM SWALLOW STUDY
 US  / CT SCANNING ?? No role
 Radiological  study
 
-
 ## Page 48
 Test of choice 
 for initial assessment 
@@ -577,7 +536,6 @@ Endoscopy
 Grading of disease  
 Exclusion of complications
 
-
 ## Page 49
 Erosive or non-erosive
 Assessment of the cardia 
@@ -585,14 +543,12 @@ Endoscopy
 Exclusion of complications
 ENDOSCOPY
 
-
 ## Page 50
 Erosive or non-erosive
 Assessment of the cardia 
 Grading of disease  
 Exclusion of complications
 ENDOSCOPY
-
 
 ## Page 51
 Erosive or non-erosive
@@ -602,7 +558,6 @@ ENDOSCOPY
 ENDOSCOPY
 Los Angeles classification of GERD
 
-
 ## Page 52
 Erosive or non-erosive
 Assessment of the cardia 
@@ -610,7 +565,6 @@ Los Angeles classification of GERD
 Exclusion of complications
 ENDOSCOPY
 HAITAL HERNIA
-
 
 ## Page 53
 Erosive or non-erosive
@@ -622,13 +576,11 @@ BARRET’S
 STRICTURE
 MALIGNANCY
 
-
 ## Page 54
 Investigations
 Endoscopy
 Radiological  study
 Esophageal PH
-
 
 ## Page 55
 Failure of PPI
@@ -636,13 +588,11 @@ NERD
 Pre-operative
 Esophageal PH
 
-
 ## Page 56
 Failure of PPI
 NERD
 Pre-operative
 Esophageal PH
-
 
 ## Page 57
 Management 
@@ -658,8 +608,9 @@ Antacids
 •
 Potassium-Competitive Acid Blockers P-CAB
 
-
 ## Page 58
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 ## Page 59
@@ -671,20 +622,17 @@ Endoscopic Fundoplication
 GERDx
 Cardiac ablation
 Stretta
-Endoscopic treatment 
-
+Endoscopic treatment
 
 ## Page 60
-Surgical treatment 
-
+Surgical treatment
 
 ## Page 61
 o Esophageal complications
 o Extra- esophageal complications
 o Quality of the life complications
 Complication
-s 
-
+s
 
 ## Page 62
 Inadequate
@@ -696,7 +644,6 @@ Bleeding
 Dysphagia
 Cancer
 Esophageal complications
-
 
 ## Page 63
 -
@@ -712,8 +659,7 @@ Altered social well-being
 -
 Altered emotional well-being
 Quality of the life 
-effects 
-
+effects
 
 ## Page 64
 Extraesophageal 
@@ -748,18 +694,15 @@ Dental problems
 •
 Dental erosions
 
-
 ## Page 65
 Endoscopic Dilatation 
 Self-expandable stents
-Surgical Esophageal replacement 
-
+Surgical Esophageal replacement
 
 ## Page 66
 Endoscopic Dilatation 
 Self-expandable stents
-Surgical Esophageal replacement 
-
+Surgical Esophageal replacement
 
 ## Page 67
 Barrett’s esophagus is defined as an esophagus in which any portion of the normal distal
@@ -772,8 +715,7 @@ epithelium, which is clearly visible endoscopically (≥1 cm) above the GOJ and
 confirmed histopathologically from esophageal biopsies
 BE, a premalignant condition for esophageal adenocarcinoma (EAC) about 0.3 %
 BE is diagnosed in 7% to 10% of individuals with chronic GERD
-Barrett’s esophagus 
-
+Barrett’s esophagus
 
 ## Page 68
 1.The known risk factors of BE include the following:
@@ -786,18 +728,15 @@ Barrett’s esophagus
 2.BE is more common in first-degree relatives of BE.
 RISK FACTORS OF 
 BE
-Barrett’s esophagus 
-
+Barrett’s esophagus
 
 ## Page 69
 Cancer risk in BE based on degree of dysplasia
 0.19%- 0.76% per year 
-Barrett’s esophagus 
-
+Barrett’s esophagus
 
 ## Page 70
-Barrett’s esophagus 
-
+Barrett’s esophagus
 
 ## Page 71
 Endoscopic mucosal resection
@@ -818,9 +757,10 @@ Similarly, other putative chemopreventive agents currently lack sufficient evide
 administered routinely 
 Chemoprevention Therapy
 Endoscopic therapy 
-Surgery 
-
+Surgery
 
 ## Page 72
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 

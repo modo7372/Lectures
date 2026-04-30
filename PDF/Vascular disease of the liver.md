@@ -2,13 +2,11 @@
 Vascular diseases of the liver
 Clinical Practice Guidelines
 
-
 ## Page 2
 About these slides
 •
 These slides give a comprehensive overview of the EASL clinical practice guidelines on 
 vascular diseases of the liver
-
 
 ## Page 3
 Outline
@@ -22,11 +20,9 @@ Guidelines
 • Unresolved issues in treatment and monitoring
 The future for VDL
 
-
 ## Page 4
 Methods
 Grading evidence and recommendations
-
 
 ## Page 5
 Grading evidence and recommendations 
@@ -52,13 +48,13 @@ presumed patient-important outcomes, and cost
 Variability in preferences and values, or more uncertainty: more likely a weak recommendation is 
 warranted. Recommendation is made with less certainty; higher cost or resource consumption
 
-
 ## Page 6
 Background
 Vascular diseases of the liver
 
-
 ## Page 7
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 ## Page 8
@@ -79,11 +75,9 @@ These guidelines do not cover all VDL, but are focused on specific conditions
 – More frequent, despite being rare
 – More data available
 
-
 ## Page 9
 Guidelines
 Key recommendations
-
 
 ## Page 10
 Topics
@@ -98,7 +92,6 @@ Topics
 9. Management of anticoagulation in patients with liver disease
 Click on a topic to skip 
 to that section
-
 
 ## Page 11
 Aetiology of SVT in patients without liver disease
@@ -116,7 +109,6 @@ Both conditions are caused by uncommon pro-thrombotic disorders
 Aetiology of BCS and PVT is often multifactorial
 – EN-Vie study: ≥2 factors in 46% and 10% of patients, respectively
 – In >60% of patients with SVT with inherited thrombophilia, an additional risk factor was found
-
 
 ## Page 12
 Risk factors in BCS and PVT
@@ -156,7 +148,6 @@ Local factors
 0
 21
 
-
 ## Page 13
 Investigations for splanchnic vein thrombosis
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -185,7 +176,6 @@ A
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 14
 Investigations for splanchnic vein thrombosis
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -212,7 +202,6 @@ B
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 15
 Budd–Chiari syndrome: Definition and diagnosis
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -230,8 +219,9 @@ Pathophysiological consequences of obstruction include:
 •
 Diagnosis requires unequivocal radiological confirmation of hepatic venous flow obstruction
 
-
 ## Page 16
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 ## Page 17
@@ -263,7 +253,6 @@ Grade of evidence
 Grade of recommendation
 Covered by this guideline
 
-
 ## Page 18
 Stepwise therapeutic algorithm for BCS
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -274,7 +263,6 @@ Medical treatment
 Angioplasty/stenting/thrombolysis
 TIPS
 Liver transplant
-
 
 ## Page 19
 Stepwise therapeutic algorithm for BCS
@@ -292,7 +280,6 @@ as possible for an
 indefinite period
 Consider potential for 
 bleeding complications
-
 
 ## Page 20
 Stepwise therapeutic algorithm for BCS
@@ -315,7 +302,6 @@ logically initiated
 concomitantly
 Consider potential for 
 bleeding complications
-
 
 ## Page 21
 Budd–Chiari syndrome: Medical treatment
@@ -343,7 +329,6 @@ B
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 22
 Stepwise therapeutic algorithm for BCS
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -363,7 +348,6 @@ Angioplasty/stenting is
 the definitive treatment 
 for less than 10% of 
 Western BCS patients
-
 
 ## Page 23
 Stepwise therapeutic algorithm for BCS
@@ -388,7 +372,6 @@ patients with IVC
 obstruction and in 
 those with severe IVC 
 stenosis
-
 
 ## Page 24
 Budd–Chiari syndrome: Angioplasty and stenting
@@ -415,7 +398,6 @@ B
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 25
 Stepwise therapeutic algorithm for BCS
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -436,7 +418,6 @@ benefit from LTx
 without prior TIPS
 No reliable way to 
 identify such patients
-
 
 ## Page 26
 Budd–Chiari syndrome: LTx
@@ -461,7 +442,6 @@ A
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 27
 Budd–Chiari syndrome and pregnancy
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -475,7 +455,6 @@ Vitamin K antagonists associated with high risk of miscarriage and congenital ma
 – Perform pregnancy test as soon as possible
 – If positive, switch to LMWH
 • Periodic monitoring of anti-Xa activity
-
 
 ## Page 28
 Acute portal vein thrombosis: Definition and diagnosis
@@ -504,8 +483,9 @@ B
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 29
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
 ## Page 30
@@ -542,7 +522,6 @@ Add antibiotics if
 septic thrombophlebitis
 Treat cause when accurate
 
-
 ## Page 31
 Acute portal vein thrombosis: Anticoagulation
 *Especially in those in whom unfractionated heparin was initiated
@@ -571,7 +550,6 @@ A
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 32
 Acute portal vein thrombosis: Prognosis
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -598,7 +576,6 @@ B
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 33
 Extrahepatic portal vein obstruction
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -606,8 +583,7 @@ EASL CPG VDL. J Hepatol 2016;64:179–202
 EHPVO occurs due to:
 – Malignant invasion
 – Portal vein narrowing due to a malignant tumour
-– Thrombosis 
-
+– Thrombosis
 
 ## Page 34
 Extrahepatic portal vein obstruction
@@ -618,7 +594,6 @@ EHPVO occurs due to:
 – Portal vein narrowing due to a malignant tumour
 – Thrombosis 
 Covered by this guideline
-
 
 ## Page 35
 Extrahepatic portal vein obstruction
@@ -632,7 +607,6 @@ EHPVO occurs due to:
 Following acute thrombosis in the absence of recanalization
 – Portal venous lumen obliterates
 – Porto-portal collaterals develop
-
 
 ## Page 36
 Extrahepatic portal vein obstruction
@@ -651,7 +625,6 @@ Portal cavernoma
 2 months
 Helical CT showing organized PVT
 with cavernoma (white arrow)1
-
 
 ## Page 37
 Extrahepatic portal vein obstruction: Diagnosis
@@ -682,7 +655,6 @@ C
 1
 Grade of evidence
 Grade of recommendation
-
 
 ## Page 38
 Extrahepatic portal vein obstruction: Outcome
@@ -715,7 +687,6 @@ B
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 39
 Chronic EHPVO: Determining need for permanent anticoagulation
 *Assessment based on personal and familial history of unprovoked deep vein thrombosis, and on findings of isolated or combined prothrombotic conditions
@@ -739,7 +710,6 @@ YES
 NO
 YES
 NO
-
 
 ## Page 40
 INCPH: Diagnosis
@@ -765,7 +735,6 @@ A
 1
 Grade of evidence
 Grade of recommendation
-
 
 ## Page 41
 Diagnostic criteria of INCPH
@@ -810,7 +779,6 @@ Sarcoidosis
 •
 Schistosomiasis
 
-
 ## Page 42
 INCPH: Treatment
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -837,7 +805,6 @@ B
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 43
 Hepatic vascular malformations in HHT: Definition 
 *Also known as Rendu–Osler–Weber disease
@@ -852,7 +819,6 @@ Clinical presentation of HHT varies widely
 •
 Diffuse liver VMs are unique to HHT
 – Presence should always lead to the search of HHT diagnostic criteria
-
 
 ## Page 44
 Curaҫao clinical criteria and grading of liver VMs
@@ -901,7 +867,6 @@ Decompensation of arteriovenous shunt with:
 Dilatation of hepatic and/or portal vein
 •
 Marked flow abnormalities in both arteries and veins
-
 
 ## Page 45
 HHT - Curaçao clinical 
@@ -954,7 +919,6 @@ Diagnosis is confirmed with 3 Curaҫao criteria
 2: HHT is likely 
 1: HHT unlikely
 
-
 ## Page 46
 Hepatic vascular malformations in HHT: Diagnosis 
 *Grade of evidence A, Grade of recommendation 2
@@ -980,7 +944,6 @@ A
 1
 Grade of evidence
 Grade of recommendation
-
 
 ## Page 47
 Hepatic vascular malformations in HHT: Diagnosis 
@@ -1011,7 +974,6 @@ B
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 48
 Hepatic vascular malformations in HHT: Treatment 
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -1031,7 +993,6 @@ An intensive approach to symptomatic
 liver VMs is warranted
 A cautious approach to major 
 remedies is required
-
 
 ## Page 49
 Hepatic vascular malformations in HHT: Major remedies
@@ -1063,7 +1024,6 @@ B
 1
 Grade of evidence
 Grade of recommendation
-
 
 ## Page 50
 Sinusoidal obstruction syndrome* 
@@ -1124,7 +1084,6 @@ Hepatic irradiation (high doses)
 Platelet transfusion containing 
 ABO-incompatible plasma
 
-
 ## Page 51
 Sinusoidal obstruction syndrome: Diagnosis 
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -1142,7 +1101,6 @@ SOS challenging
 • Parenteral nutrition
 • Haemolysis
 • Renal failure
-
 
 ## Page 52
 Sinusoidal obstruction syndrome: Diagnosis 
@@ -1169,7 +1127,6 @@ C
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 53
 SOS: Prophylaxis and treatment 
 *In the context of solid cancer treatment  (in particular colorectal liver metastasis)
@@ -1194,7 +1151,6 @@ B
 1
 Grade of evidence
 Grade of recommendation
-
 
 ## Page 54
 Cirrhosis as a prothrombotic condition: Portal vein obstruction
@@ -1223,7 +1179,6 @@ B
 2
 Grade of evidence
 Grade of recommendation
-
 
 ## Page 55
 Anticoagulation in liver disease
@@ -1257,7 +1212,6 @@ B
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 56
 Anticoagulation in liver disease
 EASL CPG VDL. J Hepatol 2016;64:179–202
@@ -1277,7 +1231,6 @@ C
 2
 Grade of evidence
 Grade of recommendation
-
 
 ## Page 57
 Anticoagulation in liver disease
@@ -1299,7 +1252,6 @@ C
 2
 Grade of evidence
 Grade of recommendation
-
 
 ## Page 58
 Anticoagulation in liver disease
@@ -1325,11 +1277,9 @@ C
 Grade of evidence
 Grade of recommendation
 
-
 ## Page 59
 The future for VDL
 Unresolved issues in treatment and monitoring
-
 
 ## Page 60
 Unresolved issues in treatment and monitoring
@@ -1343,5 +1293,4 @@ Randomized trials are urgently needed
 •
 Alternative laboratory monitoring should be developed and validated
 – In cirrhotic patients treated with LMWH or VKAs
-
 

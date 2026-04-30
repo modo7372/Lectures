@@ -64,7 +64,6 @@ On top of atheromatus plaque
 Thromboangiitis obliterans.
 Ä
 
-
 Ä Causes of Mesenteric venous thrombosis
 1.
 Hypercoagulability.
@@ -124,7 +123,6 @@ Sepsis and septic shock.
 Multiple organ dysfunction syndrome (MODS).
 4.
 Death
-
 
 Dx:
 1. Laboratory Studies
@@ -186,7 +184,6 @@ combination with surgery.
 etiology, generally warrant immediate surgical intervention for the resection of ischemic or necrotic
 intestines
 
-
 Choronic mesentric ischemia
 Ä Definition: CB4
 Ä
@@ -241,7 +238,6 @@ B. Air under diaphragm
 C. Multiple air-fluid levels
 D. Thumbprinting
 
-
 Q3. The most common symptom of chronic mesenteric ischemia is:
 A. Vomiting
 B. Constipation
@@ -285,5 +281,4 @@ B. Retroperitoneal perforation
 C. Early bowel obstruction
 D. Localized peritonitis
 E. Functional abdominal pain
-
 

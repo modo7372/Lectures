@@ -1,5 +1,4 @@
 ## Page 1
- 
 Definition 
 ➢Nausea 
 Nausea is the unpleasant sensation of needing to vomit, often described as a feeling of unease or 
@@ -40,9 +39,7 @@ Causes of Nausea and Vomiting
  Chemotherapy-induced nausea and vomiting (CINV) 
  Opioid analgesics 
  
-Nausea & Vomiting 
- 
-
+Nausea & Vomiting
 
 ## Page 2
 4. Infectious Causes 
@@ -83,13 +80,7 @@ appendicitis.
 CT scan of the abdomen if a more detailed assessment is needed. 
 ➢Endoscopic Examination (if needed) 
 • 
-Upper endoscopy (EGD) to evaluate for peptic ulcer disease, gastritis, or malignancy. 
- 
- 
- 
- 
- 
-
+Upper endoscopy (EGD) to evaluate for peptic ulcer disease, gastritis, or malignancy.
 
 ## Page 3
 Management 
@@ -113,6 +104,5 @@ B. Management of Vomiting
 induced nausea. 
 ➢Surgical Intervention 
 ✓ Surgical exploration may be required if an underlying surgical condition (e.g., intestinal 
-obstruction, appendicitis) is suspected. 
-
+obstruction, appendicitis) is suspected.
 

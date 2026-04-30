@@ -30,7 +30,6 @@ Gallbladder wall necrosis.
 Perforated Cholecystitis
 Gallbladder wall rupture.
 
-
 ## Page 2
 Clinical Manifestations
 Typacally : Right upper quadrant abdominal pain that worsens with fatty foods.
@@ -74,7 +73,6 @@ approach. Open cholecystectomy can be performed if a
 contraindication to minimally invasive approach is
 identified.
 
-
 ## Page 3
 Cholangitis
 Definition
@@ -116,7 +114,6 @@ Single-agent Regimens
 Piperacillin and tazobactam. Also, Imipenem or meropenem.
 ERCP Drainage
 Biliary drainage via ERCP.
-
 
 ## Page 4
 Primary Sclerosing Cholangitis (PSC)
@@ -164,7 +161,6 @@ By spyglass (a type of cholangioscope — a very small, flexible
 endoscope with a high-definition camera — designed to go inside the
 bile ducts).
 
-
 ## Page 5
 Quick Overview
 Disease
@@ -203,5 +199,4 @@ U/S, CT, MRCP, EUS,
 Spyglass biopsy
 Surgical resection (if
 operable)
-
 

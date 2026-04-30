@@ -52,11 +52,7 @@ Splanchnic vasoconstriction → ischaemia
 ICU patients 
 Idiopathic 
 No identifiable cause after exclusion of above 
-~5–10% 
- 
- 
- 
-
+~5–10%
 
 ## Page 2
 Peptic Ulcer Disease  |  Gastroenterology Lecture Guide 
@@ -107,8 +103,7 @@ Risk Reduction Strategies
 • Use selective COX-2 inhibitors (e.g., celecoxib) where possible. 
 • Co-prescribe a PPI (e.g., omeprazole 20 mg daily) with long-term NSAIDs. 
 • Eradicate H. pylori before initiating chronic NSAID therapy. 
-• Use the lowest effective NSAID dose for the shortest possible duration. 
-
+• Use the lowest effective NSAID dose for the shortest possible duration.
 
 ## Page 3
 Peptic Ulcer Disease  |  Gastroenterology Lecture Guide 
@@ -172,9 +167,7 @@ Full blood count (CBC) — anaemia (iron deficiency indicates chronic bleeding).
 • 
 Serum gastrin — if Zollinger-Ellison syndrome is suspected. 
 • 
-Faecal occult blood test — screening or follow-up. 
- 
-
+Faecal occult blood test — screening or follow-up.
 
 ## Page 4
 Peptic Ulcer Disease  |  Gastroenterology Lecture Guide 
@@ -231,8 +224,7 @@ Combined with vagotomy
 Oversewing 
 (underrunning) 
 Direct suture ligation of bleeding vessel 
-Acute haemorrhage 
-
+Acute haemorrhage
 
 ## Page 5
 Peptic Ulcer Disease  |  Gastroenterology Lecture Guide 
@@ -278,6 +270,5 @@ Avoiding NSAID, using gastroprotective agents, and
 H. pylori eradication, screening in high-risk groups. 
  
  
-Al-Azhar University  —  College of Medicine  |  Gastroenterology Lecture Series  |  2025-2026 
-
+Al-Azhar University  —  College of Medicine  |  Gastroenterology Lecture Series  |  2025-2026
 

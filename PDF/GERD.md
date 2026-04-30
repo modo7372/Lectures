@@ -1,5 +1,4 @@
 ## Page 1
- 
 HJGGHJGHJGHJGHJGHJGHJGHJGHHHHHHHHHHHHHHHHHHHHHHHHHHK
 KGERD: Retrograde flow of the gastric Content into the esophagus GERD: 
 GERD: Retrograde flow of the gastric Content into the esophagus oropharynx and or respiratory tract that 
@@ -44,15 +43,9 @@ Decreased intra-abdominal portion: GERD
 Other causes: 
 Pregnancy                           Heavy meals. 
 Motility inhibition              DM 
-Obesity                                 Smoking and Stress 
- 
- 
- 
-
+Obesity                                 Smoking and Stress
 
 ## Page 2
- 
- 
 C/P: 
 1. Esophageal symptoms:                                                                                     
 • classic, typical symptoms:  
@@ -81,11 +74,9 @@ c) Chest: chronic cough, worsening asthma,Recurrent Pneumonias,Pulmonary fibrosi
 d) Throat: horseness , chronic sore throat, laryngitis lump in throat, Post nasal drip, throat cleaning. 
 e) abdominal bloating, Belching 
 f) ENT:  
-a) Laryngitis the most common ENT complication. 
-
+a) Laryngitis the most common ENT complication.
 
 ## Page 3
- 
 b) Sub glottic stenosis, Laryngeal cancer, Vocal cord granuloma. 
 g) Atypical non cardiac chest pain. 
  
@@ -107,12 +98,9 @@ Diagnosis:
 4. Radiologic Barium Swallow useful in dysphagia 
 -may detect stricture 
 -hiatus hernia 
-5. Us, CT has No role 
- 
-
+5. Us, CT has No role
 
 ## Page 4
- 
 1. Endoscopy:  test of choice for initial assessment: 
 → Erosive or non-erosive. 
 → Grading of the disease "Los Anglos" 
@@ -140,12 +128,9 @@ Management
 - Antacids: - locally acting. Neutralization, Rapidly and Shortly acting. 
 -H2 histamine receptor Blocker 
 -PPI 
--K-CAP 
- 
-
+-K-CAP
 
 ## Page 5
- 
 1.H2 histamine receptor antagonists: 
  →Additional drug once/ twice daily 
 ➢ Ranitidine 150 mg 
@@ -172,24 +157,13 @@ inhibition.
 6.Treatment of complication as stricture: 
 ➢ Endoscopic Dilatation 
 ➢ Self-expandable stents 
-➢ Surgical Esophageal replacement. 
- 
- 
-
+➢ Surgical Esophageal replacement.
 
 ## Page 6
- 
- 
- 
-Cancer risk in BE based on degree of dysplasia. 
- 
- 
-
+Cancer risk in BE based on degree of dysplasia.
 
 ## Page 7
- 
- 
- 
- 
+
+> [OCR Required]: Tesseract OCR engine not found. Text inside images was skipped.
 
 
