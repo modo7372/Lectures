@@ -156,7 +156,7 @@ Middle
 constrictor One
 muscle
 
-\ Inferior
+3 Inferior
 constrictor
 muscle
 
@@ -165,7 +165,7 @@ Trachea
 
 Esophagus
 
-}5. A, Zenker's diverticulum; B, barium x-ray study.
+|5. A, Zenker's diverticulum; B, barium x-ray study.
 
 ---
 
@@ -316,7 +316,7 @@ Lumen (EG)
 
 Scope view
 
-|. A, Anatomic findings in achalasia; B, endoscopic image; B, radiographic image.
+|. A, Anatomic findings in achalasia; B, endoscopic image; 8, radiographic image.
 
 ---
 
@@ -331,39 +331,36 @@ yr tracing; C, abnormal continuous pH monitor tracing.
 
 ## Slide 31
 
-> [Image OCR]: A 8 c
-\
+> [Image OCR]: Savary
 
-savary | \
-Jilator..
-: suplaced
-
+jilator...
+5 placed
 over
--sophageal Buidewire Larger
+‘sophageal Buidewire Larger
 tricture dilators.
 
 may be
 
 Dilator
-inserted, ‘
+inserted, ١
 expanding N
 Stricture
 
-2 27. Endoscopic dilation, Technique for Savary dilation of an esophageal stricture
+© 27. Endoscopic dilation, Technique for Savary dilation of an esophageal stricture
 
 \ B c
 Maloney
 dilator...
-MJ \
-ilat \ inserted, e
-=m expanding
+٠ \
+ilat \ inserted, .
+‏جد‎ expanding
 a stricture
 sophageal
-rt \
+rt |
 Larger
-\ dilators
+‏ال‎ dilators
 \ may be
-\ inserted
+١ inserted
 
 @ 28. Endoscopic dilation. Technique for Maloney dilation of an esophageal stricture
 
@@ -371,12 +368,12 @@ Larger
 
 ## Slide 32
 
-> [Image OCR]: XN
+> [Image OCR]: 4
 
 lation expending
 a stricture
 
-ophageal || \
+ophageal || 8١
 
 ricture
 
@@ -392,17 +389,17 @@ hy ce oi}
 Scope \
 \
 y
-. 9 pit 11s
+. 9 pit 175
 (balloon) catheter
 catheter inserted
-\ 1 into stricture... WW balloon
+' 1 into stricture... WW balloon
 ted =e Esophageal soon
 phagus stricture inflated... \
 
 \
 
-29. Endoscopic dilation. Technique for through-the-scope (TTS) dilation of an esor
-e
+29. Endoscopic dilation. Technique for through-the-scope (TTS) dilation of an ‏رمه‎
+‎e
 
 of large diameter balloon dilators has been used for decades to weaken th
 ageal sphincter has been successful in patients with isolated upper esoph
@@ -439,7 +436,7 @@ botulinum toxin
 into lower esophageal
 sphincter (stricture)
 
-u
+1
 bY
 
 schnique for intrasphincteric injection of botulinum toxin for achalasia.
@@ -451,7 +448,7 @@ igh to result in gastroesophageal reflux. In many cases, an antireflux proc
 A \_ Esophageal B
 dilation’
 Myotomy, pear
-1ucOs:
+000
 incision throug!
 \ myoton
 
@@ -498,7 +495,7 @@ H pylori eradication distal vs. proximal disease
 
 ## Slide 37
 
-> [Image OCR]: \, esophageal cancer; B, barium swallow x-ray; C, endoscopic view.
+> [Image OCR]: \, esophageal cancer; 8, barium swallow x-ray; C, endoscopic view.
 
 ---
 

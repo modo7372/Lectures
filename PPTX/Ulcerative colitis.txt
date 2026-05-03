@@ -48,31 +48,16 @@ UC
 
 Disease severity
 
-Bowel movement
-Blood in stool
-Fever
+> 6 perday
+severe
+>37.5*C
 
-Pulse rate
-Anaemia
+>90 beats/min
+</= 75%
+>30mm Ist hr
 
-ESR
-
-Endoscopy
-
-< 4 per day
-small
-
-none
-
-normal
-
-mild
-
-< 30mmiIst hr
-
-Erythema, decreased
-vascular pattern, fine
-granularity
+Spontaneous bleed
+and ulcerations
 
 4-6 per day
 moderate
@@ -88,16 +73,31 @@ absent vascular
 markings, contact
 bleed and ulcerations
 
-> 6 perday
-severe
->37.5*C
+< 4 per day
+small
 
->90 beats/min
-</= 75%
->30mm Ist hr
+none
 
-Spontaneous bleed
-and ulcerations
+normal
+
+mild
+
+> 30mmiIst hr
+
+Erythema, decreased
+vascular pattern, fine
+granularity
+
+Bowel movement
+Blood in stool
+Fever
+
+Pulse rate
+Anaemia
+
+ESR
+
+Endoscopy
 
 ---
 
@@ -109,46 +109,19 @@ Mayo Score of Endoscopic
 Severity of Disease
 (used in ASCEND, MATRIX, ACT Studies)
 
-1 = MILD
+1 = MILD 2 = MODERATE 3 = SEVERE
 
-2 = MODERATE
+Erythema Marked erythema Marked erythema
+granularity Diminished Absent vascular Absent vascular
++ Intact vascular or absent markings markings
+pattern vascular Granularity + Granularity
+ana ‏لبد ل‎ Bleeds with minimal- Friability
+Baia Gra ‏مال‎ trauma (friability) - Spontaneous
 
-granularity
-
-+ Intact vascular
-pattern
-
-Erythema
-Diminished
-
-or absent
-vascular
-markings
-
-Mild granularity
-
-Marked erythema
-
-Absent vascular
-markings
-Granularity
-
-Bleeds with minimal-
-
-trauma (friability)
-No ulcerations
-
-3 = SEVERE
-
-Marked erythema
-Absent vascular
-markings
-Granularity
-Friability
-Spontaneous
-bleeding in the
+No ulcerations bleeding in the
 lumen
-Ulcerations
+
+Ulicerations
 
 ---
 
@@ -184,10 +157,12 @@ UC
 > [Slide Snapshot OCR]:
 Ulcerative colitis - Thumbprinting
 
-¢ Abdominal X-rays are often entirely normal in
++ Abdominal X-rays are often entirely normal in
 inflammatory bowel disease. Occasionally there are
 signs of acute inflammation indicated by bowel wall
+
 ening.
+
 + This image demonstrates extensive bowel wall
 thickening throughout the entire colon. Thickening of
 
@@ -199,6 +174,18 @@ appearance (arrowheads).
 UC
 
 > [Slide Snapshot OCR]:
+Ulcerative colitis - Mucosal islands
+
++ This patient with known ulcerative colitis has 'mucosal
+islands’ - or pseudopolyps - in the caecum
+
+In ulcerative colitis, bowel wall inflammation extends
+proximally from the rectum. This X-ray therefore
+suggests that inflammation affects the whole colon.
+
++ The large bowel is not visible more distally, because it
+does not contain gas.
+
 is - Mucosal islands
 
 bu
@@ -206,25 +193,13 @@ bu
 Mucosal
 islands
 
-Ulcerative colitis - Mucosal islands
-
-@ This patient with known ulcerative colitis has 'mucosal
-islands’ - or pseudopolyps - in the caecum
-
-In ulcerative colitis, bowel wall inflammation extends
-proximally from the rectum. This X-ray therefore
-suggests that inflammation affects the whole colon.
-
-@ The large bowel is not visible more distally, because it
-does not contain gas.
-
 ---
 
 
 > [Image OCR]: Ulcerative colitis - Toxic megacolon
 Ulcerative colitis - Toxic megacolon
 
-¢ This patient's colon is very dilated and there are
++ This patient's colon is very dilated and there are
 extensive 'mucosal islands’ indicating bowel wall
 inflammation.
 
@@ -257,9 +232,9 @@ above the mm) shortfall
 
 Increased
 
-lamina propria <4
-chronic
-inflammation
+lamina propria ‏ل‎
+‎chronic
+‎inflammation
 
 Crypt abcess
 (umen of erypt
@@ -270,7 +245,6 @@ Crypt rupture
 ve (may cause
 Cryptitis granuloma)
 (neutrophils
-
 between the
 reactive epithelial
 cells)
@@ -288,35 +262,10 @@ uLCcERATIVe CoOums
 > [Slide Snapshot OCR]:
 Kornbluth et al. [2010]
 
-Induction: mild-moderate distal colitis
-
-Maintenance: distal colitis
-
-Induction: mild-moderate extensive colitis
-
-Maintenance: mild-moderate extensive colitis
-
-Severe colitis
-
-Oral aminosa
-Topical mesa
-
-opical mesa
-Oral aminosa
-Oral aminosa
-Thiopurines
-Oral aminosa
-Thiopruines
-
-responded t
-Outpatient: in
-
-A, infliximab
-
 icylates
 amine
+ds
 
-opical steroids
 refractory to the above: infliximab
 
 amine
@@ -325,8 +274,7 @@ icylates
 refractory to the above: thiopurines or infliximab
 
 icylates
-
-Oral corticosteroids
+eroids
 
 refractory to the above: infliximab
 
@@ -338,6 +286,35 @@ liximab
 npatient: intravenous corticosteroids
 if refractory to the above: intravenous cyclosporine
 
+Oral aminosa
+Topical mesa
+opical steroi
+
+opical mesa
+Oral aminosa
+
+Oral aminosa
+Oral corticost:
+Thiopurines
+
+Oral aminosa
+Thiopruines
+
+responded t
+Outpatient: in
+
+A, infliximab
+
+Induction: mild-moderate distal colitis
+
+Maintenance: distal colitis
+
+Induction: mild-moderate extensive colitis
+
+Maintenance: mild-moderate extensive colitis
+
+Severe colitis
+
 ---
 
 
@@ -347,23 +324,25 @@ Duration of
 Treatment induction Dose Induction Maintenance MaintenanceO
 Dosing
 
-* Thiopurine
-Medro! 60 mg ad + Anti-TNF # thiopurine or MTX
-Steroids (IV) |_| Hydrocortisone | 3-7 days X + Vedolizumab
-400 mg TIDIQID + Ustekinumab
-+ Tofactinib (if failed anti-TNF)
++ Thiopurine
+
+Medirol 60 mg qd ٠ Anti-TNF + thiopurine or MTX
+Steroids (V) | / | Hydrocortisone 3-7 days ‏لا‎ Vedolizumab
+400 mg TIDIQID ٠ Ustekinumab
++ Tofacitinb (if failed anti-TNF)
 ee Unknown if dose reduction
-Possible
-Infiximab | / | Sort0mgkgiv | | possible after accelerated
+; Possible
+Infiximab ‏يي * الا لي ف ا‎ possible after accelerated
 eee dosing for induction
 dosing
 + Thiopurine
-7 2-4 malkg IV canes
-Gyelosporing| 7, |“ ruous | 7-14 days x Vedolizumab
-) aoe + Ustekinumab
-o-400 + Ozanimod
-Tofacitinib 40mg TID
-(maybe VY | (upadatinid 2
+. 2-4 mglkg IV ٍ
+Cyclosporine : + Vedolizumab
+™ 4 continuous | 7-14 days x ‏مم‎
+‎Target 300-400
++ Ozanimod
+Tofacitinib 40mgTID
+(maybe 7 | (upaceacitinio ?
 upadacitinib) 30 mg bid?)
 
 ---
@@ -372,45 +351,47 @@ upadacitinib) 30 mg bid?)
 > [Slide Snapshot OCR]:
 Table 3. Investigational Drug Therapies for the Treatment of Ulcerative Colitis
 
-Bastkimad N Chimeric mAb
-Daclizwmad Nv Humanized IgG) mad
-enapax) = —EE
-Vedolkzumad Humanized IgG mAb
-QMUN-02)
+Suppresses lymphocyte activity
 
-Nicatorsen* Enema Antisense
-Deimitide Oral solution —_Decapeptide
-ROPSS)
+Corton
+Facet
 
-Rosightazone Oral tablet 120
-
-(Avandia)
-
-(Sit amd
-
-PPAR perecivomne proliferaser-activated receptor; TN]
-
-Seon: Ronee 136,
-
-Suppresses lymphocyte activity Cerimon
-
-‘by targeting glycoprotein COS2 Pharmaceuticals
-Suppresses lymphocyte activity by Facet
-
-Inhibits leukocyte adhesion by targeting §—_—Milllennium
-
+Suppresses ymohaxyte actty by ‏ت-‎
+‎Inhibits leukocyte adhesion by targeting
 aipha-4 beta-7 integrin Pharmaceuticals, inc.
 Inhibits leukocyte adhesion ISS
 
 Blocks TNF-alpha, Genzyme
-W-2, and 1-12
+2 and 1-12
 
-lnhitxts inflammatory cytokine production GiaxoSminKine
-by stimulating PPAR ligands
+lnhitxts inflammatory cytokine production ‏6م10‎
+‎by stimulating PPAR ligands
 
-| a adi emcak Sars yp Sea - pe re
+| ‏ا‎ adi ‏سوم اص‎ yp Sea - pe re ‏جم لم‎
 Gl a piel nammoglobulin G1; IL: ineerleukin; rmenoclonal antibody,
-Ns ‘ais fart TZI 'D: thiasolidsnedione,
+‏ب بع‎ fart TZI 'D: thiasolidsnedione,
+
+دا
+
+‎N Chimeric mAb‏ نمتطتدية
+‎Daclizwmad Nv Humanized IgG) mad‏
+ل = ‎enapax)‏
+‎mAb‏ 61وا ‎Vedolkzumad Humanized‏
+00009
+
+‎Nicatorsen* Enema Antisense
+Deimitide Oral solution —_Decapeptide
+ROPSS)
+
+‎Rosightazone Oral tablet 120
+
+‎(Avandia)
+
+‎(Sit amd
+
+‎PPAR ‏ممسنومم‎ proliferaser-activated receptor; TN]
+
+‎Seon: Ronee 136,
 
 ---
 

@@ -484,7 +484,7 @@ investigated in a controlled clinical trial.
 ## Page 39
 
 > [OCR Content]:
-Thank |
+Thank .
 You
 
 

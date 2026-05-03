@@ -55,6 +55,13 @@ Vascular diseases of the liver
 ## Page 7
 
 > [OCR Content]:
+Spleenic
+vein
+
+Inferior
+mesenteric
+vein
+
 Liver
 
 Portal vein
@@ -64,13 +71,6 @@ mesenteric
 vein
 
 Intestines
-
-Spleenic
-vein
-
-Inferior
-mesenteric
-vein
 
 
 ## Page 8
@@ -240,16 +240,16 @@ Diagnosis requires unequivocal radiological confirmation of hepatic venous flow 
 > [OCR Content]:
 inusoids
 
-Hepatic venous congestion. ———_______»
+Hepatic venous congestion. ‏يبن‎
 
-Thrombus (3)
+Thrombus ©
 
 Increased sinusoidal
 pressure and cellular hypoxia
 
 |
 
-eo Liver cell damage
+© Liver cell damage
 Portal hypertension «——— (can develop into nutmeg liver)
 
 

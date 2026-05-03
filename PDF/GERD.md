@@ -165,7 +165,12 @@ Cancer risk in BE based on degree of dysplasia.
 ## Page 7
 
 > [OCR Content]:
-‘A. Columnar type mucosa in the distal
+أن
+وبا
+
+اميا
+
+‘A. Columnar type mucosa ‏ما‎ the distal
 
 1. Specialized intestinal metaplasia on
 
@@ -175,21 +180,16 @@ Repeat endoscopy in 6 months
 and ask a o
 
 Par st eee nerdy Pry te ef nr ty eg at
-ommended wien reset nt pen lea gmat eneaon
+ommended wien reset nt pen ‏يحاي سا ةسار م سسا‎
 
 nine Niu shenat brat prtetbedo pt wth oo eae ty,
 ‘Shia terre homeostasis
 Somes
 
-‘tite naar ae
-Soc emortsing onda sbetheptheremaning oa b
-ceomes|
+naar ae
+Soc ‏اخ‎ onda sbetheptheremaning ‏اع متاج م‎
+‏لساب‎
 
-nda ainbee
-
-4%
-vi)
-
-Lee:
+ميا سس
 
 

@@ -99,7 +99,7 @@ SMA syndrome: Loss of mesenteric fat pad (e.g., after rapid weight loss) → du
 
 ## Slide 12
 
-> [Image OCR]: “i Aorta
+> [Image OCR]: 2 Aorta
 
 Superior mesenteric artery
 
@@ -149,18 +149,18 @@ Ogilvie syndrome: Acute colonic dilation without mechanical obstruction; associ
 
 ## Slide 17
 
-> [Image OCR]: 083y|F, ites ce \ LCH PALM SPRINGS
-- SCENARIA View
+> [Image OCR]: 083] ‏ا‎ 8 \ LCH PALM SPRINGS
+: SCENARIA View
 
 ‘Ace:30072290004000
 
-srs:
+551
 
 Img:t
 
 25cm
-Zoom : 132.81%
 
+Zoom : 132.81%
 WL: 170
 ‘WW : 350
 
@@ -212,33 +212,19 @@ Adult (rare): Lifelong severe constipation, enterocolitis risk.
 
 ## Slide 24
 
-> [Image OCR]: Summary Table
+> [Image OCR]: First-Line Treatment
 
-Disorder Type
-Achalasia
+POEM or Heller myotomy
 
-Gastroparesis
+Metoclopramide + dietary
 
-CIPO
+Octreotide, TPN
 
-Slow transit constipation
-Dyssynergic defecation
+Prucalopride, laxatives
 
-Ogilvie syndrome
+Biofeedback
 
-Key Pathogenesis
-
-Loss of inhibitory neurons
-
-Impaired gastric emptying
-
-Neuromuscular failure
-
-Reduced colonic contractions
-
-Pelvic floor incoordination
-
-Acute colonic dilation
+Neostigmine
 
 Main Symptoms
 
@@ -254,19 +240,33 @@ Incomplete evacuation
 
 Distension, perforation risk
 
-First-Line Treatment
+Key Pathogenesis
 
-POEM or Heller myotomy
+Loss of inhibitory neurons
 
-Metoclopramide + dietary
+Impaired gastric emptying
 
-Octreotide, TPN
+Neuromuscular failure
 
-Prucalopride, laxatives
+Reduced colonic contractions
 
-Biofeedback
+Pelvic floor incoordination
 
-Neostigmine
+Acute colonic dilation
+
+Summary Table
+
+Disorder Type
+Achalasia
+
+Gastroparesis
+
+CIPO
+
+Slow transit constipation
+Dyssynergic defecation
+
+Ogilvie syndrome
 
 ---
 

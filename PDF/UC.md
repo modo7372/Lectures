@@ -57,33 +57,6 @@ Biologic therapies
 ## Page 3
 
 > [OCR Content]:
-Disease severity
-
-MILD
-
-Bowel movement <4per day
-
-Blood in stool small
-
-Fever none
-
-Pulse rate normal
-
-Anaemia vil
-
-ESR <30mmist hr
-
-Endoscopy Erythema, decreased
-vascular pattern, fine
-granularity
-
-MODERATE
-4-6 per day
-moderate
-<3754C
-<90 beats/min
-> 75%
-
 SEVERE
 > 6perday
 337.58C
@@ -97,6 +70,33 @@ and ulcerations
 
 <
 
+MODERATE
+4-6 per day
+moderate
+<3754C
+>90 beats/min
+> 75%
+
+Disease severity
+
+MILD
+
+Bowel movement -<4per day
+
+Blood in sto small
+
+Fever none
+
+Pulse rate normal
+
+Anaemia ‏ب‎
+
+ESR <30mmtst hr
+
+Endoscopy Erythema, decreased
+sascuar pattern fine
+granularity
+
 
 ## Page 4
 
@@ -105,20 +105,6 @@ Mayo Score of Endoscopic
 
 Severity of Disease
 (used in ASCEND, MATRIX, ACT Studies)
-
-0 = NORMAL
-
-+ No friability or + Erythema
-
-granularity + Diminished
-+ Intact vascular or absent
-pattern vascular
-markings
-
-+ Mild granularity
-
-Standard “mucosal healing” is
-subscore of 0 or 1
 
 or
 
@@ -134,15 +120,40 @@ lumen
 
 + Ulcerations
 
-Score | Disease activity | Endoscopic features
-0 Normal or inactive | None
-7 Erythema, decreased vascular
-1 Mild . AK OeHMF
+Endoscopic features
+None
+
+Erythema, decreased vascular
 pattern, mild friability
+
 Marked erythema, absent vascu-
-2 Moderate "Basha 5
 lar pattern, friability, erosions
-3 Severe Spontaneous bleeding, ulceration
+
+Spontaneous bleeding, ulceration
+
+0 = NORMAL
+
++ No friability or ٠٠ Erythema
+granularity + Diminished
+
++ Intact vascular or absent
+pattern vascular
+
+markings
+٠ Mild granularity
+
+Standard “mucosal healing” is
+subscore of 0 or 1
+
+Disease activity
+
+Normal or inactive
+
+Mild
+
+Moderate
+
+Severe
 
 
 ## Page 5
@@ -168,19 +179,21 @@ Islands
 
 Ulcerative colitis - Toxic megacolon
 
-§ Ulcerative colitis - Toxic megacolon
+0: Ulcerative colitis - Toxic megacolon
+
 This patent's cons ery te an thre are
+
 ay extensive cosa! island indicating bowel wall
-. Hewat
+. ‏سنا‎
 
 raat
-Megacolon
+Megacolon --
 *
 
 Mucosal
 islands
 
-LS 7
+لجال
 
 
 ## Page 7
@@ -188,34 +201,13 @@ LS 7
 > [OCR Content]:
 Chronic active colitis pattern / Ulcerative colitis
 
-Bind eypt —
-
-lamina propia
-chronic
-anmation
-
-yp
-totes
-
-management of ulcerative colts.
-
 Crypt abcoss
 wnat
 
-yp rptire
-ponaome
+مداو
+يسح
 
 Kornbluth et al. (2010)
-
-Induction: mild-moderate distal colitis
-
-Maintenance:
-
-Induction: mild-moderate extensive colitis,
-
-Maintenance: mild-moderate extensive colitis
-
-Severe colitis
 
 Oral aminosalicylates
 Topical mesalamine
@@ -245,6 +237,27 @@ Inpatient: intravenous corticosteroids
 If refractory to the above: intravenous cyclosporine
 A infliximab
 
+Bind eypt —
+
+lamina propia ‏أ‎
+‎chronic
+‏لما‎
+
+yp
+totes
+
+management of ulcerative colts.
+
+Induction: mild-moderate distal colitis
+
+Maintenance:
+
+Induction: mild-moderate extensive colitis,
+
+Maintenance: mild-moderate extensive colitis
+
+Severe colitis
+
 
 ## Page 8
 
@@ -254,49 +267,49 @@ A infliximab
 Duration of
 Treatment Induction, Dose Induction Maintenance Maintenance Options:
 Dosing
-‘+ Thiopurine
-edrol 60 mg qd + AntiTNE # thiopurine or MTX
-Steroids (v) | Hydrocortisone | 3-7 days X | Vedotizumab
-++ Ustekinumab
-++ Tofacitinib (if failed anti-TNF)
++ Thiopurine
+edrol 60 mg qd ٠ AntiTNE # thiopurine or MTX
+Steroids (v) | Hydrocortisone | 3-7 days ‏)ل‎ Vedotizumab
+٠ Ustekinumab
+٠ Tofacitinib (if failed anti-TNF)
 ‘Unknown if dose reduction
 Infixima | ¥ possible after accelerated
 ‘dosing for induction
-+ Thiopurine
+٠ Thiopurine
 ‘Cyclosporine i 4 + Vedolizumab
-™ + Ustekinumab
+™ ٠ Ustekinumab
 + Ozanimod
 Tofacitinib
-(mayo | | (padactins a
-padeciint) 30mg bia?)
+(mayo | / 0 (padactins 7
+‏لس‎ 300907
 
 Table 3. investigational Drug Therapies for the Treatment of Ulcerative Colitis
 
-rug (Brand) Route Cass Mose of Action Manutacturer
-Basiuimad WY Chimenc mab ‘Suppresses ymohocyte acy Cernon
-(Senecd by targeting pycaoroten C052 Prarmacedtca’s
+rug (Brand) ‏لا‎ Cass Mose of Action ‏سسا‎
+‏بصع‎ WY ‏مم‎ mab ‘Suppresses ymohocyte acy Cernon
+‏ا‎ by targeting ‏ا 007 مومع‎
 Dactzunad WW Humanized IgGt mAb Suppresses hempbocte actwyby Facet
-enapan targeting pycopreten C052 Bolen
-Vedotmmad WN umanized 1gGt mAb
+‏سينا‎ targeting pycopreten 0052 Bolen
+‏فصا‎ WN ‏لال لسع‎
 
-au-02)
+02م
 
-‘catrsent Enema. petsense
+اميد لسلسم
 
-(Ss 2002) igoteonraceatioe
+(Ss 2002) ‏تسيا‎
 
-Deere Oral sohiion —_Decapestie
+‎Oral sohiion —_Decapestie‏ ييا
 
-07s)
+‏اليا
 
-Rosgitarone — Oral let 2D
+‏لا ‎Oral let‏ المج
 
-“een red atc pra fee FDA forsee of dn nd mrt mht in UC
-tmebind 1: IFN afr: [pT immo GT areas mAh menace andy
+‎“een ‏سرج لجوج‎ pra fee FDA forsee of dn ‏لج‎ mrt ‏ار‎ in UC
+‏اذاي‎ 1117 afr: [pT immo GT areas mAh menace andy
 
-PEAR prmome rarer asia mpir TNF tame neces far T2D tase
+‎PEAR prmome rarer asia ‏سوا‎ TNF ‏حسم‎ neces far 1217 ‏الله لضا‎
 
-Sow frre 21-86
+‎Sow ‏مم‎ 21-86
 
 
 ## Page 9
@@ -331,57 +344,55 @@ A infliximab
 
 ‘Table I. Medical options for the high-risk UC inpatient!
 
-Duration of well
-Treatment Induction) Dose Induction Main Maintenance Options
+Duration of ‏ابل‎
+‎Treatment ‏الا أ ا‎ Induction Main Maintenance Options
 Dosing
 + Thiopurine
 edrol 60 mg qd + AntTNF thiopurine or MTX
 Steroids (V)| | Hydrocortisone | 3-7 days + Vedolizumab
-4100 mg TID/GID + Ustekinumab
+4100 mg TID/GID ٠ Ustekinumab
 + Tofacitinb if failed anti-TNF)
 
 + Thiopurine
 + Vedolizumab
-+ Ustokinumab
+٠ Ustokinumab
 + Ozanimod
 
 24 mgikg IV
-continuous
-Target 300-400
-
-Cyclosporine
-mY
+‏محص انب‎
+™ Target 300-400
 
 
 ## Page 10
 
 > [OCR Content]:
-7s Pear rey meee ae Nee aes
+Table 3. nora Drug Therapies for the Treatment of Ulcerative Colitis
 
 ee Manutacturer
-erenn
+‏م‎
 
-Srna Drea cast Prarmacestcas
+تحص ‎Drea cast‏ اس
 
-Suppresses bymohocyte activity by. Facet
+Suppresses bymohocyte ‏.انا لاضع‎ Facet
 
-‘argon oeeereten CD52 Beteen
+‘argon ‏لاا‎ 002 Beteen
 
-ibs leukocyte adhewson by targeting — Mailennwurn
+‎Wer‏ مدنا سا ابي
 
-‘Sonat aT neg Prarmaceteat.
+‏ع لص جرحم
 
-lnhitats leukocyte achesson ss
+‎leukocyte achesson ss‏ كاف
 
-oy targeting ICAO a
+‎by targeting ICANT ‏سسا‎
 
-‘Blocks Taba, FH-gamima, enzyne
+‎enzyme‏ سيت مسي
 
-RQ and
+‎ress
 
-{embis iftarnmatary ofckine producto GaxoSmiBIGNe
-‘by stenting PPAR gan
+‎inflammatory cytokine production GluxoSmitniaine‏ خط
 
-Fal mapl p palin a OO
+‎by stimtating PPAR ligands
+
+‎Fal ‏اجاج‎ p palin a OO
 
 

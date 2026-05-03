@@ -10,17 +10,13 @@ Medicine
 > [OCR Content]:
 Mouth
 (nal cavity)
+
 Tongue)
 
-uve
-Stomach
-(Gatbadder)
-Solen)
-(Pancreas)
-Large intestine
-‘Colon, Large bowel) pron fend
+‘Stomach
 
-(Small bowel)
+‎smat‏ مسلب
+‎(Small bowel)‏
 
 
 ## Page 3
@@ -52,10 +48,10 @@ Ulcerative Colitis
 ## Page 6
 
 > [OCR Content]:
-UNIVERSITY 2/ IOWA.
+101/5710
 ‘CARVER’
 
-tures of IBD eo Mioicive'*
+tures of IBD | Mioicive'*
 
 | __festwre | uc
 
@@ -81,27 +77,30 @@ symptoms/EIMs
 ## Page 8
 
 > [OCR Content]:
-HW
-le di i
-Crohn's disease |
-= tye oe
-SE inflammation
-mount
-Ulcer yp
-skin
-. Ulcers
+Crohn's disease
+
+= 5
+SE ‏إل‎ inflammation
+
 Inflammation
-Intestinal Vomiting
-jiarrhea
-Aisdominal pain Fever '
-Meer in Deveased |
-digestive tract |
-i
-Hy
-Rectal ab
+
+inteZinel Vomiting
+Diarrhea
+(Abdominal pain
+Cramping
+Ltleers in
+digestive tract
+
+Fever
+Weight loss
+Decreased
+
+‘Download rom
+
+Rectal
 bleeding
 
-BG
+3
 
 
 ## Page 9
@@ -112,16 +111,16 @@ anifestations (@5% incidenc9)
 
 hralgias to acute arthritis
 manifestations (15% incidence)
-. reflects activity of bowel disease
+٠ reflects activity of bowel disease
 * More common with colonic disease
 
-7 Syttiemanodasiy: and eruption of painful red nodules
+7 ‏سي‎ and eruption of painful red nodules
 of legs
 
 = ulcerating lesion often
 occurring on the trun!
 
-* Aphthous ulcers: resemble canker sores of mouth
+٠ Aphthous ulcers: resemble canker sores of mouth
 * Treat symptomatically only
 
 
@@ -146,7 +145,9 @@ Steroids ,
 ## Page 12
 
 > [OCR Content]:
-itacthatet <— GTI
+of activated ‏ل‎ 1)
+
+‘Flymphoeytes
 
 differentiation
 ‘and function

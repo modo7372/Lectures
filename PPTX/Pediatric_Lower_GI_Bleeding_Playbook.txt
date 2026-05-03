@@ -3,8 +3,8 @@
 have no knowledge except what you have
 taught us.
 
-Baill dygu ga AT ay dail
-surah Al baqarah verse 32
+الآية رقم ‎AT‏ من سورة البقرة
+‎surah Al baqarah verse 32‏
 
 ---
 
@@ -21,31 +21,36 @@ Al-Azhar University
 
 Clinical Guide to Diagnosis and Management
 
-A) NotebookLM
+‎NotebookLM‏ م
 
 ---
 
 
 > [Image OCR]: Anatomic Definition & Boundaries
-Lower GI bleeding is defined as any iigamiengen Teh
 
+Ligament of Treitz
+(Duodenojejunal flexure)
+
+Duodenum
+(Upper Gl)
+LOWER GITRACTINCLUDES: ‏عع‎ — ------ 0
+
+Lower GI bleeding is defined as any
 bleeding originating distal to the
 ligament of Treitz.
 
 Stomach
 (Upper Gl)
 
-Duodenum NPY “arr -cccct
-(Upper Gl)
-LOWER GI TRACTINCLUDES: ———_—_—------ a
 e Distal small intestine (jejunum & ileum) Jejunum
 e Colon (cecum to sigmoid colon) (Lower Gl)
 e Rectum Colon ;
+
 eum
 e Anal canal (Lower Gl) (Lower Gi)
 
 KEY POINT: Bleeding from any site distal
-Ci to the ligament of Treitz is classified as (Lower Gl)
+2 to the ligament of Treitz is classified as (Lower Gl)
 lower GI bleeding.
 
 5 Anus
@@ -57,150 +62,141 @@ lower GI bleeding.
 > [Image OCR]: Lower Gl bleeding occurs due to disorders affecting the distal Gl tract.
 The major mechanisms are:
 
-MUCOSAL }
-
-(
-
-STRUCTURAL
-
-| (3) VASCULAR
-ABNORMALITIES
-
-J
-
 COAGULATION
 DISORDERS
 
-oO INFLAMMATION
-
-mucosa
-
-¢ Infections (bacterial, viral,
-parasitic)
-
-Inflammatory bowel disease
-
-¢ Allergic colitis
-
-Radiation / Drug induced
-colitis
-
-LESIONS
-
-Joa
-
-¢ Juvenile polyps
-
-¢ Meckel diverticulum
-
-Intussusception
-
-¢ Colonic polyps / tumors
-
-¢ Diverticular disease
-(rare in children)
-
-¢ Vascular malformations
-
-N )
-
-6
-
-e Angiodysplasia
-
-© Hemorrhoids
-
-¢ Solitary rectal ulcer
-
-Arteriovenous
-malformations
+J
 
 Inherited bleeding disorders
 (e.g., Hemophilia, vWD)
 
-© Acquired coagulopathies
+٠ Acquired coagulopathies
 (liver disease, Vit K
 deficiency)
 
 © Thrombocytopenia
 
-[ Inflammation > Ulceration
-> Bleeding
-
-Abnormal structure
-> Vessel injury > Bleeding
-
-Fragile / abnormal vessels
-> Bleeding
-
 Impaired hemostasis
 > Continued bleeding
 
-Sale
+‎NotebookLM‏ م
 
-@ rs
+‎J
 
-distal Gl tract can lead to lower Gl bleeding.
+‎| (3) VASCULAR
+ABNORMALITIES
 
-KEY MESSAGE: Any problem with the mucosa, structure, vessels, or coagulation in the
+‎N 0
 
-A) NotebookLM
+‎6
+
+‎e Angiodysplasia
+
+‎© Hemorrhoids
+
+‎¢ Solitary rectal ulcer
+
+‎Arteriovenous
+‎malformations
+
+‎Fragile / abnormal vessels
+> Bleeding
+
+‎STRUCTURAL
+‎LESIONS
+
+‎Joa
+
+‎* Juvenile polyps
+
+‎¢ Meckel diverticulum
+
+‎Intussusception
+
+‎¢ Colonic polyps / tumors
+
+‎¢ Diverticular disease
+(rare in children)
+
+‎¢ Vascular malformations
+
+‎Abnormal structure
+> Vessel injury > Bleeding
+
+‎distal Gl tract can lead to lower Gl bleeding.
+
+‎(
+
+‎MUCOSAL }
+
+‎KEY MESSAGE: Any problem with the mucosa, structure, vessels, or coagulation in the
+
+‎0 INFLAMMATION
+
+‎mucosa
+
+‎¢ Infections (bacterial, viral,
+parasitic)
+
+‎Inflammatory bowel disease
+
+‎٠ Allergic colitis
+
+‎Radiation / Drug induced
+colitis
+
+‎Inflammation > Ulceration
+> Bleeding
+
+‎Sale
+
+‎@ rs
+
+‎|
 
 ---
 
 
-> [Image OCR]: Mechanisms: Inflammation & Structural Integrity
+> [Image OCR]: ‎NotebookLM‏ م
 
-©) Mucosa INFLAMMATION
+‎Mechanisms: Inflammation & Structural Integrity
 
-© stTRuCTURAL LESIONS
+‎© stTRuCTURAL LESIONS
 
-Inflamed
-mucosa
+‎¢ Juvenile polyps
 
-¢ Infections (bacterial, viral, parasitic)
-¢ Inflammatory bowel disease
+‎¢ Meckel diverticulum
 
-¢ Allergic colitis
+‎¢ Intussusception
 
-¢ Radiation / Drug induced colitis
-
-Inflammation > Ulceration > Bleeding
-
-¢ Juvenile polyps
-
-¢ Meckel diverticulum
-
-¢ Intussusception
-
-* Colonic polyps / tumors
+‎* Colonic polyps / tumors
  Diverticular disease (rare in children)
 ¢ Vascular malformations
 
-Abnormal structure > Vessel injury > Bleeding
+‎Abnormal structure > Vessel injury > Bleeding
 
-A) NotebookLM
+‎© Mucosa INFLAMMATION
+
+‎Inflamed
+‎mucosa
+
+‎¢ Infections (bacterial, viral, parasitic)
+¢ Inflammatory bowel disease
+
+‎¢ Allergic colitis
+
+‎¢ Radiation / Drug induced colitis
+
+‎Inflammation > Ulceration > Bleeding
 
 ---
 
 
 > [Image OCR]: Mechanisms: Vascular & Coagulation
 
-Vascular Abnormalities
-
-é
-
-6°
-« Angiodysplasia
-¢ Hemorrhoids
-¢ Solitary rectal ulcer
-* Arteriovenous malformations
-
-Fragile / abnormal vessels -> Bleeding
-
 Coagulation Disorders
 
-« Inherited bleeding disorders (e.g., Hemophilia,
+* Inherited bleeding disorders (e.g., Hemophilia,
 vWD) [Genetic defect]
 
 ¢ Acquired coagulopathies (liver disease, Vit K
@@ -208,9 +204,21 @@ deficiency) [Impaired production of clotting factors]
 
 ¢ Thrombocytopenia [Low platelet count]
 
-+] Impaired hemostasis -> Continued bleeding
+0 Impaired hemostasis -> Continued bleeding
 
-A) NotebookLM
+‎NotebookLM‏ م
+
+‎Vascular Abnormalities
+
+‎é
+
+‎6°
+‎« Angiodysplasia
+¢ Hemorrhoids
+¢ Solitary rectal ulcer
+٠ Arteriovenous malformations
+
+‎Fragile / abnormal vessels -> Bleeding
 
 ---
 
@@ -220,72 +228,90 @@ A) NotebookLM
 KEY POINT: Look for associated symptoms, stool color, and age to
 
 Common etiologies according to age groups
-‘Swallowed maternal blood
 
-Vitamin K deficiency bleeding
+Swallowed maternal blood Vitamin K deficiency bleeding
 
-NEONATES Blood streaks in Intestinal, skin
-(0-28 days) @) stool @ Bleeding from
+NEONATES 2 Blood streaks in © Intestinal, skin
+(0-28 days) stool Bleeding from
 & Baby otherwise well multiple sites
-| Cow milk protein allergy ) Anal fissure Infect Infectious coliti colitis ») Intussusception
-(allergic colitis) F -
-l TANTS. a Blood and cus in | Briat bleeding Bloody diarrhea Colicky pain
+
+| Cow milk protein allergy ) Anal fissure Infect Infectious coliti colitis 0 Intussusception
+(allergic colitis) F 5
+0 ‏ل التي‎ Blood and cus in | Briat bleeding Bloody diarrhea Colicky pain
 Hard stools Fever, abdominal pain Currant jelly stool
-> de> Often with diarthea with dares 5)
+‏أ‎ Often with diarthea with ‏زر مط‎
 & diverticulum Infectious colitis
 CHILDREN Painless rectal i
-(1-10 years) bleeding ane diarrhea
-Intermittent bleeding ee
-(Inflammatory bowel disease (IBD bowel disease a Colonic polyps € Hemorrhoids
+0 -10 years) bleeding Bloody diarrhea
+Intermittent bleeding ‏د‎
+‎(Inflammatory bowel disease (IBD bowel disease a Colonic polyps € Hemorrhoids
 Painless rectal =
-tery ae } Bloody diarrhea oes : Itching,
-(>10 years) Abdominal pain, Intermittent discomfort J
-Poo HENS weight loss bleeding
-A) NotebookLM
+Sina } Bloody diarrhea ‏ا‎ 0 ْ Itching,
+y Abdominal pain, Intermittent discomfort 1
+|] ‏ا‎ HENS weight loss bleeding ‏م‎ 0
 
 ---
 
 
-> [Image OCR]: CAUSES OF LOWER GI BLEEDING
+> [Image OCR]: CAUSES OF LOWER Gi BLEEDING
+
+4. Anal fissure
+
+* Bright red blood
+in stool
+
++ Associated with
+pain during
+defecation
+
 IN NEONATES
 NEONATES (0 - 28 DAYS)
 
-1. Swallowed 2. Necrotizing 3. Vitamin K deficiency 4. Anal fissure
-maternal blood enterocolitis (NEC) bleeding
+1. Swallowed
+maternal blood
 
-Baby looks well ¢ Usually in preterm + Bleeding from multiple ¢ Bright red blood
-+ Brown/black or infants sites (intestinal, skin, in stool
-dark red streaks Abdominal distension, umbilical stump, * Associated with
-in stool vomiting, feeding intracranial, etc.) pain during
-intolerance * Due to low vitamin K defecation
+3. Vitamin K deficiency
+bleeding
 
-* Occurs in first
+2. Necrotizing
+enterocolitis (NEC)
 
-+ Bloody stool,
-few days of life ee levels
++ Bleeding from multiple
+sites (intestinal, skin,
+umbilical stump,
+intracranial, etc.)
 
+Usually in preterm
+infants
+
+٠ Abdominal distension,
+vomiting, feeding
+intolerance
+
+* Bloody stool,
 systemic illness
 
+Baby looks well
+
+* Brown/black or
+dark red streaks
+in stool
+
+* Due to low vitamin K
+
+* Occurs in first Ft
+levels
+
+few days of life
+
 Key point: Always assess the general condition of the neonate and look for
+
 associated signs to identify the cause.
 
 ---
 
 
 > [Image OCR]: Clinical Etiologies in Infants (1-12 Months)
-
-“tg
-
-Cow Milk Protein
-Allergy (Allergic Colitis)
-
-Characterized by blood and
-mucus in the stool, often
-accompanied by diarrhea.
-
-+X
-
-Anal Fissure
 
 Anal Fissure
 
@@ -294,46 +320,37 @@ bleeding typically occurring
 with the passage of hard
 stools.
 
-Infectious Colitis
-
-Identified by bloody
-diarrhea paired with fever
-and abdominal pain.
-
 Intussusception
 
 A serious condition involving
 colicky pain, vomiting, and
 distinct "currant jelly" stools.
 
-A) NotebookLM
+‎NotebookLM‏ م
+
+‎1
+
+‎Anal Fissure
+
+‎Cow Milk Protein
+Allergy (Allergic Colitis)
+
+‎Characterized by blood and
+mucus in the stool, often
+accompanied by diarrhea.
+
+‎Infectious Colitis
+
+‎Identified by bloody
+diarrhea paired with fever
+and abdominal pain.
+
+‎“tg
 
 ---
 
 
 > [Image OCR]: Diagnostic Matrix: Children Ages 1-10
-
-Painle:
-
-Juvenile Polyps
-
-Painless, recurrent rectal bleeding
-with no systemic symptoms
-(isolated bleeding).
-
-Meckel Diverticulum
-Sudden, painless, and massive
-volume of bleeding.
-
-CONDITION
-
-PRIMARY BLEEDING
-NATURE
-
-DISTINGUISHING ©) None
-SYMPTOM (isolated bleeding)
-
-@ Painless / Recurrent
 
 Bleeding with Systemic Symptoms
 
@@ -350,11 +367,33 @@ associated with fever.
 
 INFLAMMATORY
 M BOWEL DISEASE INFECTIOUS COLITIS
-C) Painless / Massive () Bloody Diarrhea as () Bloody Diarrhea FJ
-Weight loss & E
-© Sudden onset @2 AC eS pain & Fever
+0 Painless / Massive 0 Bloody Diarrhea ‏ان‎ ٠ Bloody Diarrhea 0
+Weight loss & :
+© Sudden onset © ‏كيين بو‎ pain 0 Fever
 
-A NotebookLM
+‎NotebookLM‏ م
+
+‎Painle:
+
+‎Juvenile Polyps
+
+‎Painless, recurrent rectal bleeding
+with no systemic symptoms
+(isolated bleeding).
+
+‎Meckel Diverticulum
+Sudden, painless, and massive
+volume of bleeding.
+
+‎CONDITION
+
+‎PRIMARY BLEEDING
+NATURE
+
+‎DISTINGUISHING © None
+SYMPTOM (isolated bleeding)
+
+‎© Painless / Recurrent
 
 ---
 
@@ -368,52 +407,45 @@ Disease (IBD)
 
 Colonic Polyps
 
-Characterized by bloody diarrhea,
-abdominal pain, and significant
+|
+|
+|
+|
+|
+Associated with bright red
 
-|
-|
-|
-|
-|
-Typically presents as isolated, Associated with bright red
-
-painless rectal bleeding, bleeding, localized itching, and
-
-weight loss. physical discomfort.
+Characterized by bloody diarrhea, 1 8
+abdominal pain, and significant Pe ate ‏اا‎ bleeding, localized itching, and
+weight loss. 0 9. physical discomfort.
 The Diagnostic Key
-1. Age { a) 2. Stool Color ( _ 3. Secondary Symptoms
+1. Age 1 ‏ل‎ 2. Stool Color 8 3. Secondary Symptoms
 (narrow potential cause) \¢ / (observe characteristics) (evaluate other signs)
 
-A) NotebookLM
+‎NotebookLM‏ م
 
 ---
 
 
-> [Image OCR]: ps
-Rog
-
-Clinical Presentation & Examination
+> [Image OCR]: Clinical Presentation © Examination
 
 Key Clinical Features Additional Features
 
-Hematochezia
+Fever
+Infectious colitis
 
-Fresh red blood per rectum,
-streaks or frank blood
+Weight loss / Poor growth
+Chronic inflammation, IBD
 
-Blood in stool
+Perianal findings
+Fissures, skin tags, fistula
 
-Mixed with stool or passed
-separately
+Extraintestinal
+manifestations
+Arthritis, skin rash, oral ulcers
 
-Abdominal pain
-
-Crampy, colicky, localized,
-or diffuse
-
-g
-&
+7
+Wy
+7
 
 Diarrhea
 
@@ -431,26 +463,30 @@ blood loss
 Tachycardia, hypotension,
 dizziness, lethargy, shock
 
-f
-Wy
-‘Wi
+2
+&
 
-Fever
-Infectious colitis
+Hematochezia
 
-Weight loss / Poor growth
-Chronic inflammation, IBD
+Fresh red blood per rectum,
+streaks or frank blood
 
-Perianal findings
-Fissures, skin tags, fistula
+Blood in stool
 
-Extraintestinal
-manifestations
-Arthritis, skin rash, oral ulcers
+Mixed with stool or passed
+separately
+
+Abdominal pain
+
+Crampy, colicky, localized,
+or diffuse
+
+5
+Rog
 
 A Any child with recurrent, heavy, or prolonged rectal bleeding should be evaluated promptly.
 
-A) NotebookLM
+‎NotebookLM‏ م
 
 ---
 
@@ -459,133 +495,125 @@ A) NotebookLM
 
 1. Laboratory Tests
 
-* CBC (hemoglobin/hematocrit/platelets) ¢ Routine Microscopy (RBCs, WBCs, pus)
-¢ Inflammatory Markers (ESR, CRP) Culture & Sensitivity (bacterial
+٠ CBC (hemoglobin/hematocrit/platelets) ¢ Routine Microscopy (RBCs, WBCs, pus)
+٠ Inflammatory Markers (ESR, CRP) Culture & Sensitivity (bacterial
 
-* Coagulation Profile (PT/INR, aPTT) enterocolitis)
- Electrolytes/Urea/Creatinine
+٠ Coagulation Profile (PT/INR, aPTT) enterocolitis)
+
+٠ Electrolytes/Urea/Creatinine * Ova, Cysts & Parasites
+
 ¢ Blood Group & Crossmatch
 
 2. Stool Studies
 
-¢ Ova, Cysts & Parasites
 ¢ Occult Blood (for chronic/recurrent cases)
 
-3. Imaging Studies
+3. Imaging Studies 4. Endoscopic Evaluation
 
-¢ Abdominal Ultrasound
+¢ Abdominal Ultrasound ¢ Colonoscopy (Gold standard for colonic
 ¢ Abdominal X-ray sources)
 
-* CT Angiography (active bleeding) * lleoscopy via colonoscopy (terminal
-* Meckel Scan (ectopic gastric mucosa) ileum)
-
-4. Endoscopic Evaluation
-
-¢ Colonoscopy (Gold standard for colonic
+* CT Angiography (active bleeding) ٠ lleoscopy via colonoscopy (terminal
+٠ Meckel Scan (ectopic gastric mucosa) ileum)
 
 ---
 
 
 > [Image OCR]: Choosing Advanced Diagnostic Tools
 
-Advanced Imaging
-
-“
-
-Capsule Endoscopy
-Used for obscure GI
-
-Angiography
-
-Considered for ongoing
-bleeding when upper severe bleeding when the
-endoscopy and source is difficult to
-colonoscopy are localize.
-
-negative.
-
-_ bowel disease, polyps, or
-
 Pathology & Patient Assessment
-
-Tissue Biopsy
-Indicated if inflammatory
 
 Hemodynamic
 Monitoring
 Used to assess clinical
-other pathology is severity in cases of
 
-suspected. significant blood loss.
+severity in cases of
+significant blood loss.
 
-A) NotebookLM
+‎NotebookLM‏ م
+
+‎Advanced Imaging
+
+‎Tissue Biopsy
+
+‎Indicated if inflammatory
+
+‎_ bowel disease, polyps, or
+
+‎other pathology is
+suspected.
+
+‎Angiography
+
+‎Considered for ongoing
+severe bleeding when the
+source is difficult to
+localize.
+
+‎“
+
+‎Capsule Endoscopy
+
+‎Used for obscure Gl
+bleeding when upper
+endoscopy and
+colonoscopy are
+negative.
 
 ---
 
 
 > [Image OCR]: Management Phase 1: Immediate Stabilization
 
-FIRST PRIORITY: ASSESS & STABILIZE
-
-1. Assess ABCs
-
-Ensure airway,
-breathing, and
-circulation.
-
-+>
-
-wu
-
-Vital signs, mental
-status, urine output,
-ongoing blood loss.
-
-NS g)
-
-XM
-
-Give isotonic fluids
-for resuscitation.
-
-11020
-ee
+ف
+ا
 
 Order CBC, type &
 crossmatch, coagulation
 profile, electrolytes
 immediately.
 
-Sp
+‎NotebookLM‏ م
 
-iss [7]
+‎FIRST PRIORITY: ASSESS & STABILIZE
 
-Admit for observation, monitor vitals regularly, and maintain NPO if bleeding is significant.
+‎Give isotonic fluids
+for resuscitation.
 
-General Clinical Measures
+‎XM
 
-Strict input/output charting.
+‎wu
 
-A) NotebookLM
+‎Vital signs, mental
+status, urine output,
+ongoing blood loss.
+
+‎General Clinical Measures
+
+‎Strict input/output charting.
+
+‎NS ‏ز‎
+
+‏هجا
+
+‎Admit for observation, monitor vitals regularly, and maintain NPO if bleeding is significant.
+
+‎1. Assess ABCs
+
+‎Ensure airway,
+breathing, and
+circulation.
+
+‏ب
+
+‎Sp
+
+‎=
 
 ---
 
 
-> [Image OCR]: Medical Therapy
-
-Empiric Therapy:
-¢ IV proton pump inhibitor (if upper GI
-source not excluded). Avoid NSAIDs.
-
-Disease-Specific Therapy:
-¢ Tailor to cause.
-
-e Antibiotics (infectious colitis),
-5-ASA/corticosteroids (IBD), eliminate
-offending protein (allergic colitis),
-stool softeners (fissures).
-
-Management Phase 2: Medical Therapy & Transfusion
+> [Image OCR]: Management Phase 2: Medical Therapy & Transfusion
 
 | Blood Product 10-15 ms
 " Transfusion
@@ -602,7 +630,21 @@ Blood Cells (PRBCs).
 Note:
 e Reassess after each transfusion.
 
-A) NotebookLM
+‎NotebookLM‏ م
+
+‎Medical Therapy
+
+‎Empiric Therapy:
+¢ IV proton pump inhibitor (if upper GI
+source not excluded). Avoid NSAIDs.
+
+‎Disease-Specific Therapy:
+¢ Tailor to cause.
+
+‎e Antibiotics (infectious colitis),
+5-ASA/corticosteroids (IBD), eliminate
+offending protein (allergic colitis),
+stool softeners (fissures).
 
 ---
 
@@ -617,10 +659,9 @@ source is identified.
 
 Surgical / Interventional Escalation
 C0 => Indications: Failed medical therapy, hemodynamically unstable
-— = bleeding, identifiable surgical lesions (Meckel’s, polyps).
-we (ys) .
-i F a Options: Surgical resection, segmental colectomy,
-Failed Hemodynamically Identifiable 4 P as
+2 ts is bleeding, identifiable surgical lesions (Meckel’s, polyps).
+8 5. , Options: Surgical resection, segmental colectomy,
+Failed Hemodynamically Identifiable 4 28 as
 medical unstable surgical lesions  @Ngiographic embolization.
 
 Supportive Care & Prevention
@@ -628,7 +669,7 @@ ity (=) Maintain adequate hydration/diet. Address anemia (iron supplementation).
 Cy Educate caregivers on warning signs (worsening bleeding, dizziness, pallor).
 ay
 
-A) NotebookLM
+‎NotebookLM‏ م
 
 ---
 
