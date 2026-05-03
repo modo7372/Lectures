@@ -4,356 +4,633 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Extracted Content Dashboard</title>
+    <title>Medical Lectures Dashboard</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f4f7f6; color: #333; margin: 0; padding: 20px; }
-        .container { max-width: 1000px; margin: auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); }
-        h1 { color: #2c3e50; text-align: center; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
-        .section { margin-top: 30px; }
-        h2 { color: #3498db; border-left: 5px solid #3498db; padding-left: 10px; }
-        .file-list { list-style: none; padding: 0; }
-        .file-item { display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 1px solid #eee; transition: background 0.2s; }
-        .file-item:hover { background: #f9f9f9; }
-        .file-name { font-weight: 500; flex-grow: 1; }
-        .links { display: flex; gap: 15px; }
-        .links a { text-decoration: none; color: #3498db; font-size: 0.9em; border: 1px solid #3498db; padding: 3px 10px; border-radius: 4px; }
-        .links a:hover { background: #3498db; color: white; }
-        .badge { background: #eee; padding: 2px 8px; border-radius: 10px; font-size: 0.8em; color: #666; }
+        :root {
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #1e293b;
+            --text-sub: #64748b;
+            --accent: #3b82f6;
+            --border: #e2e8f0;
+            --hover: #f1f5f9;
+        }
+
+        [data-theme="dark"] {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-main: #f1f5f9;
+            --text-sub: #94a3b8;
+            --accent: #60a5fa;
+            --border: #334155;
+            --hover: #334155;
+        }
+
+        body { font-family: 'Inter', system-ui, -apple-system, sans-serif; background: var(--bg-color); color: var(--text-main); margin: 0; padding: 20px; transition: all 0.3s ease; }
+        .container { max-width: 1200px; margin: auto; }
+        
+        .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; }
+        .theme-toggle { cursor: pointer; padding: 8px 16px; border-radius: 20px; border: 1px solid var(--border); background: var(--card-bg); color: var(--text-main); font-weight: 500; }
+        
+        .search-container { margin-bottom: 20px; position: relative; }
+        #searchInput { width: 100%; padding: 12px 20px; border-radius: 10px; border: 1px solid var(--border); background: var(--card-bg); color: var(--text-main); box-sizing: border-box; font-size: 16px; }
+
+        .category-section { margin-bottom: 40px; background: var(--card-bg); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
+        .category-header { background: var(--hover); padding: 15px 20px; border-bottom: 1px solid var(--border); font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.05em; }
+        
+        .file-row { display: grid; grid-template-columns: 1fr auto; align-items: center; padding: 15px 20px; border-bottom: 1px solid var(--border); transition: background 0.2s; }
+        .file-row:last-child { border-bottom: none; }
+        .file-row:hover { background: var(--hover); }
+        
+        .file-info { display: flex; flex-direction: column; gap: 4px; }
+        .file-name { font-weight: 600; font-size: 15px; }
+        
+        .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+        .btn { text-decoration: none; font-size: 12px; padding: 6px 12px; border-radius: 6px; border: 1px solid var(--border); background: var(--bg-color); color: var(--text-main); font-weight: 600; cursor: pointer; transition: all 0.2s; }
+        .btn:hover { background: var(--accent); color: white; border-color: var(--accent); }
+        .btn-copy { background: #10b98120; color: #059669; border-color: #10b98140; }
+        .btn-copy:hover { background: #10b981; }
+
+        @media (max-width: 768px) {
+            .file-row { grid-template-columns: 1fr; gap: 15px; }
+            .actions { justify-content: flex-start; }
+        }
     </style>
 </head>
-<body>
+<body data-theme="light">
     <div class="container">
-        <h1>Extracted Content Dashboard</h1>
-    <div class="section"><h2>PDF Files</h2><ul class="file-list">
-                <li class="file-item">
-                    <span class="file-name">Biliary_System_Lecture</span>
-                    <div class="links">
-                        <a href="PDF/Biliary_System_Lecture.md" target="_blank">View Markdown</a>
-                        <a href="PDF/Biliary_System_Lecture.txt" target="_blank">View Text</a>
+        <div class="header">
+            <h1>📚 Medical Lectures Library</h1>
+            <button class="theme-toggle" onclick="toggleTheme()">🌓 Switch Theme</button>
+        </div>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search for a lecture title..." onkeyup="filterFiles()">
+        </div>
+
+        <div id="dashboardContent">
+    
+        <div class="category-section" data-category="PDF">
+            <div class="category-header">PDF EXTRACTIONS</div>
+            <div class="file-list">
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Biliary_System_Lecture</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">GERD - Student Azhar last1</span>
-                    <div class="links">
-                        <a href="PDF/GERD - Student Azhar last1.md" target="_blank">View Markdown</a>
-                        <a href="PDF/GERD - Student Azhar last1.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/Biliary_System_Lecture.txt')">📋 Copy</button>
+                        <a href="PDF/Biliary_System_Lecture.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/Biliary_System_Lecture.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/Biliary_System_Lecture.txt', 'Biliary_System_Lecture')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/Biliary_System_Lecture.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">GERD</span>
-                    <div class="links">
-                        <a href="PDF/GERD.md" target="_blank">View Markdown</a>
-                        <a href="PDF/GERD.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">GERD - Student Azhar last1</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">GIT_Bleeding_Lecture</span>
-                    <div class="links">
-                        <a href="PDF/GIT_Bleeding_Lecture.md" target="_blank">View Markdown</a>
-                        <a href="PDF/GIT_Bleeding_Lecture.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/GERD - Student Azhar last1.txt')">📋 Copy</button>
+                        <a href="PDF/GERD - Student Azhar last1.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/GERD - Student Azhar last1.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/GERD - Student Azhar last1.txt', 'GERD - Student Azhar last1')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/GERD - Student Azhar last1.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">GUT motility disorders </span>
-                    <div class="links">
-                        <a href="PDF/GUT motility disorders .md" target="_blank">View Markdown</a>
-                        <a href="PDF/GUT motility disorders .txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">GERD</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">IBD</span>
-                    <div class="links">
-                        <a href="PDF/IBD.md" target="_blank">View Markdown</a>
-                        <a href="PDF/IBD.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/GERD.txt')">📋 Copy</button>
+                        <a href="PDF/GERD.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/GERD.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/GERD.txt', 'GERD')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/GERD.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Mesentric ischemia+ MCQs</span>
-                    <div class="links">
-                        <a href="PDF/Mesentric ischemia+ MCQs.md" target="_blank">View Markdown</a>
-                        <a href="PDF/Mesentric ischemia+ MCQs.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">GIT_Bleeding_Lecture</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Nausea_and_Vomiting[1]</span>
-                    <div class="links">
-                        <a href="PDF/Nausea_and_Vomiting[1].md" target="_blank">View Markdown</a>
-                        <a href="PDF/Nausea_and_Vomiting[1].txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/GIT_Bleeding_Lecture.txt')">📋 Copy</button>
+                        <a href="PDF/GIT_Bleeding_Lecture.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/GIT_Bleeding_Lecture.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/GIT_Bleeding_Lecture.txt', 'GIT_Bleeding_Lecture')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/GIT_Bleeding_Lecture.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Pancreatitis</span>
-                    <div class="links">
-                        <a href="PDF/Pancreatitis.md" target="_blank">View Markdown</a>
-                        <a href="PDF/Pancreatitis.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">GUT motility disorders </span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Peptic_Ulcer_Disease[1]</span>
-                    <div class="links">
-                        <a href="PDF/Peptic_Ulcer_Disease[1].md" target="_blank">View Markdown</a>
-                        <a href="PDF/Peptic_Ulcer_Disease[1].txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/GUT motility disorders .txt')">📋 Copy</button>
+                        <a href="PDF/GUT motility disorders .md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/GUT motility disorders .txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/GUT motility disorders .txt', 'GUT motility disorders ')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/GUT motility disorders .md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">UC</span>
-                    <div class="links">
-                        <a href="PDF/UC.md" target="_blank">View Markdown</a>
-                        <a href="PDF/UC.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">IBD</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Vascular disease of the liver</span>
-                    <div class="links">
-                        <a href="PDF/Vascular disease of the liver.md" target="_blank">View Markdown</a>
-                        <a href="PDF/Vascular disease of the liver.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/IBD.txt')">📋 Copy</button>
+                        <a href="PDF/IBD.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/IBD.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/IBD.txt', 'IBD')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/IBD.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Vascular diseases of liver</span>
-                    <div class="links">
-                        <a href="PDF/Vascular diseases of liver.md" target="_blank">View Markdown</a>
-                        <a href="PDF/Vascular diseases of liver.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Mesentric ischemia+ MCQs</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">diverticular disease</span>
-                    <div class="links">
-                        <a href="PDF/diverticular disease.md" target="_blank">View Markdown</a>
-                        <a href="PDF/diverticular disease.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/Mesentric ischemia+ MCQs.txt')">📋 Copy</button>
+                        <a href="PDF/Mesentric ischemia+ MCQs.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/Mesentric ischemia+ MCQs.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/Mesentric ischemia+ MCQs.txt', 'Mesentric ischemia+ MCQs')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/Mesentric ischemia+ MCQs.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">non-infectious hepatitis.pdf</span>
-                    <div class="links">
-                        <a href="PDF/non-infectious hepatitis.pdf.md" target="_blank">View Markdown</a>
-                        <a href="PDF/non-infectious hepatitis.pdf.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Nausea_and_Vomiting[1]</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">الرُتوج</span>
-                    <div class="links">
-                        <a href="PDF/الرُتوج.md" target="_blank">View Markdown</a>
-                        <a href="PDF/الرُتوج.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/Nausea_and_Vomiting[1].txt')">📋 Copy</button>
+                        <a href="PDF/Nausea_and_Vomiting[1].md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/Nausea_and_Vomiting[1].txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/Nausea_and_Vomiting[1].txt', 'Nausea_and_Vomiting[1]')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/Nausea_and_Vomiting[1].md')">🖨️ PDF</button>
                     </div>
-                </li>
-            </ul></div><div class="section"><h2>DOCX Files</h2><ul class="file-list">
-                <li class="file-item">
-                    <span class="file-name">ACC</span>
-                    <div class="links">
-                        <a href="DOCX/ACC.md" target="_blank">View Markdown</a>
-                        <a href="DOCX/ACC.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Pancreatitis</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Pancreatitis</span>
-                    <div class="links">
-                        <a href="DOCX/Pancreatitis.md" target="_blank">View Markdown</a>
-                        <a href="DOCX/Pancreatitis.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/Pancreatitis.txt')">📋 Copy</button>
+                        <a href="PDF/Pancreatitis.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/Pancreatitis.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/Pancreatitis.txt', 'Pancreatitis')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/Pancreatitis.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            </ul></div><div class="section"><h2>PPTX Files</h2><ul class="file-list">
-                <li class="file-item">
-                    <span class="file-name">ACC</span>
-                    <div class="links">
-                        <a href="PPTX/ACC.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/ACC.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Peptic_Ulcer_Disease[1]</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired]</span>
-                    <div class="links">
-                        <a href="PPTX/Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired].md" target="_blank">View Markdown</a>
-                        <a href="PPTX/Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired].txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/Peptic_Ulcer_Disease[1].txt')">📋 Copy</button>
+                        <a href="PDF/Peptic_Ulcer_Disease[1].md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/Peptic_Ulcer_Disease[1].txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/Peptic_Ulcer_Disease[1].txt', 'Peptic_Ulcer_Disease[1]')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/Peptic_Ulcer_Disease[1].md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">GI Motility 2026 (1)</span>
-                    <div class="links">
-                        <a href="PPTX/GI Motility 2026 (1).md" target="_blank">View Markdown</a>
-                        <a href="PPTX/GI Motility 2026 (1).txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">UC</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Jaundice</span>
-                    <div class="links">
-                        <a href="PPTX/Jaundice.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/Jaundice.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/UC.txt')">📋 Copy</button>
+                        <a href="PDF/UC.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/UC.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/UC.txt', 'UC')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/UC.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">PORTAL HYPERTENSION FINAL</span>
-                    <div class="links">
-                        <a href="PPTX/PORTAL HYPERTENSION FINAL.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/PORTAL HYPERTENSION FINAL.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Vascular disease of the liver</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Pancreatitis</span>
-                    <div class="links">
-                        <a href="PPTX/Pancreatitis.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/Pancreatitis.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/Vascular disease of the liver.txt')">📋 Copy</button>
+                        <a href="PDF/Vascular disease of the liver.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/Vascular disease of the liver.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/Vascular disease of the liver.txt', 'Vascular disease of the liver')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/Vascular disease of the liver.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Pediatric_Lower_GI_Bleeding_Playbook</span>
-                    <div class="links">
-                        <a href="PPTX/Pediatric_Lower_GI_Bleeding_Playbook.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/Pediatric_Lower_GI_Bleeding_Playbook.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Vascular diseases of liver</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Pediatric_Upper_GI_Bleeding_(2)</span>
-                    <div class="links">
-                        <a href="PPTX/Pediatric_Upper_GI_Bleeding_(2).md" target="_blank">View Markdown</a>
-                        <a href="PPTX/Pediatric_Upper_GI_Bleeding_(2).txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/Vascular diseases of liver.txt')">📋 Copy</button>
+                        <a href="PDF/Vascular diseases of liver.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/Vascular diseases of liver.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/Vascular diseases of liver.txt', 'Vascular diseases of liver')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/Vascular diseases of liver.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Peptic_Ulcer_Disease_Ahmed_Farag</span>
-                    <div class="links">
-                        <a href="PPTX/Peptic_Ulcer_Disease_Ahmed_Farag.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/Peptic_Ulcer_Disease_Ahmed_Farag.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">diverticular disease</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Ulcerative colitis</span>
-                    <div class="links">
-                        <a href="PPTX/Ulcerative colitis.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/Ulcerative colitis.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/diverticular disease.txt')">📋 Copy</button>
+                        <a href="PDF/diverticular disease.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/diverticular disease.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/diverticular disease.txt', 'diverticular disease')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/diverticular disease.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">cancer esophagus stomach colon [Autosaved]</span>
-                    <div class="links">
-                        <a href="PPTX/cancer esophagus stomach colon [Autosaved].md" target="_blank">View Markdown</a>
-                        <a href="PPTX/cancer esophagus stomach colon [Autosaved].txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">non-infectious hepatitis.pdf</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">congenital GIT anomalies</span>
-                    <div class="links">
-                        <a href="PPTX/congenital GIT anomalies.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/congenital GIT anomalies.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/non-infectious hepatitis.pdf.txt')">📋 Copy</button>
+                        <a href="PDF/non-infectious hepatitis.pdf.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/non-infectious hepatitis.pdf.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/non-infectious hepatitis.pdf.txt', 'non-infectious hepatitis.pdf')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/non-infectious hepatitis.pdf.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">dysphagia 2</span>
-                    <div class="links">
-                        <a href="PPTX/dysphagia 2.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/dysphagia 2.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">الرُتوج</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">mesenteric ischemia</span>
-                    <div class="links">
-                        <a href="PPTX/mesenteric ischemia.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/mesenteric ischemia.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PDF/الرُتوج.txt')">📋 Copy</button>
+                        <a href="PDF/الرُتوج.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PDF/الرُتوج.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PDF/الرُتوج.txt', 'الرُتوج')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PDF/الرُتوج.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">odynophagia</span>
-                    <div class="links">
-                        <a href="PPTX/odynophagia.md" target="_blank">View Markdown</a>
-                        <a href="PPTX/odynophagia.txt" target="_blank">View Text</a>
+                </div></div></div>
+        <div class="category-section" data-category="DOCX">
+            <div class="category-header">DOCX EXTRACTIONS</div>
+            <div class="file-list">
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">ACC</span>
                     </div>
-                </li>
-            </ul></div><div class="section"><h2>PPT Files</h2><ul class="file-list">
-                <li class="file-item">
-                    <span class="file-name">IBD new</span>
-                    <div class="links">
-                        <a href="PPT/IBD new.md" target="_blank">View Markdown</a>
-                        <a href="PPT/IBD new.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('DOCX/ACC.txt')">📋 Copy</button>
+                        <a href="DOCX/ACC.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="DOCX/ACC.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('DOCX/ACC.txt', 'ACC')">📦 Word</button>
+                        <button class="btn" onclick="printFile('DOCX/ACC.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">IBD</span>
-                    <div class="links">
-                        <a href="PPT/IBD.md" target="_blank">View Markdown</a>
-                        <a href="PPT/IBD.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Pancreatitis</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Nausea and vomiting</span>
-                    <div class="links">
-                        <a href="PPT/Nausea and vomiting.md" target="_blank">View Markdown</a>
-                        <a href="PPT/Nausea and vomiting.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('DOCX/Pancreatitis.txt')">📋 Copy</button>
+                        <a href="DOCX/Pancreatitis.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="DOCX/Pancreatitis.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('DOCX/Pancreatitis.txt', 'Pancreatitis')">📦 Word</button>
+                        <button class="btn" onclick="printFile('DOCX/Pancreatitis.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">Peptic Ulcer Disease Complications & Management</span>
-                    <div class="links">
-                        <a href="PPT/Peptic Ulcer Disease Complications & Management.md" target="_blank">View Markdown</a>
-                        <a href="PPT/Peptic Ulcer Disease Complications & Management.txt" target="_blank">View Text</a>
+                </div></div></div>
+        <div class="category-section" data-category="PPTX">
+            <div class="category-header">PPTX EXTRACTIONS</div>
+            <div class="file-list">
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">ACC</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">complicationsofpud</span>
-                    <div class="links">
-                        <a href="PPT/complicationsofpud.md" target="_blank">View Markdown</a>
-                        <a href="PPT/complicationsofpud.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/ACC.txt')">📋 Copy</button>
+                        <a href="PPTX/ACC.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/ACC.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/ACC.txt', 'ACC')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/ACC.md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">gastric outlet obstruction</span>
-                    <div class="links">
-                        <a href="PPT/gastric outlet obstruction.md" target="_blank">View Markdown</a>
-                        <a href="PPT/gastric outlet obstruction.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired]</span>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">lower gi bleeding</span>
-                    <div class="links">
-                        <a href="PPT/lower gi bleeding.md" target="_blank">View Markdown</a>
-                        <a href="PPT/lower gi bleeding.txt" target="_blank">View Text</a>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired].txt')">📋 Copy</button>
+                        <a href="PPTX/Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired].md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired].txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired].txt', 'Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired]')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/Acute_and_Chronic_Vomiting_in_Pediatrics [Repaired].md')">🖨️ PDF</button>
                     </div>
-                </li>
-            
-                <li class="file-item">
-                    <span class="file-name">upper gi bleeding</span>
-                    <div class="links">
-                        <a href="PPT/upper gi bleeding.md" target="_blank">View Markdown</a>
-                        <a href="PPT/upper gi bleeding.txt" target="_blank">View Text</a>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">GI Motility 2026 (1)</span>
                     </div>
-                </li>
-            </ul></div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/GI Motility 2026 (1).txt')">📋 Copy</button>
+                        <a href="PPTX/GI Motility 2026 (1).md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/GI Motility 2026 (1).txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/GI Motility 2026 (1).txt', 'GI Motility 2026 (1)')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/GI Motility 2026 (1).md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Jaundice</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/Jaundice.txt')">📋 Copy</button>
+                        <a href="PPTX/Jaundice.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/Jaundice.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/Jaundice.txt', 'Jaundice')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/Jaundice.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">PORTAL HYPERTENSION FINAL</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/PORTAL HYPERTENSION FINAL.txt')">📋 Copy</button>
+                        <a href="PPTX/PORTAL HYPERTENSION FINAL.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/PORTAL HYPERTENSION FINAL.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/PORTAL HYPERTENSION FINAL.txt', 'PORTAL HYPERTENSION FINAL')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/PORTAL HYPERTENSION FINAL.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Pancreatitis</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/Pancreatitis.txt')">📋 Copy</button>
+                        <a href="PPTX/Pancreatitis.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/Pancreatitis.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/Pancreatitis.txt', 'Pancreatitis')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/Pancreatitis.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Pediatric_Lower_GI_Bleeding_Playbook</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/Pediatric_Lower_GI_Bleeding_Playbook.txt')">📋 Copy</button>
+                        <a href="PPTX/Pediatric_Lower_GI_Bleeding_Playbook.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/Pediatric_Lower_GI_Bleeding_Playbook.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/Pediatric_Lower_GI_Bleeding_Playbook.txt', 'Pediatric_Lower_GI_Bleeding_Playbook')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/Pediatric_Lower_GI_Bleeding_Playbook.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Pediatric_Upper_GI_Bleeding_(2)</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/Pediatric_Upper_GI_Bleeding_(2).txt')">📋 Copy</button>
+                        <a href="PPTX/Pediatric_Upper_GI_Bleeding_(2).md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/Pediatric_Upper_GI_Bleeding_(2).txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/Pediatric_Upper_GI_Bleeding_(2).txt', 'Pediatric_Upper_GI_Bleeding_(2)')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/Pediatric_Upper_GI_Bleeding_(2).md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Peptic_Ulcer_Disease_Ahmed_Farag</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/Peptic_Ulcer_Disease_Ahmed_Farag.txt')">📋 Copy</button>
+                        <a href="PPTX/Peptic_Ulcer_Disease_Ahmed_Farag.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/Peptic_Ulcer_Disease_Ahmed_Farag.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/Peptic_Ulcer_Disease_Ahmed_Farag.txt', 'Peptic_Ulcer_Disease_Ahmed_Farag')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/Peptic_Ulcer_Disease_Ahmed_Farag.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Ulcerative colitis</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/Ulcerative colitis.txt')">📋 Copy</button>
+                        <a href="PPTX/Ulcerative colitis.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/Ulcerative colitis.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/Ulcerative colitis.txt', 'Ulcerative colitis')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/Ulcerative colitis.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">cancer esophagus stomach colon [Autosaved]</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/cancer esophagus stomach colon [Autosaved].txt')">📋 Copy</button>
+                        <a href="PPTX/cancer esophagus stomach colon [Autosaved].md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/cancer esophagus stomach colon [Autosaved].txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/cancer esophagus stomach colon [Autosaved].txt', 'cancer esophagus stomach colon [Autosaved]')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/cancer esophagus stomach colon [Autosaved].md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">congenital GIT anomalies</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/congenital GIT anomalies.txt')">📋 Copy</button>
+                        <a href="PPTX/congenital GIT anomalies.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/congenital GIT anomalies.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/congenital GIT anomalies.txt', 'congenital GIT anomalies')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/congenital GIT anomalies.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">dysphagia 2</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/dysphagia 2.txt')">📋 Copy</button>
+                        <a href="PPTX/dysphagia 2.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/dysphagia 2.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/dysphagia 2.txt', 'dysphagia 2')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/dysphagia 2.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">mesenteric ischemia</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/mesenteric ischemia.txt')">📋 Copy</button>
+                        <a href="PPTX/mesenteric ischemia.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/mesenteric ischemia.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/mesenteric ischemia.txt', 'mesenteric ischemia')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/mesenteric ischemia.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">odynophagia</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPTX/odynophagia.txt')">📋 Copy</button>
+                        <a href="PPTX/odynophagia.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPTX/odynophagia.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPTX/odynophagia.txt', 'odynophagia')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPTX/odynophagia.md')">🖨️ PDF</button>
+                    </div>
+                </div></div></div>
+        <div class="category-section" data-category="PPT">
+            <div class="category-header">PPT EXTRACTIONS</div>
+            <div class="file-list">
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">IBD new</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPT/IBD new.txt')">📋 Copy</button>
+                        <a href="PPT/IBD new.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPT/IBD new.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPT/IBD new.txt', 'IBD new')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPT/IBD new.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">IBD</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPT/IBD.txt')">📋 Copy</button>
+                        <a href="PPT/IBD.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPT/IBD.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPT/IBD.txt', 'IBD')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPT/IBD.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Nausea and vomiting</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPT/Nausea and vomiting.txt')">📋 Copy</button>
+                        <a href="PPT/Nausea and vomiting.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPT/Nausea and vomiting.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPT/Nausea and vomiting.txt', 'Nausea and vomiting')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPT/Nausea and vomiting.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">Peptic Ulcer Disease Complications & Management</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPT/Peptic Ulcer Disease Complications & Management.txt')">📋 Copy</button>
+                        <a href="PPT/Peptic Ulcer Disease Complications & Management.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPT/Peptic Ulcer Disease Complications & Management.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPT/Peptic Ulcer Disease Complications & Management.txt', 'Peptic Ulcer Disease Complications & Management')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPT/Peptic Ulcer Disease Complications & Management.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">complicationsofpud</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPT/complicationsofpud.txt')">📋 Copy</button>
+                        <a href="PPT/complicationsofpud.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPT/complicationsofpud.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPT/complicationsofpud.txt', 'complicationsofpud')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPT/complicationsofpud.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">gastric outlet obstruction</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPT/gastric outlet obstruction.txt')">📋 Copy</button>
+                        <a href="PPT/gastric outlet obstruction.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPT/gastric outlet obstruction.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPT/gastric outlet obstruction.txt', 'gastric outlet obstruction')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPT/gastric outlet obstruction.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">lower gi bleeding</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPT/lower gi bleeding.txt')">📋 Copy</button>
+                        <a href="PPT/lower gi bleeding.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPT/lower gi bleeding.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPT/lower gi bleeding.txt', 'lower gi bleeding')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPT/lower gi bleeding.md')">🖨️ PDF</button>
+                    </div>
+                </div>
+                <div class="file-row">
+                    <div class="file-info">
+                        <span class="file-name">upper gi bleeding</span>
+                    </div>
+                    <div class="actions">
+                        <button class="btn btn-copy" onclick="copyToClipboard('PPT/upper gi bleeding.txt')">📋 Copy</button>
+                        <a href="PPT/upper gi bleeding.md" class="btn" target="_blank">📄 MD</a>
+                        <a href="PPT/upper gi bleeding.txt" class="btn" download>📝 TXT</a>
+                        <button class="btn" onclick="downloadAsDoc('PPT/upper gi bleeding.txt', 'upper gi bleeding')">📦 Word</button>
+                        <button class="btn" onclick="printFile('PPT/upper gi bleeding.md')">🖨️ PDF</button>
+                    </div>
+                </div></div></div>
+        </div>
     </div>
+
+    <script>
+        function toggleTheme() {
+            const body = document.body;
+            const current = body.getAttribute('data-theme');
+            body.setAttribute('data-theme', current === 'light' ? 'dark' : 'light');
+        }
+
+        function filterFiles() {
+            const input = document.getElementById('searchInput');
+            const filter = input.value.toUpperCase();
+            const rows = document.getElementsByClassName('file-row');
+            
+            for (let i = 0; i < rows.size; i++) {
+                // Implementation below
+            }
+            // Simplified filter logic
+            Array.from(rows).forEach(row => {
+                const name = row.querySelector('.file-name').textContent;
+                row.style.display = name.toUpperCase().includes(filter) ? "" : "none";
+            });
+            
+            // Hide empty categories
+            Array.from(document.getElementsByClassName('category-section')).forEach(sec => {
+                const visibleRows = Array.from(sec.getElementsByClassName('file-row')).filter(r => r.style.display !== 'none');
+                sec.style.display = visibleRows.length > 0 ? "" : "none";
+            });
+        }
+
+        async function copyToClipboard(url) {
+            try {
+                const response = await fetch(url);
+                const text = await response.text();
+                await navigator.clipboard.writeText(text);
+                alert('Content copied to clipboard!');
+            } catch (err) {
+                alert('Failed to copy text.');
+            }
+        }
+
+        function downloadAsDoc(url, filename) {
+            fetch(url).then(r => r.text()).then(text => {
+                const blob = new Blob(['\ufeff', text], { type: 'application/msword' });
+                const link = document.createElement('a');
+                link.href = URL.createObjectURL(blob);
+                link.download = filename + '.doc';
+                link.click();
+            });
+        }
+
+        function printFile(url) {
+            const win = window.open(url, '_blank');
+            win.onload = function() { win.print(); };
+        }
+    </script>
 </body>
 </html>
     
